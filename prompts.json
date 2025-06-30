@@ -1,0 +1,2797 @@
+[
+    {
+        "id": 1,
+        "title": "Instagram Post voor Productlancering",
+        "prompt": "Schrijf een boeiende social media post voor Instagram over onze nieuwe productlancering. Focus op de voordelen voor de klant en gebruik relevante hashtags.",
+        "tags": [
+            "Marketing",
+            "Marketeer",
+            "Social Media",
+            "Tekst Schrijven2"
+        ],
+        "role": "Online Marketeer",
+        "tasks": [
+            "Contentcreatie",
+            "Social media management",
+            "Productpromotie"
+        ],
+        "use_case": "Bij de introductie van een nieuw product wil de marketeer een aantrekkelijke Instagram-post publiceren om direct aandacht te genereren.",
+        "context_keywords": [
+            "Instagram",
+            "productlancering",
+            "klantvoordelen",
+            "hashtags",
+            "social media post"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "E-mailreeks voor Webinar Promotie",
+        "prompt": "Creëer een e-mailcampagne van 3 e-mails om een nieuwe webinar te promoten. De eerste is een aankondiging, de tweede een herinnering met \"early bird\" korting, en de derde een \"laatste kans\" e-mail.",
+        "tags": [
+            "Marketing",
+            "Marketeer",
+            "Communicatie & E-mail",
+            "E-mail Campagne"
+        ],
+        "role": "E-mail Marketeer",
+        "tasks": [
+            "E-mailmarketing",
+            "Campagnes opzetten",
+            "Contentcreatie voor e-mails"
+        ],
+        "use_case": "Een marketeer moet een webinar promoten en wil een geautomatiseerde e-mailreeks opzetten om inschrijvingen te maximaliseren.",
+        "context_keywords": [
+            "e-mailcampagne",
+            "webinar",
+            "promotie",
+            "aankondiging",
+            "early bird",
+            "korting",
+            "laatste kans"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Follow-up na Demo",
+        "prompt": "Schrijf een beknopte en effectieve follow-up e-mail voor een potentiële klant die een demo heeft gehad maar nog niet heeft gereageerd.",
+        "tags": [
+            "Sales",
+            "Sales Professional",
+            "Communicatie & E-mail",
+            "Follow-up"
+        ],
+        "role": "Sales Professional",
+        "tasks": [
+            "Lead nurturing",
+            "Klantcommunicatie",
+            "Opvolgen van demo's"
+        ],
+        "use_case": "Na een productdemonstratie is het cruciaal om contact te houden met de potentiële klant om de deal te sluiten. Deze prompt helpt bij het opstellen van een effectieve follow-up.",
+        "context_keywords": [
+            "follow-up",
+            "e-mail",
+            "potentiële klant",
+            "demo",
+            "sales"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Telefoonscript voor Koude Acquisitie",
+        "prompt": "Ontwikkel een script voor een koud telefoongesprek. Het doel is om een afspraak te maken voor een productdemonstratie. Focus op een sterke opening die de aandacht trekt.",
+        "tags": [
+            "Sales",
+            "Sales Professional",
+            "Planning & Organisatie",
+            "Script"
+        ],
+        "role": "Sales Development Representative",
+        "tasks": [
+            "Koude acquisitie",
+            "Afspraken inplannen",
+            "Scripts ontwikkelen"
+        ],
+        "use_case": "Een salesmedewerker moet proactief potentiële klanten benaderen en heeft een effectief script nodig om een afspraak voor een demo te maken.",
+        "context_keywords": [
+            "telefoonscript",
+            "koude acquisitie",
+            "afspraak maken",
+            "productdemonstratie",
+            "gespreksopening"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Wervende Vacaturetekst Opstellen",
+        "prompt": "Stel een wervende vacaturetekst op voor de functie van \"Senior Frontend Developer\". Benadruk onze bedrijfscultuur, de technische uitdagingen en de groeimogelijkheden.",
+        "tags": [
+            "Human Resources",
+            "HR Professional",
+            "Tekst Schrijven",
+            "Vacature"
+        ],
+        "role": "HR Professional",
+        "tasks": [
+            "Vacatureteksten schrijven",
+            "Werving en selectie",
+            "Employer branding"
+        ],
+        "use_case": "Een HR-medewerker moet een aantrekkelijke vacaturetekst schrijven om gekwalificeerde kandidaten aan te trekken voor een specifieke functie.",
+        "context_keywords": [
+            "vacaturetekst",
+            "wervend schrijven",
+            "senior frontend developer",
+            "bedrijfscultuur",
+            "groeimogelijkheden"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Gedragsgerichte Interviewvragen",
+        "prompt": "Genereer een lijst van 10 gedragsgerichte interviewvragen voor een sollicitant voor een managementpositie. Focus op leiderschap, teamwerk en probleemoplossing.",
+        "tags": [
+            "Human Resources",
+            "HR Professional",
+            "Planning & Organisatie",
+            "Interview"
+        ],
+        "role": "HR Manager",
+        "tasks": [
+            "Sollicitatiegesprekken voorbereiden",
+            "Competenties toetsen",
+            "Kandidaten selecteren"
+        ],
+        "use_case": "Voor een belangrijk interview met een kandidaat voor een managementfunctie wil een HR-manager specifieke, gedragsgerichte vragen om competenties te beoordelen.",
+        "context_keywords": [
+            "interviewvragen",
+            "gedragsgericht",
+            "managementpositie",
+            "leiderschap",
+            "teamwerk",
+            "probleemoplossing"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Reactie op Klacht over Vertraging",
+        "prompt": "Formuleer een empathisch en oplossingsgericht antwoord op een e-mail van een ontevreden klant wiens bestelling vertraagd is.",
+        "tags": [
+            "Customer Service",
+            "Customer Support",
+            "Communicatie & E-mail",
+            "Klachtenafhandeling"
+        ],
+        "role": "Customer Support Medewerker",
+        "tasks": [
+            "Klachtenafhandeling",
+            "Klantcommunicatie",
+            "Probleemoplossing"
+        ],
+        "use_case": "Een klant is ontevreden over een vertraagde bestelling. De supportmedewerker moet snel en adequaat reageren om de klanttevredenheid te herstellen.",
+        "context_keywords": [
+            "klacht",
+            "vertraging",
+            "empathie",
+            "oplossing",
+            "klantenservice",
+            "e-mail"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Genereer een Python Functie",
+        "prompt": "Schrijf een Python functie genaamd `validate_email` die een e-mailadres (string) als input neemt. De functie moet `True` retourneren als het e-mailadres een geldig formaat heeft en `False` als dat niet het geval is. Voeg type hinting en een duidelijke docstring toe.",
+        "tags": [
+            "Engineering",
+            "Developer",
+            "Code Generatie",
+            "Python"
+        ],
+        "role": "Python Developer",
+        "tasks": [
+            "Code schrijven",
+            "Data valideren",
+            "Functies ontwikkelen"
+        ],
+        "use_case": "Een ontwikkelaar heeft een herbruikbare functie nodig om snel en betrouwbaar te controleren of een door een gebruiker ingevoerd e-mailadres een correct formaat heeft.",
+        "context_keywords": [
+            "Python",
+            "functie",
+            "e-mail validatie",
+            "docstring",
+            "type hinting",
+            "code generatie"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Blog Post Outline (SEO-gericht)",
+        "prompt": "Creëer een gedetailleerde, SEO-geoptimaliseerde outline voor een blog post met de titel \"De ultieme gids voor [onderwerp]\". De outline moet een H1-titel, meerdere H2-secties met beschrijvende subkoppen, en suggesties voor H3-subpunten bevatten. Geef ook 5 suggesties voor LSI-zoekwoorden (Latent Semantic Indexing) die in de tekst verwerkt kunnen worden.",
+        "tags": [
+            "Marketing",
+            "Marketeer",
+            "Tekst Schrijven",
+            "Content Creatie",
+            "SEO"
+        ],
+        "role": "Content Marketeer",
+        "tasks": [
+            "Contentstrategie",
+            "SEO-optimalisatie",
+            "Bloggen"
+        ],
+        "use_case": "Voor het schrijven van een nieuwe blog post, wil een content marketeer eerst een gestructureerde en SEO-vriendelijke outline opstellen om de vindbaarheid en leesbaarheid te maximaliseren.",
+        "context_keywords": [
+            "SEO",
+            "blog post",
+            "outline",
+            "H1",
+            "H2",
+            "LSI-zoekwoorden",
+            "content creatie"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Complexe SQL Query Schrijven",
+        "prompt": "Schrijf een SQL query die de top 5 best verkopende producten van het afgelopen kwartaal ophaalt. De query moet de tabellen `products`, `orders` en `order_items` joinen. De output moet de productnaam (`products.name`) en de totale omzet per product (`SUM(order_items.quantity * order_items.price)`) bevatten, gesorteerd van hoog naar laag.",
+        "tags": [
+            "Engineering",
+            "Data Analyst",
+            "Database",
+            "SQL",
+            "Data Analyse"
+        ],
+        "role": "Data Analyst",
+        "tasks": [
+            "Data-analyse",
+            "Rapportages bouwen",
+            "Query's schrijven"
+        ],
+        "use_case": "Een data-analist moet voor een kwartaalrapportage de best presterende producten identificeren door data uit meerdere tabellen te combineren en te aggregeren.",
+        "context_keywords": [
+            "SQL",
+            "query",
+            "data-analyse",
+            "top 5",
+            "omzet",
+            "join",
+            "database"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Projectplan Opstellen",
+        "prompt": "Stel een high-level projectplan op voor de lancering van een [type project, bv. 'nieuwe mobiele app']. Het plan moet de volgende secties bevatten: Doelstellingen (SMART), Belangrijkste Mijlpalen, Risicoanalyse (3 potentiële risico's en mitigatiestrategieën), en een geschatte Tijdlijn (in fasen).",
+        "tags": [
+            "Executive Management",
+            "Project Manager",
+            "Planning & Organisatie",
+            "Project Management"
+        ],
+        "role": "Project Manager",
+        "tasks": [
+            "Projectplanning",
+            "Risicomanagement",
+            "Stakeholdermanagement"
+        ],
+        "use_case": "Aan de start van een nieuw project moet de projectmanager een overkoepelend plan opstellen om de doelen, mijlpalen, risico's en tijdlijn duidelijk te communiceren naar het team en stakeholders.",
+        "context_keywords": [
+            "projectplan",
+            "SMART-doelstellingen",
+            "mijlpalen",
+            "risicoanalyse",
+            "tijdlijn",
+            "projectmanagement"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Professionele E-mail Opstellen",
+        "prompt": "Schrijf een professionele en beleefde e-mail naar [ontvanger, bv. 'een potentiële klant'] waarin ik [doel van de e-mail, bv. 'een kennismakingsgesprek wil voorstellen om onze diensten te bespreken']. Zorg voor een duidelijke onderwerpregel, een korte introductie, en een concrete call-to-action.",
+        "tags": [
+            "Administrative",
+            "Algemeen",
+            "Communicatie & E-mail",
+            "Communicatie"
+        ],
+        "role": "Algemeen (elke professional)",
+        "tasks": [
+            "Zakelijke communicatie",
+            "Netwerken",
+            "Afspraken maken"
+        ],
+        "use_case": "Iedere professional moet soms een formele e-mail sturen naar een nieuwe contactpersoon om een voorstel te doen, informatie te vragen of een afspraak te plannen.",
+        "context_keywords": [
+            "professionele e-mail",
+            "zakelijk schrijven",
+            "kennismakingsgesprek",
+            "call-to-action",
+            "onderwerpregel"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Complexe Materie Vereenvoudigen",
+        "prompt": "Leg het concept van [complex wetenschappelijk concept, bv. 'Quantum Computing'] uit alsof je het uitlegt aan een 12-jarige. Gebruik een eenvoudige analogie en vermijd technisch jargon.",
+        "tags": [
+            "Student",
+            "Samenvatten & Vereenvoudigen",
+            "Educatie"
+        ],
+        "role": "Student / Docent / Kenniswerker",
+        "tasks": [
+            "Concepten begrijpen",
+            "Kennis overdragen",
+            "Vereenvoudigen"
+        ],
+        "use_case": "Een student of docent wil een complex onderwerp op een eenvoudige en begrijpelijke manier uitleggen aan een beginner of iemand buiten het vakgebied.",
+        "context_keywords": [
+            "vereenvoudigen",
+            "uitleg",
+            "analogie",
+            "jargon vermijden",
+            "educatie",
+            "concept"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "LinkedIn Content Kalender",
+        "prompt": "Genereer een content kalender voor LinkedIn voor één week (5 werkdagen) voor een bedrijf in de [jouw industrie] sector. Geef voor elke dag een ander type post (bijv. een poll, een project-showcase, een industienieuwtje, een 'achter de schermen'-post, een vraag aan het netwerk) inclusief een concepttekst en relevante hashtags.",
+        "tags": [
+            "Marketeer",
+            "Social Media",
+            "Content Planning",
+            "LinkedIn"
+        ],
+        "role": "Social Media Manager",
+        "tasks": [
+            "Contentplanning",
+            "Social media management",
+            "Community building"
+        ],
+        "use_case": "Een social media manager wil proactief en gestructureerd posten op LinkedIn en heeft een weekplanning nodig met diverse contentformats om de engagement te verhogen.",
+        "context_keywords": [
+            "content kalender",
+            "LinkedIn",
+            "social media",
+            "planning",
+            "hashtags",
+            "engagement"
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Een Error Uitleggen",
+        "prompt": "Ik krijg de volgende foutmelding in mijn [programmeertaal] code. Leg uit wat de meest waarschijnlijke oorzaken zijn van deze fout en geef drie concrete stappen die ik kan nemen om het probleem op te lossen.\n\nFoutmelding: [plak hier de foutmelding]",
+        "tags": [
+            "Developer",
+            "Debuggen & Testen",
+            "Probleemoplossing"
+        ],
+        "role": "Developer",
+        "tasks": [
+            "Debuggen",
+            "Probleemoplossing",
+            "Code-analyse"
+        ],
+        "use_case": "Wanneer een ontwikkelaar vastloopt op een specifieke foutmelding, kan deze prompt helpen om de oorzaak te begrijpen en een stappenplan voor de oplossing te krijgen.",
+        "context_keywords": [
+            "foutmelding",
+            "debuggen",
+            "programmeertaal",
+            "probleemoplossing",
+            "code"
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Brainstormen over Functies",
+        "prompt": "Fungeer als een ervaren Product Owner. Genereer 10 innovatieve feature-ideeën voor een [type applicatie, bv. 'maaltijdbezorg-app'] die de gebruikerservaring aanzienlijk zouden verbeteren en de app onderscheiden van de concurrentie. Geef bij elk idee een korte onderbouwing.",
+        "tags": [
+            "Product Owner",
+            "Brainstormen & Ideeën",
+            "Product Management"
+        ],
+        "role": "Product Owner",
+        "tasks": [
+            "Productontwikkeling",
+            "Ideeëngeneratie",
+            "Roadmap planning"
+        ],
+        "use_case": "Een product owner is op zoek naar nieuwe, innovatieve features om een applicatie te verbeteren en een concurrentievoordeel te behalen.",
+        "context_keywords": [
+            "brainstorm",
+            "features",
+            "product owner",
+            "innovatie",
+            "gebruikerservaring",
+            "concurrentie"
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Data Trends Analyseren",
+        "prompt": "Ik heb de volgende dataset met [beschrijving van data, bv. 'maandelijkse verkoopcijfers per regio']. Analyseer deze data en identificeer drie opmerkelijke trends of patronen. Geef per trend een mogelijke verklaring en een aanbeveling voor een vervolgactie.\n\n[Plak hier een voorbeeld van de data (CSV-formaat of beschrijving)]",
+        "tags": [
+            "Data Analyst",
+            "Analyse",
+            "Rapportage"
+        ],
+        "role": "Data Analyst / Business Analyst",
+        "tasks": [
+            "Data-analyse",
+            "Trendanalyse",
+            "Adviseren"
+        ],
+        "use_case": "Een analist heeft een dataset en moet hieruit de belangrijkste trends en patronen destilleren, deze interpreteren en concrete aanbevelingen doen voor het management.",
+        "context_keywords": [
+            "data-analyse",
+            "trends",
+            "patronen",
+            "dataset",
+            "aanbeveling",
+            "rapportage"
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Meeting Agenda Maken",
+        "prompt": "Stel een effectieve agenda op voor een 60-minuten durende wekelijkse project-update meeting. De agenda moet de volgende elementen bevatten: benodigde aanwezigen, doel van de meeting, agendapunten met geschatte tijdsduur, en ruimte voor actiepunten en vragen.",
+        "tags": [
+            "Project Manager",
+            "Planning & Organisatie",
+            "Vergadering"
+        ],
+        "role": "Project Manager",
+        "tasks": [
+            "Vergaderingen voorbereiden",
+            "Projectcoördinatie",
+            "Teammanagement"
+        ],
+        "use_case": "Om een wekelijkse projectmeeting efficiënt te laten verlopen, moet de projectmanager een duidelijke agenda opstellen die structuur geeft en zorgt dat alle belangrijke punten aan bod komen.",
+        "context_keywords": [
+            "agenda",
+            "vergadering",
+            "project-update",
+            "planning",
+            "actiepunten",
+            "efficiëntie"
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Onboarding E-mail Sequence",
+        "prompt": "Creëer een reeks van 3 e-mails voor de pre-boarding van een nieuwe medewerker. \n1. E-mail 1 (direct na tekenen contract): Welkomstboodschap en wat te verwachten.\n2. E-mail 2 (één week voor start): Praktische informatie (locatie, tijd, benodigdheden) en wie de buddy/manager is.\n3. E-mail 3 (dag voor start): Korte, enthousiaste herinnering.",
+        "tags": [
+            "HR Professional",
+            "Communicatie & E-mail",
+            "Onboarding"
+        ],
+        "role": "HR Professional",
+        "tasks": [
+            "Onboarding",
+            "Interne communicatie",
+            "Medewerkersbetrokkenheid"
+        ],
+        "use_case": "Een HR-professional wil een nieuwe medewerker een warm welkom geven en goed voorbereiden op de eerste werkdag door middel van een gestructureerde reeks e-mails.",
+        "context_keywords": [
+            "onboarding",
+            "pre-boarding",
+            "nieuwe medewerker",
+            "e-mailreeks",
+            "welkomstboodschap"
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Code Refactoren",
+        "prompt": "Analyseer de volgende [programmeertaal] code. Stel een refactoring voor die de leesbaarheid, efficiëntie en onderhoudbaarheid verbetert. Leg uit welke specifieke wijzigingen je zou doorvoeren en waarom (bijv. 'Magic numbers' vervangen door constanten, een lange functie opsplitsen, etc.).\n\n[Plak hier de code snippet]",
+        "tags": [
+            "Developer",
+            "Debuggen & Testen",
+            "Code Kwaliteit"
+        ],
+        "role": "Senior Developer / Tech Lead",
+        "tasks": [
+            "Code review",
+            "Refactoring",
+            "Kwaliteitsbewaking"
+        ],
+        "use_case": "Een ontwikkelaar wil bestaande code verbeteren om deze beter leesbaar, efficiënter en makkelijker te onderhouden te maken voor de toekomst.",
+        "context_keywords": [
+            "refactoring",
+            "code kwaliteit",
+            "leesbaarheid",
+            "efficiëntie",
+            "onderhoudbaarheid",
+            "code snippet"
+        ]
+    },
+    {
+        "id": 30,
+        "title": "A/B Test Ideeën voor een Landingspagina",
+        "prompt": "Genereer 5 A/B test ideeën om de conversieratio van een landingspagina voor [product/dienst] te verhogen. Beschrijf voor elke test de hypothese, de variabele die je wilt testen (bv. koptekst, call-to-action kleur, afbeelding), en de meetbare doelstelling (KPI).",
+        "tags": [
+            "Marketeer",
+            "Strategie & Advies",
+            "Conversie Optimalisatie",
+            "A/B Testen"
+        ],
+        "role": "CRO Specialist / Online Marketeer",
+        "tasks": [
+            "Conversie-optimalisatie (CRO)",
+            "A/B-testen opzetten",
+            "Hypotheses formuleren"
+        ],
+        "use_case": "Een marketeer wil de effectiviteit van een landingspagina verbeteren en heeft concrete, testbare ideeën nodig om de conversieratio te verhogen.",
+        "context_keywords": [
+            "A/B-test",
+            "conversieratio",
+            "landingspagina",
+            "optimalisatie",
+            "hypothese",
+            "KPI"
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Argumenten voor een Debat Voorbereiden",
+        "prompt": "Ik moet deelnemen aan een debat over de stelling: \"[Stelling, bv. 'Kunstmatige intelligentie is een grotere bedreiging dan een kans voor de mensheid']\". Genereer 3 sterke argumenten vóór de stelling en 3 sterke argumenten tegen de stelling. Onderbouw elk argument met een logische redenering of een voorbeeld.",
+        "tags": [
+            "Student",
+            "Analyse",
+            "Kritisch Denken",
+            "Debat"
+        ],
+        "role": "Student / Debater",
+        "tasks": [
+            "Argumentatie opbouwen",
+            "Onderzoek doen",
+            "Kritisch denken"
+        ],
+        "use_case": "Iemand bereidt zich voor op een debat en heeft een gebalanceerd overzicht nodig van sterke argumenten voor beide kanten van de stelling.",
+        "context_keywords": [
+            "debat",
+            "argumenten",
+            "stelling",
+            "kritisch denken",
+            "onderbouwing"
+        ]
+    },
+    {
+        "id": 32,
+        "title": "Presentatie Structuur Opzetten",
+        "prompt": "Creëer een structuur voor een 15-minuten durende presentatie over [onderwerp]. De structuur moet een pakkende opening, 3 hoofdpunten, en een krachtige afsluiting met een duidelijke boodschap of call-to-action bevatten. Geef per hoofd- en subpunt kernwoorden.",
+        "tags": [
+            "Algemeen",
+            "Planning & Organisatie",
+            "Presentatie"
+        ],
+        "role": "Algemeen (elke professional)",
+        "tasks": [
+            "Presentaties voorbereiden",
+            "Informatie structureren",
+            "Communiceren"
+        ],
+        "use_case": "Voor het geven van een presentatie heeft iemand een duidelijke en logische structuur nodig om de boodschap effectief over te brengen binnen een beperkte tijd.",
+        "context_keywords": [
+            "presentatie",
+            "structuur",
+            "opening",
+            "hoofdpunten",
+            "afsluiting",
+            "call-to-action"
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Suggesties voor Data Visualisatie",
+        "prompt": "Ik wil de relatie tussen [variabele A, bv. 'advertentiebudget'] en [variabele B, bv. 'websiteverkeer'] over tijd visualiseren. Welke 3 soorten grafieken zijn het meest geschikt hiervoor? Beschrijf de voor- en nadelen van elke grafiek voor dit specifieke doel.",
+        "tags": [
+            "Data Analyst",
+            "Data Visualisatie",
+            "Rapportage"
+        ],
+        "role": "Data Analyst",
+        "tasks": [
+            "Data visualiseren",
+            "Rapporteren",
+            "Adviseren over grafieken"
+        ],
+        "use_case": "Een analist heeft data en zoekt naar de meest effectieve manier om deze te visualiseren om inzichten helder te communiceren aan een publiek.",
+        "context_keywords": [
+            "data visualisatie",
+            "grafiek",
+            "rapportage",
+            "data-analyse",
+            "lijngrafiek",
+            "staafdiagram"
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Negatieve Feedback Email (Klantenservice)",
+        "prompt": "Schrijf een empathische en professionele reactie op een e-mail van een ontevreden klant die klaagt over [specifiek probleem, bv. 'een late levering']. De reactie moet de volgende elementen bevatten: erkenning van het probleem, een oprechte verontschuldiging, een voorgestelde oplossing of compensatie, en een verzekering dat er maatregelen worden genomen om herhaling te voorkomen.",
+        "tags": [
+            "Customer Support",
+            "Communicatie & E-mail",
+            "Klachtenafhandeling"
+        ],
+        "role": "Customer Support Medewerker",
+        "tasks": [
+            "Klachtenafhandeling",
+            "Klantcommunicatie",
+            "De-escalatie"
+        ],
+        "use_case": "Wanneer een klant een klacht indient, moet de supportmedewerker een zorgvuldig geformuleerde e-mail sturen om de situatie op te lossen en de klantrelatie te behouden.",
+        "context_keywords": [
+            "klantenservice",
+            "negatieve feedback",
+            "klacht",
+            "empathie",
+            "oplossing",
+            "compensatie"
+        ]
+    },
+    {
+        "id": 35,
+        "title": "API Endpoint Documentatie (Swagger/OpenAPI)",
+        "prompt": "Schrijf de documentatie voor een nieuw API endpoint in OpenAPI (Swagger) YAML-formaat. \n- Endpoint: `POST /users`\n- Beschrijving: Creëert een nieuwe gebruiker.\n- Request Body: JSON-object met `username` (string, required), `email` (string, required, email format), en `password` (string, required, min 8 chars).\n- Responses: `201 Created` met de user ID, `400 Bad Request` bij invalide input, `409 Conflict` als de e-mail al bestaat.",
+        "tags": [
+            "Developer",
+            "Documentatie",
+            "API",
+            "YAML"
+        ],
+        "role": "Backend Developer",
+        "tasks": [
+            "API-documentatie schrijven",
+            "Technische specificaties opstellen",
+            "Samenwerking faciliteren"
+        ],
+        "use_case": "Een ontwikkelaar heeft een nieuw API-endpoint gebouwd en moet duidelijke documentatie schrijven zodat andere ontwikkelaars (bv. frontend) weten hoe ze het moeten gebruiken.",
+        "context_keywords": [
+            "API",
+            "documentatie",
+            "OpenAPI",
+            "Swagger",
+            "YAML",
+            "endpoint",
+            "POST"
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Brainstorm Concurrentievoordelen",
+        "prompt": "Fungeer als een bedrijfsstrategieconsultant. Mijn bedrijf is een [type bedrijf, bv. 'kleine, ambachtelijke koffiebranderij'] in een markt met veel concurrentie. Identificeer 5 unieke concurrentievoordelen (Unique Selling Propositions) die we kunnen ontwikkelen en communiceren om ons te onderscheiden.",
+        "tags": [
+            "Business Owner",
+            "Strategie & Advies",
+            "Brainstormen & Ideeën"
+        ],
+        "role": "Ondernemer / Strateeg",
+        "tasks": [
+            "Strategieontwikkeling",
+            "Concurrentieanalyse",
+            "Positionering bepalen"
+        ],
+        "use_case": "Een ondernemer wil zijn bedrijf beter positioneren in een competitieve markt en zoekt naar unieke verkoopargumenten (USP's) om zich te onderscheiden.",
+        "context_keywords": [
+            "concurrentievoordeel",
+            "USP",
+            "strategie",
+            "positionering",
+            "brainstorm",
+            "marketing"
+        ]
+    },
+    {
+        "id": 37,
+        "title": "Genereer een CSS-animatie",
+        "prompt": "Schrijf de CSS-code voor een 'fade-in and slide-up' animatie voor een element wanneer het in de viewport verschijnt. De animatie moet 0.8 seconden duren en een 'ease-out' timingfunctie hebben. Geef ook een voorbeeld van de benodigde HTML-structuur en eventuele JavaScript om de animatie te triggeren bij het scrollen.",
+        "tags": [
+            "Frontend Developer",
+            "Code Generatie",
+            "CSS",
+            "Animatie"
+        ],
+        "role": "Frontend Developer",
+        "tasks": [
+            "UI-ontwikkeling",
+            "Animaties creëren",
+            "CSS schrijven"
+        ],
+        "use_case": "Een frontend ontwikkelaar wil een webpagina visueel aantrekkelijker maken door elementen te animeren wanneer de gebruiker naar beneden scrollt.",
+        "context_keywords": [
+            "CSS",
+            "animatie",
+            "fade-in",
+            "slide-up",
+            "viewport",
+            "JavaScript",
+            "frontend"
+        ]
+    },
+    {
+        "id": 38,
+        "title": "Marktonderzoek Vragenlijst",
+        "prompt": "Stel een korte vragenlijst (max. 10 vragen) op voor een marktonderzoek naar de potentiële vraag naar een nieuw product: [beschrijving van het product]. De vragenlijst moet een mix bevatten van demografische vragen, vragen over huidig gedrag, en vragen over de interesse in het nieuwe product. Gebruik verschillende vraagtypes (multiple choice, schaalvragen, open vragen).",
+        "tags": [
+            "Marketeer",
+            "Analyse",
+            "Marktonderzoek"
+        ],
+        "role": "Marktonderzoeker / Product Manager",
+        "tasks": [
+            "Marktonderzoek opzetten",
+            "Vragenlijsten ontwikkelen",
+            "Data verzamelen"
+        ],
+        "use_case": "Voordat een nieuw product wordt gelanceerd, moet een marketeer de marktvraag peilen door middel van een gerichte vragenlijst voor de doelgroep.",
+        "context_keywords": [
+            "marktonderzoek",
+            "vragenlijst",
+            "enquête",
+            "productlancering",
+            "doelgroep",
+            "interesse peilen"
+        ]
+    },
+    {
+        "id": 39,
+        "title": "Interviewvragen voorbereiden",
+        "prompt": "Genereer een lijst van 10 gedragsgerichte interviewvragen voor de functie van [functietitel]. De vragen moeten gericht zijn op het toetsen van de volgende competenties: [competentie 1, bv. 'probleemoplossend vermogen'], [competentie 2, bv. 'samenwerken'], en [competentie 3, bv. 'klantgerichtheid']. Gebruik de STAR-methode als uitgangspunt.",
+        "tags": [
+            "HR Professional",
+            "Planning & Organisatie",
+            "Interview",
+            "Recruitment"
+        ],
+        "role": "Recruiter / Hiring Manager",
+        "tasks": [
+            "Interviews voorbereiden",
+            "Competenties toetsen",
+            "Kandidaten selecteren"
+        ],
+        "use_case": "Een recruiter of manager bereidt een sollicitatiegesprek voor en wil specifieke, competentiegerichte vragen stellen om de geschiktheid van een kandidaat te beoordelen.",
+        "context_keywords": [
+            "interviewvragen",
+            "recruitment",
+            "competenties",
+            "STAR-methode",
+            "gedragsgericht",
+            "sollicitatiegesprek"
+        ]
+    },
+    {
+        "id": 40,
+        "title": "Tutorial Script Schrijven",
+        "prompt": "Schrijf een script voor een 5-minuten durende YouTube-video tutorial met de titel: \"Hoe gebruik je [specifieke software of tool] voor beginners\". Het script moet een introductie, stapsgewijze instructies met duidelijke acties, en een outro met een call-to-action (abonneren, etc.) bevatten. Schrijf de tekst in spreektaal.",
+        "tags": [
+            "Content Creator",
+            "Tekst Schrijven",
+            "Video Productie",
+            "Script"
+        ],
+        "role": "Content Creator / Trainer",
+        "tasks": [
+            "Scripts schrijven",
+            "Educatieve content maken",
+            "Video's produceren"
+        ],
+        "use_case": "Een content creator wil een instructievideo maken en heeft een goed gestructureerd, spreektaal-script nodig om de opname soepel te laten verlopen.",
+        "context_keywords": [
+            "script",
+            "tutorial",
+            "YouTube",
+            "video",
+            "instructies",
+            "spreektaal"
+        ]
+    },
+    {
+        "id": 41,
+        "title": "Structureren van Notulen na Vergadering",
+        "prompt": "Fungeer als een ervaren directiesecretaresse. Ik geef je mijn ruwe aantekeningen van een vergadering. Structureer deze in een formeel notulen-document. Het document moet de volgende onderdelen bevatten:\n1. Vergaderdetails (Datum, Tijd, Locatie, Titel)\n2. Aanwezigen en Afwezigen\n3. Agendapunten (zoals besproken)\n4. Besluiten (duidelijk per agendapunt)\n5. Actiepunten (in een tabel met kolommen: 'Actiepunt', 'Verantwoordelijke', 'Deadline').\n\nMijn aantekeningen zijn:\n[Plak hier je ruwe aantekeningen of steekwoorden]",
+        "tags": [
+            "Directiesecretaresse",
+            "Notuleren & Verslaglegging",
+            "Vergadering"
+        ],
+        "role": "Directiesecretaresse / Management Assistent",
+        "tasks": [
+            "Notuleren",
+            "Verslaglegging",
+            "Informatie structureren"
+        ],
+        "use_case": "Na een vergadering moeten ruwe aantekeningen worden omgezet in een formeel en gestructureerd verslag (notulen) voor alle deelnemers.",
+        "context_keywords": [
+            "notulen",
+            "vergadering",
+            "verslaglegging",
+            "actiepunten",
+            "besluiten",
+            "verantwoordelijke",
+            "deadline"
+        ]
+    },
+    {
+        "id": 42,
+        "title": "Gedetailleerde Transcriptie van Audio",
+        "prompt": "Transcribeer de volgende tekst die uit een audio-opname komt. Zorg voor een nauwkeurige, letterlijke weergave. Identificeer verschillende sprekers als 'Spreker 1', 'Spreker 2', etc. Voeg timestamps toe [HH:MM:SS] aan het begin van elke paragraaf of bij een belangrijke wisseling van onderwerp. Markeer onverstaanbare woorden of zinnen met [onverstaanbaar].\n\nTekst:\n[Plak hier de tekst uit het dictaat of de audio-opname]",
+        "tags": [
+            "Office Manager",
+            "Notuleren & Verslaglegging",
+            "Transcriptie"
+        ],
+        "role": "Transcriptionist / Administratief Medewerker",
+        "tasks": [
+            "Transcriberen",
+            "Verslaglegging",
+            "Dataverwerking"
+        ],
+        "use_case": "Voor juridische, medische of onderzoeksdoeleinden moet een audio-opname nauwkeurig worden omgezet naar een geschreven tekst, inclusief sprekeridentificatie en timestamps.",
+        "context_keywords": [
+            "transcriptie",
+            "audio",
+            "letterlijk",
+            "sprekers",
+            "timestamps",
+            "verslaglegging"
+        ]
+    },
+    {
+        "id": 43,
+        "title": "Verwerken van een Dictaat tot Formeel Document",
+        "prompt": "Ik heb een memo gedicteerd. Verwerk dit dictaat tot een formele, goed gestructureerde e-mail/memo gericht aan [doelgroep, bv. 'het managementteam']. Corrigeer eventuele grammaticale fouten, verbeter de zinsbouw voor betere leesbaarheid en zorg voor een professionele en overtuigende toon. De onderwerpregel moet zijn: [onderwerp].\n\nDictaat:\n[Plak hier de gedicteerde tekst]",
+        "tags": [
+            "Directiesecretaresse",
+            "Communicatie & E-mail",
+            "Tekst Schrijven"
+        ],
+        "role": "Directiesecretaresse / Personal Assistant",
+        "tasks": [
+            "Dictaten uitwerken",
+            "Teksten redigeren",
+            "Zakelijke communicatie"
+        ],
+        "use_case": "Een manager heeft snel een idee gedicteerd dat door de assistent moet worden omgezet in een professionele, foutloze en goed gestructureerde memo of e-mail.",
+        "context_keywords": [
+            "dictaat",
+            "memo",
+            "e-mail",
+            "formeel schrijven",
+            "redigeren",
+            "professionaliseren"
+        ]
+    },
+    {
+        "id": 44,
+        "title": "Complexe Afspraak Inplannen met Meerdere Personen",
+        "prompt": "Stel een e-mail op om een afspraak te plannen voor 4 personen met complexe en beperkte beschikbaarheid. Persoon A kan alleen op ma/di ochtend. Persoon B niet op vrijdag. Persoon C reist op woensdag. De meeting duurt 1 uur en moet volgende week plaatsvinden. Stel 3 concrete tijdslots voor en vraag de ontvangers hun voorkeur aan te geven of een datumprikker te gebruiken.",
+        "tags": [
+            "Office Manager",
+            "Planning & Organisatie",
+            "Communicatie & E-mail"
+        ],
+        "role": "Office Manager / Directiesecretaresse",
+        "tasks": [
+            "Agendabeheer",
+            "Plannen en organiseren",
+            "Communicatie"
+        ],
+        "use_case": "Het plannen van een meeting met meerdere drukbezette personen is complex. Deze prompt helpt bij het opstellen van een duidelijke e-mail om efficiënt een geschikt moment te vinden.",
+        "context_keywords": [
+            "afspraak plannen",
+            "agendabeheer",
+            "beschikbaarheid",
+            "tijdslots",
+            "datumprikker",
+            "organisatie"
+        ]
+    },
+    {
+        "id": 45,
+        "title": "Structuur voor een Zakelijke Presentatie",
+        "prompt": "Mijn manager moet een presentatie geven over [onderwerp]. Ik geef je de kernboodschappen. Creëer op basis hiervan een logische structuur voor een 10-slide PowerPoint-presentatie. Geef per slide een titel en 3-5 bullet points met de inhoud. De structuur moet bevatten: titelslide, agenda, introductie, 3-4 inhoudelijke slides, samenvatting, en een Q&A slide.",
+        "tags": [
+            "Directiesecretaresse",
+            "Documentatie & Presentatie",
+            "Planning & Organisatie"
+        ],
+        "role": "Directiesecretaresse / Management Assistent",
+        "tasks": [
+            "Presentaties voorbereiden",
+            "Informatie structureren",
+            "Ondersteunen van management"
+        ],
+        "use_case": "Een assistent helpt een manager bij het voorbereiden van een belangrijke presentatie door de kernboodschappen om te zetten in een heldere slide-structuur.",
+        "context_keywords": [
+            "presentatie",
+            "PowerPoint",
+            "structuur",
+            "slides",
+            "bullet points",
+            "zakelijk"
+        ]
+    },
+    {
+        "id": 46,
+        "title": "Checklist voor Organisatie van een Bedrijfsevenement",
+        "prompt": "Genereer een gedetailleerde checklist voor het organiseren van een [type evenement, bv. 'jaarlijkse personeelsborrel'] voor [aantal] personen. De checklist moet onderverdeeld zijn in fasen (2 maanden vooraf, 1 maand vooraf, 1 week vooraf, op de dag zelf) en taken bevatten zoals budgettering, locatie zoeken, offertes opvragen, uitnodigingen versturen, catering regelen, techniek controleren en de communicatieplanning.",
+        "tags": [
+            "Office Manager",
+            "Planning & Organisatie",
+            "Evenementen"
+        ],
+        "role": "Office Manager / Event Manager",
+        "tasks": [
+            "Evenementenorganisatie",
+            "Projectplanning",
+            "Budgetbeheer"
+        ],
+        "use_case": "Voor de organisatie van een bedrijfsevenement is een gedetailleerde checklist essentieel om ervoor te zorgen dat geen enkele taak over het hoofd wordt gezien.",
+        "context_keywords": [
+            "checklist",
+            "evenement",
+            "planning",
+            "organisatie",
+            "budgettering",
+            "locatie",
+            "catering"
+        ]
+    },
+    {
+        "id": 47,
+        "title": "Gedetailleerd Reisplan (Itinerarium) Opstellen",
+        "prompt": "Stel een compleet en gedetailleerd reisplan (itinerarium) op voor een zakenreis van [naam manager] naar [stad/land] van [startdatum] tot [einddatum]. Baseer je op de volgende informatie: [plak hier vluchtnummers, hotelnaam, meeting-adressen, etc.]. Het plan moet een overzicht per dag bevatten met tijden, locaties, vluchtgegevens, hotelinformatie (incl. adres en bevestigingsnummer), transportdetails en contactpersonen voor de afspraken.",
+        "tags": [
+            "Directiesecretaresse",
+            "Planning & Organisatie",
+            "Reizen"
+        ],
+        "role": "Directiesecretaresse / Personal Assistant",
+        "tasks": [
+            "Reizen boeken en plannen",
+            "Agendabeheer",
+            "Informatie structureren"
+        ],
+        "use_case": "Een assistent moet een overzichtelijk en compleet reisplan maken voor een manager, zodat deze tijdens de zakenreis alle benodigde informatie direct bij de hand heeft.",
+        "context_keywords": [
+            "reisplan",
+            "itinerarium",
+            "zakenreis",
+            "planning",
+            "vluchtgegevens",
+            "hotel",
+            "afspraken"
+        ]
+    },
+    {
+        "id": 48,
+        "title": "Management Samenvatting van Lang Rapport",
+        "prompt": "Vat het volgende rapport samen tot een beknopte 'management summary' van maximaal 250 woorden. De samenvatting moet gericht zijn op een drukbezette manager en de belangrijkste bevindingen, conclusies en aanbevelingen helder presenteren.\n\nRapport:\n[Plak hier de tekst van het rapport]",
+        "tags": [
+            "Directiesecretaresse",
+            "Samenvatten & Vereenvoudigen",
+            "Rapportage"
+        ],
+        "role": "Directiesecretaresse / Analist",
+        "tasks": [
+            "Samenvatten",
+            "Rapporteren",
+            "Informatie distilleren"
+        ],
+        "use_case": "Een manager heeft geen tijd om een lang rapport te lezen en vraagt om een korte, krachtige samenvatting die de essentie weergeeft voor snelle besluitvorming.",
+        "context_keywords": [
+            "samenvatting",
+            "management summary",
+            "rapport",
+            "conclusies",
+            "aanbevelingen",
+            "beknopt"
+        ]
+    },
+    {
+        "id": 49,
+        "title": "Optimaliseren van een Kantoorproces",
+        "prompt": "Analyseer het volgende kantoorproces: [beschrijf een proces, bv. 'het onboarden van een nieuwe medewerker' of 'het verwerken van inkomende post']. Identificeer 3 potentiële knelpunten die leiden tot vertraging of inefficiëntie. Geef voor elk knelpunt een concreet verbetervoorstel, inclusief de benodigde stappen of aan te schaffen tools.",
+        "tags": [
+            "Office Manager",
+            "Procesoptimalisatie",
+            "Analyse"
+        ],
+        "role": "Office Manager / Procesmanager",
+        "tasks": [
+            "Procesanalyse",
+            "Optimalisatie",
+            "Efficiëntieverbetering"
+        ],
+        "use_case": "Een office manager wil een bestaand kantoorproces efficiënter maken en gebruikt deze prompt om knelpunten te identificeren en concrete verbetervoorstellen te genereren.",
+        "context_keywords": [
+            "procesoptimalisatie",
+            "kantoorproces",
+            "knelpunten",
+            "efficiëntie",
+            "verbetervoorstel",
+            "analyse"
+        ]
+    },
+    {
+        "id": 50,
+        "title": "E-mailtemplate voor Afspraakbevestiging",
+        "prompt": "Creëer een professioneel en volledig e-mailtemplate voor het bevestigen van een afspraak. Het template moet placeholders bevatten voor [Naam genodigde], [Datum], [Tijd], [Locatie/Videocall-link], [Onderwerp van de meeting], en [Namen van andere deelnemers]. Voeg ook een vriendelijke zin toe waarin gevraagd wordt om het te laten weten bij verhindering.",
+        "tags": [
+            "Directiesecretaresse",
+            "Communicatie & E-mail",
+            "Template"
+        ],
+        "role": "Directiesecretaresse / Office Manager",
+        "tasks": [
+            "Templates maken",
+            "Agendabeheer",
+            "Efficiënt communiceren"
+        ],
+        "use_case": "Om tijd te besparen en consistent te communiceren, wil een assistent een standaard e-mailtemplate voor het bevestigen van afspraken, dat snel kan worden ingevuld.",
+        "context_keywords": [
+            "e-mailtemplate",
+            "afspraakbevestiging",
+            "agendabeheer",
+            "placeholders",
+            "efficiëntie"
+        ]
+    },
+    {
+        "id": 51,
+        "title": "Concept voor Interne Aankondiging",
+        "prompt": "Schrijf een concept voor een interne aankondiging (voor intranet of e-mail) over [onderwerp, bv. 'de implementatie van een nieuw softwarepakket' of 'een wijziging in het thuiswerkbeleid']. De toon moet informatief, duidelijk en positief zijn. Zorg ervoor dat de 'waarom' achter de verandering wordt uitgelegd en geef aan waar medewerkers terechtkunnen met vragen.",
+        "tags": [
+            "Office Manager",
+            "Communicatie & E-mail",
+            "Interne Communicatie"
+        ],
+        "role": "HR / Communicatie Medewerker / Office Manager",
+        "tasks": [
+            "Interne communicatie",
+            "Verandermanagement",
+            "Tekstschrijven"
+        ],
+        "use_case": "Bij een belangrijke verandering binnen het bedrijf moet er een duidelijke en positieve aankondiging worden geschreven om alle medewerkers te informeren en draagvlak te creëren.",
+        "context_keywords": [
+            "interne communicatie",
+            "aankondiging",
+            "intranet",
+            "beleidswijziging",
+            "medewerkers informeren"
+        ]
+    },
+    {
+        "id": 52,
+        "title": "Opvolgen van Openstaande Actiepunten",
+        "prompt": "Genereer een beleefde maar duidelijke reminder-e-mail voor een collega over een openstaand actiepunt uit de vergadering van [datum]. Het actiepunt is: \"[beschrijving actiepunt]\". De deadline was [datum]. Vraag vriendelijk naar de status en bied hulp aan indien nodig.",
+        "tags": [
+            "Directiesecretaresse",
+            "Communicatie & E-mail",
+            "Follow-up"
+        ],
+        "role": "Directiesecretaresse / Project Manager",
+        "tasks": [
+            "Actiepunten opvolgen",
+            "Projectbewaking",
+            "Communicatie"
+        ],
+        "use_case": "Om de voortgang van een project te bewaken, moet een openstaand actiepunt worden opgevolgd met een vriendelijke maar duidelijke herinneringsmail naar de verantwoordelijke collega.",
+        "context_keywords": [
+            "follow-up",
+            "reminder",
+            "actiepunt",
+            "vergadering",
+            "deadline",
+            "statusupdate"
+        ]
+    },
+    {
+        "id": 53,
+        "title": "Filteren en Prioriteren van Inbox",
+        "prompt": "Fungeer als een slimme assistent. Ik geef je 5 onderwerpregels en afzenders uit de inbox van mijn manager. Prioriteer deze op een schaal van 1 (zeer urgent) tot 3 (kan wachten). Geef per e-mail een korte samenvatting van de vermoedelijke inhoud en een suggestie voor de volgende actie (direct antwoorden, agenderen, doorsturen, archiveren).\n\nE-mails:\n[Plak hier de lijst met onderwerpregels en afzenders]",
+        "tags": [
+            "Directiesecretaresse",
+            "Communicatie & E-mail",
+            "Productiviteit"
+        ],
+        "role": "Directiesecretaresse / Personal Assistant",
+        "tasks": [
+            "Inbox management",
+            "Prioriteren",
+            "Efficiëntie"
+        ],
+        "use_case": "Een assistent helpt een manager de dag productief te starten door de inbox te scannen, e-mails te prioriteren en acties voor te stellen.",
+        "context_keywords": [
+            "inbox management",
+            "prioriteren",
+            "e-mail",
+            "productiviteit",
+            "assistent"
+        ]
+    },
+    {
+        "id": 54,
+        "title": "Voorbereiden van een Vergadering (Briefing Document)",
+        "prompt": "Stel een briefingdocument van één pagina op voor mijn manager ter voorbereiding op de meeting met [naam externe partij] over [onderwerp]. Het document moet de volgende secties bevatten:\n1. Doel van de meeting.\n2. Profiel van de aanwezigen (namen, functies).\n3. Korte geschiedenis/context van de relatie.\n4. Belangrijkste gesprekspunten/agenda.\n5. Gewenst resultaat van de meeting.",
+        "tags": [
+            "Directiesecretaresse",
+            "Documentatie & Presentatie",
+            "Planning & Organisatie"
+        ],
+        "role": "Directiesecretaresse / Management Assistent",
+        "tasks": [
+            "Vergaderingen voorbereiden",
+            "Informatie verzamelen en structureren",
+            "Ondersteunen van management"
+        ],
+        "use_case": "Voor een belangrijke externe meeting moet een manager goed voorbereid zijn. De assistent stelt een beknopt briefingdocument op met alle cruciale informatie.",
+        "context_keywords": [
+            "briefing document",
+            "vergadering voorbereiden",
+            "meeting",
+            "agenda",
+            "doelstelling",
+            "stakeholders"
+        ]
+    },
+    {
+        "id": 55,
+        "title": "Vergelijken van Leveranciersoffertes",
+        "prompt": "Ik heb offertes ontvangen van 3 leveranciers voor [product/dienst, bv. 'nieuwe kantoorstoelen']. Maak een overzichtelijke tabel die de leveranciers vergelijkt op de volgende criteria: prijs per eenheid, totale kosten, levertijd, garantievoorwaarden en klantreviews (indien bekend). Geef op basis van de tabel een aanbeveling voor de beste keuze.\n\nData:\n[Plak hier de belangrijkste data uit de offertes]",
+        "tags": [
+            "Office Manager",
+            "Analyse",
+            "Inkoop"
+        ],
+        "role": "Office Manager / Inkoper",
+        "tasks": [
+            "Inkoop",
+            "Leveranciersmanagement",
+            "Kostenanalyse"
+        ],
+        "use_case": "Een office manager moet een aankoopbeslissing nemen en wil de offertes van verschillende leveranciers objectief vergelijken om de beste keuze te maken.",
+        "context_keywords": [
+            "offertes vergelijken",
+            "inkoop",
+            "leveranciers",
+            "kostenanalyse",
+            "tabel",
+            "aanbeveling"
+        ]
+    },
+    {
+        "id": 56,
+        "title": "Genereer een Python Functie",
+        "prompt": "Schrijf een Python functie genaamd `validate_email` die een e-mailadres (string) als input neemt. De functie moet `True` retourneren als het e-mailadres een geldig formaat heeft en `False` als dat niet het geval is. Voeg type hinting en een duidelijke docstring toe.",
+        "tags": [
+            "Developer",
+            "Code Generatie",
+            "Python",
+            "Validatie"
+        ],
+        "role": "Python Developer",
+        "tasks": [
+            "Code schrijven",
+            "Data valideren",
+            "Functies ontwikkelen"
+        ],
+        "use_case": "Een ontwikkelaar heeft een herbruikbare functie nodig om snel en betrouwbaar te controleren of een door een gebruiker ingevoerd e-mailadres een correct formaat heeft.",
+        "context_keywords": [
+            "Python",
+            "functie",
+            "e-mail validatie",
+            "docstring",
+            "type hinting",
+            "code generatie"
+        ]
+    },
+    {
+        "id": 57,
+        "title": "Blog Post Outline (SEO-gericht)",
+        "prompt": "Creëer een gedetailleerde, SEO-geoptimaliseerde outline voor een blog post met de titel \"De ultieme gids voor [onderwerp]\". De outline moet een H1-titel, meerdere H2-secties met beschrijvende subkoppen, en suggesties voor H3-subpunten bevatten. Geef ook 5 suggesties voor LSI-zoekwoorden (Latent Semantic Indexing) die in de tekst verwerkt kunnen worden.",
+        "tags": [
+            "Marketeer",
+            "Tekst Schrijven",
+            "SEO",
+            "Content Creatie"
+        ],
+        "role": "Content Marketeer",
+        "tasks": [
+            "Contentstrategie",
+            "SEO-optimalisatie",
+            "Bloggen"
+        ],
+        "use_case": "Voor het schrijven van een nieuwe blog post, wil een content marketeer eerst een gestructureerde en SEO-vriendelijke outline opstellen om de vindbaarheid en leesbaarheid te maximaliseren.",
+        "context_keywords": [
+            "SEO",
+            "blog post",
+            "outline",
+            "H1",
+            "H2",
+            "LSI-zoekwoorden",
+            "content creatie"
+        ]
+    },
+    {
+        "id": 58,
+        "title": "Complexe Materie Vereenvoudigen",
+        "prompt": "Leg het concept van [complex wetenschappelijk concept, bv. 'Quantum Computing'] uit alsof je het uitlegt aan een 12-jarige. Gebruik een eenvoudige analogie en vermijd technisch jargon.",
+        "tags": [
+            "Student",
+            "Samenvatten & Vereenvoudigen",
+            "Educatie",
+            "Uitleg"
+        ],
+        "role": "Student / Docent / Kenniswerker",
+        "tasks": [
+            "Concepten begrijpen",
+            "Kennis overdragen",
+            "Vereenvoudigen"
+        ],
+        "use_case": "Een student of docent wil een complex onderwerp op een eenvoudige en begrijpelijke manier uitleggen aan een beginner of iemand buiten het vakgebied.",
+        "context_keywords": [
+            "vereenvoudigen",
+            "uitleg",
+            "analogie",
+            "jargon vermijden",
+            "educatie",
+            "concept"
+        ]
+    },
+    {
+        "id": 59,
+        "title": "Complexe SQL Query Schrijven",
+        "prompt": "Schrijf een SQL query die de top 5 best verkopende producten van het afgelopen kwartaal ophaalt. De query moet de tabellen `products`, `orders` en `order_items` joinen. De output moet de productnaam (`products.name`) en de totale omzet per product (`SUM(order_items.quantity * order_items.price)`) bevatten, gesorteerd van hoog naar laag.",
+        "tags": [
+            "Data Analyst",
+            "Database",
+            "SQL",
+            "Code Generatie"
+        ],
+        "role": "Data Analyst",
+        "tasks": [
+            "Data-analyse",
+            "Rapportages bouwen",
+            "Query's schrijven"
+        ],
+        "use_case": "Een data-analist moet voor een kwartaalrapportage de best presterende producten identificeren door data uit meerdere tabellen te combineren en te aggregeren.",
+        "context_keywords": [
+            "SQL",
+            "query",
+            "data-analyse",
+            "top 5",
+            "omzet",
+            "join",
+            "database"
+        ]
+    },
+    {
+        "id": 60,
+        "title": "LinkedIn Content Kalender",
+        "prompt": "Genereer een content kalender voor LinkedIn voor één week (5 werkdagen) voor een bedrijf in de [jouw industrie] sector. Geef voor elke dag een ander type post (bijv. een poll, een project-showcase, een industienieuwtje, een 'achter de schermen'-post, een vraag aan het netwerk) inclusief een concepttekst en relevante hashtags.",
+        "tags": [
+            "Marketeer",
+            "Social Media",
+            "Planning & Organisatie",
+            "LinkedIn"
+        ],
+        "role": "Social Media Manager",
+        "tasks": [
+            "Contentplanning",
+            "Social media management",
+            "Community building"
+        ],
+        "use_case": "Een social media manager wil proactief en gestructureerd posten op LinkedIn en heeft een weekplanning nodig met diverse contentformats om de engagement te verhogen.",
+        "context_keywords": [
+            "content kalender",
+            "LinkedIn",
+            "social media",
+            "planning",
+            "hashtags",
+            "engagement"
+        ]
+    },
+    {
+        "id": 61,
+        "title": "Projectplan Opstellen",
+        "prompt": "Stel een high-level projectplan op voor de lancering van een [type project, bv. 'nieuwe mobiele app']. Het plan moet de volgende secties bevatten: Doelstellingen (SMART), Belangrijkste Mijlpalen, Risicoanalyse (3 potentiële risico's en mitigatiestrategieën), en een geschatte Tijdlijn (in fasen).",
+        "tags": [
+            "Project Manager",
+            "Planning & Organisatie",
+            "Strategie",
+            "Management"
+        ],
+        "role": "Project Manager",
+        "tasks": [
+            "Projectplanning",
+            "Risicomanagement",
+            "Stakeholdermanagement"
+        ],
+        "use_case": "Aan de start van een nieuw project moet de projectmanager een overkoepelend plan opstellen om de doelen, mijlpalen, risico's en tijdlijn duidelijk te communiceren naar het team en stakeholders.",
+        "context_keywords": [
+            "projectplan",
+            "SMART-doelstellingen",
+            "mijlpalen",
+            "risicoanalyse",
+            "tijdlijn",
+            "projectmanagement"
+        ]
+    },
+    {
+        "id": 62,
+        "title": "Een Error Uitleggen",
+        "prompt": "Ik krijg de volgende foutmelding in mijn [programmeertaal] code. Leg uit wat de meest waarschijnlijke oorzaken zijn van deze fout en geef drie concrete stappen die ik kan nemen om het probleem op te lossen.\n\nFoutmelding: [plak hier de foutmelding]",
+        "tags": [
+            "Developer",
+            "Debuggen & Testen",
+            "Probleemoplossing"
+        ],
+        "role": "Developer",
+        "tasks": [
+            "Debuggen",
+            "Probleemoplossing",
+            "Code-analyse"
+        ],
+        "use_case": "Wanneer een ontwikkelaar vastloopt op een specifieke foutmelding, kan deze prompt helpen om de oorzaak te begrijpen en een stappenplan voor de oplossing te krijgen.",
+        "context_keywords": [
+            "foutmelding",
+            "debuggen",
+            "programmeertaal",
+            "probleemoplossing",
+            "code"
+        ]
+    },
+    {
+        "id": 63,
+        "title": "Brainstormen over Functies",
+        "prompt": "Fungeer als een ervaren Product Owner. Genereer 10 innovatieve feature-ideeën voor een [type applicatie, bv. 'maaltijdbezorg-app'] die de gebruikerservaring aanzienlijk zouden verbeteren en de app onderscheiden van de concurrentie. Geef bij elk idee een korte onderbouwing.",
+        "tags": [
+            "Product Owner",
+            "Brainstormen & Ideeën",
+            "Product Management",
+            "Innovatie"
+        ],
+        "role": "Product Owner",
+        "tasks": [
+            "Productontwikkeling",
+            "Ideeëngeneratie",
+            "Roadmap planning"
+        ],
+        "use_case": "Een product owner is op zoek naar nieuwe, innovatieve features om een applicatie te verbeteren en een concurrentievoordeel te behalen.",
+        "context_keywords": [
+            "brainstorm",
+            "features",
+            "product owner",
+            "innovatie",
+            "gebruikerservaring",
+            "concurrentie"
+        ]
+    },
+    {
+        "id": 64,
+        "title": "Professionele E-mail Opstellen",
+        "prompt": "Schrijf een professionele en beleefde e-mail naar [ontvanger, bv. 'een potentiële klant'] waarin ik [doel van de e-mail, bv. 'een kennismakingsgesprek wil voorstellen om onze diensten te bespreken']. Zorg voor een duidelijke onderwerpregel, een korte introductie, en een concrete call-to-action.",
+        "tags": [
+            "Algemeen",
+            "Communicatie & E-mail",
+            "Zakelijk Schrijven"
+        ],
+        "role": "Algemeen (elke professional)",
+        "tasks": [
+            "Zakelijke communicatie",
+            "Netwerken",
+            "Afspraken maken"
+        ],
+        "use_case": "Iedere professional moet soms een formele e-mail sturen naar een nieuwe contactpersoon om een voorstel te doen, informatie te vragen of een afspraak te plannen.",
+        "context_keywords": [
+            "professionele e-mail",
+            "zakelijk schrijven",
+            "kennismakingsgesprek",
+            "call-to-action",
+            "onderwerpregel"
+        ]
+    },
+    {
+        "id": 65,
+        "title": "Data Trends Analyseren",
+        "prompt": "Ik heb de volgende dataset met [beschrijving van data, bv. 'maandelijkse verkoopcijfers per regio']. Analyseer deze data en identificeer drie opmerkelijke trends of patronen. Geef per trend een mogelijke verklaring en een aanbeveling voor een vervolgactie.\n\n[Plak hier een voorbeeld van de data (CSV-formaat of beschrijving)]",
+        "tags": [
+            "Data Analyst",
+            "Analyse",
+            "Rapportage",
+            "Trends"
+        ],
+        "role": "Data Analyst / Business Analyst",
+        "tasks": [
+            "Data-analyse",
+            "Trendanalyse",
+            "Adviseren"
+        ],
+        "use_case": "Een analist heeft een dataset en moet hieruit de belangrijkste trends en patronen destilleren, deze interpreteren en concrete aanbevelingen doen voor het management.",
+        "context_keywords": [
+            "data-analyse",
+            "trends",
+            "patronen",
+            "dataset",
+            "aanbeveling",
+            "rapportage"
+        ]
+    },
+    {
+        "id": 66,
+        "title": "Meeting Agenda Maken",
+        "prompt": "Stel een effectieve agenda op voor een 60-minuten durende wekelijkse project-update meeting. De agenda moet de volgende elementen bevatten: benodigde aanwezigen, doel van de meeting, agendapunten met geschatte tijdsduur, en ruimte voor actiepunten en vragen.",
+        "tags": [
+            "Project Manager",
+            "Planning & Organisatie",
+            "Vergadering"
+        ],
+        "role": "Project Manager",
+        "tasks": [
+            "Vergaderingen voorbereiden",
+            "Projectcoördinatie",
+            "Teammanagement"
+        ],
+        "use_case": "Om een wekelijkse projectmeeting efficiënt te laten verlopen, moet de projectmanager een duidelijke agenda opstellen die structuur geeft en zorgt dat alle belangrijke punten aan bod komen.",
+        "context_keywords": [
+            "agenda",
+            "vergadering",
+            "project-update",
+            "planning",
+            "actiepunten",
+            "efficiëntie"
+        ]
+    },
+    {
+        "id": 67,
+        "title": "Onboarding E-mail Sequence",
+        "prompt": "Creëer een reeks van 3 e-mails voor de pre-boarding van een nieuwe medewerker. \n1. E-mail 1 (direct na tekenen contract): Welkomstboodschap en wat te verwachten.\n2. E-mail 2 (één week voor start): Praktische informatie (locatie, tijd, benodigdheden) en wie de buddy/manager is.\n3. E-mail 3 (dag voor start): Korte, enthousiaste herinnering.",
+        "tags": [
+            "HR Professional",
+            "Communicatie & E-mail",
+            "Onboarding",
+            "HR"
+        ],
+        "role": "HR Professional",
+        "tasks": [
+            "Onboarding",
+            "Interne communicatie",
+            "Medewerkersbetrokkenheid"
+        ],
+        "use_case": "Een HR-professional wil een nieuwe medewerker een warm welkom geven en goed voorbereiden op de eerste werkdag door middel van een gestructureerde reeks e-mails.",
+        "context_keywords": [
+            "onboarding",
+            "pre-boarding",
+            "nieuwe medewerker",
+            "e-mailreeks",
+            "welkomstboodschap"
+        ]
+    },
+    {
+        "id": 68,
+        "title": "Code Refactoren",
+        "prompt": "Analyseer de volgende [programmeertaal] code. Stel een refactoring voor die de leesbaarheid, efficiëntie en onderhoudbaarheid verbetert. Leg uit welke specifieke wijzigingen je zou doorvoeren en waarom (bijv. 'Magic numbers' vervangen door constanten, een lange functie opsplitsen, etc.).\n\n[Plak hier de code snippet]",
+        "tags": [
+            "Developer",
+            "Debuggen & Testen",
+            "Code Kwaliteit",
+            "Refactoring"
+        ],
+        "role": "Senior Developer / Tech Lead",
+        "tasks": [
+            "Code review",
+            "Refactoring",
+            "Kwaliteitsbewaking"
+        ],
+        "use_case": "Een ontwikkelaar wil bestaande code verbeteren om deze beter leesbaar, efficiënter en makkelijker te onderhouden te maken voor de toekomst.",
+        "context_keywords": [
+            "refactoring",
+            "code kwaliteit",
+            "leesbaarheid",
+            "efficiëntie",
+            "onderhoudbaarheid",
+            "code snippet"
+        ]
+    },
+    {
+        "id": 69,
+        "title": "A/B Test Ideeën voor een Landingspagina",
+        "prompt": "Genereer 5 A/B test ideeën om de conversieratio van een landingspagina voor [product/dienst] te verhogen. Beschrijf voor elke test de hypothese, de variabele die je wilt testen (bv. koptekst, call-to-action kleur, afbeelding), en de meetbare doelstelling (KPI).",
+        "tags": [
+            "Marketeer",
+            "Strategie & Advies",
+            "A/B Testen",
+            "Conversie Optimalisatie"
+        ],
+        "role": "CRO Specialist / Online Marketeer",
+        "tasks": [
+            "Conversie-optimalisatie (CRO)",
+            "A/B-testen opzetten",
+            "Hypotheses formuleren"
+        ],
+        "use_case": "Een marketeer wil de effectiviteit van een landingspagina verbeteren en heeft concrete, testbare ideeën nodig om de conversieratio te verhogen.",
+        "context_keywords": [
+            "A/B-test",
+            "conversieratio",
+            "landingspagina",
+            "optimalisatie",
+            "hypothese",
+            "KPI"
+        ]
+    },
+    {
+        "id": 70,
+        "title": "Argumenten voor een Debat Voorbereiden",
+        "prompt": "Ik moet deelnemen aan een debat over de stelling: \"[Stelling, bv. 'Kunstmatige intelligentie is een grotere bedreiging dan een kans voor de mensheid']\". Genereer 3 sterke argumenten vóór de stelling en 3 sterke argumenten tegen de stelling. Onderbouw elk argument met een logische redenering of een voorbeeld.",
+        "tags": [
+            "Student",
+            "Analyse",
+            "Kritisch Denken",
+            "Debat"
+        ],
+        "role": "Student / Debater",
+        "tasks": [
+            "Argumentatie opbouwen",
+            "Onderzoek doen",
+            "Kritisch denken"
+        ],
+        "use_case": "Iemand bereidt zich voor op een debat en heeft een gebalanceerd overzicht nodig van sterke argumenten voor beide kanten van de stelling.",
+        "context_keywords": [
+            "debat",
+            "argumenten",
+            "stelling",
+            "kritisch denken",
+            "onderbouwing"
+        ]
+    },
+    {
+        "id": 71,
+        "title": "Presentatie Structuur Opzetten",
+        "prompt": "Creëer een structuur voor een 15-minuten durende presentatie over [onderwerp]. De structuur moet een pakkende opening, 3 hoofdpunten, en een krachtige afsluiting met een duidelijke boodschap of call-to-action bevatten. Geef per hoofd- en subpunt kernwoorden.",
+        "tags": [
+            "Algemeen",
+            "Planning & Organisatie",
+            "Presentatie",
+            "Communicatie"
+        ],
+        "role": "Algemeen (elke professional)",
+        "tasks": [
+            "Presentaties voorbereiden",
+            "Informatie structureren",
+            "Communiceren"
+        ],
+        "use_case": "Voor het geven van een presentatie heeft iemand een duidelijke en logische structuur nodig om de boodschap effectief over te brengen binnen een beperkte tijd.",
+        "context_keywords": [
+            "presentatie",
+            "structuur",
+            "opening",
+            "hoofdpunten",
+            "afsluiting",
+            "call-to-action"
+        ]
+    },
+    {
+        "id": 72,
+        "title": "Suggesties voor Data Visualisatie",
+        "prompt": "Ik wil de relatie tussen [variabele A, bv. 'advertentiebudget'] en [variabele B, bv. 'websiteverkeer'] over tijd visualiseren. Welke 3 soorten grafieken zijn het meest geschikt hiervoor? Beschrijf de voor- en nadelen van elke grafiek voor dit specifieke doel.",
+        "tags": [
+            "Data Analyst",
+            "Data Visualisatie",
+            "Rapportage",
+            "Grafieken"
+        ],
+        "role": "Data Analyst",
+        "tasks": [
+            "Data visualiseren",
+            "Rapporteren",
+            "Adviseren over grafieken"
+        ],
+        "use_case": "Een analist heeft data en zoekt naar de meest effectieve manier om deze te visualiseren om inzichten helder te communiceren aan een publiek.",
+        "context_keywords": [
+            "data visualisatie",
+            "grafiek",
+            "rapportage",
+            "data-analyse",
+            "lijngrafiek",
+            "staafdiagram"
+        ]
+    },
+    {
+        "id": 73,
+        "title": "Negatieve Feedback Email (Klantenservice)",
+        "prompt": "Schrijf een empathische en professionele reactie op een e-mail van een ontevreden klant die klaagt over [specifiek probleem, bv. 'een late levering']. De reactie moet de volgende elementen bevatten: erkenning van het probleem, een oprechte verontschuldiging, een voorgestelde oplossing of compensatie, en een verzekering dat er maatregelen worden genomen om herhaling te voorkomen.",
+        "tags": [
+            "Customer Support",
+            "Communicatie & E-mail",
+            "Klachtenafhandeling"
+        ],
+        "role": "Customer Support Medewerker",
+        "tasks": [
+            "Klachtenafhandeling",
+            "Klantcommunicatie",
+            "De-escalatie"
+        ],
+        "use_case": "Wanneer een klant een klacht indient, moet de supportmedewerker een zorgvuldig geformuleerde e-mail sturen om de situatie op te lossen en de klantrelatie te behouden.",
+        "context_keywords": [
+            "klantenservice",
+            "negatieve feedback",
+            "klacht",
+            "empathie",
+            "oplossing",
+            "compensatie"
+        ]
+    },
+    {
+        "id": 74,
+        "title": "API Endpoint Documentatie (Swagger/OpenAPI)",
+        "prompt": "Schrijf de documentatie voor een nieuw API endpoint in OpenAPI (Swagger) YAML-formaat. \n- Endpoint: `POST /users`\n- Beschrijving: Creëert een nieuwe gebruiker.\n- Request Body: JSON-object met `username` (string, required), `email` (string, required, email format), en `password` (string, required, min 8 chars).\n- Responses: `201 Created` met de user ID, `400 Bad Request` bij invalide input, `409 Conflict` als de e-mail al bestaat.",
+        "tags": [
+            "Developer",
+            "Documentatie",
+            "API",
+            "YAML",
+            "Swagger"
+        ],
+        "role": "Backend Developer",
+        "tasks": [
+            "API-documentatie schrijven",
+            "Technische specificaties opstellen",
+            "Samenwerking faciliteren"
+        ],
+        "use_case": "Een ontwikkelaar heeft een nieuw API-endpoint gebouwd en moet duidelijke documentatie schrijven zodat andere ontwikkelaars (bv. frontend) weten hoe ze het moeten gebruiken.",
+        "context_keywords": [
+            "API",
+            "documentatie",
+            "OpenAPI",
+            "Swagger",
+            "YAML",
+            "endpoint",
+            "POST"
+        ]
+    },
+    {
+        "id": 75,
+        "title": "Brainstorm Concurrentievoordelen",
+        "prompt": "Fungeer als een bedrijfsstrategieconsultant. Mijn bedrijf is een [type bedrijf, bv. 'kleine, ambachtelijke koffiebranderij'] in een markt met veel concurrentie. Identificeer 5 unieke concurrentievoordelen (Unique Selling Propositions) die we kunnen ontwikkelen en communiceren om ons te onderscheiden.",
+        "tags": [
+            "Business Owner",
+            "Strategie & Advies",
+            "Brainstormen & Ideeën",
+            "Marketing"
+        ],
+        "role": "Ondernemer / Strateeg",
+        "tasks": [
+            "Strategieontwikkeling",
+            "Concurrentieanalyse",
+            "Positionering bepalen"
+        ],
+        "use_case": "Een ondernemer wil zijn bedrijf beter positioneren in een competitieve markt en zoekt naar unieke verkoopargumenten (USP's) om zich te onderscheiden.",
+        "context_keywords": [
+            "concurrentievoordeel",
+            "USP",
+            "strategie",
+            "positionering",
+            "brainstorm",
+            "marketing"
+        ]
+    },
+    {
+        "id": 76,
+        "title": "Genereer een CSS-animatie",
+        "prompt": "Schrijf de CSS-code voor een 'fade-in and slide-up' animatie voor een element wanneer het in de viewport verschijnt. De animatie moet 0.8 seconden duren en een 'ease-out' timingfunctie hebben. Geef ook een voorbeeld van de benodigde HTML-structuur en eventuele JavaScript om de animatie te triggeren bij het scrollen.",
+        "tags": [
+            "Frontend Developer",
+            "Code Generatie",
+            "CSS",
+            "Animatie"
+        ],
+        "role": "Frontend Developer",
+        "tasks": [
+            "UI-ontwikkeling",
+            "Animaties creëren",
+            "CSS schrijven"
+        ],
+        "use_case": "Een frontend ontwikkelaar wil een webpagina visueel aantrekkelijker maken door elementen te animeren wanneer de gebruiker naar beneden scrollt.",
+        "context_keywords": [
+            "CSS",
+            "animatie",
+            "fade-in",
+            "slide-up",
+            "viewport",
+            "JavaScript",
+            "frontend"
+        ]
+    },
+    {
+        "id": 77,
+        "title": "Marktonderzoek Vragenlijst",
+        "prompt": "Stel een korte vragenlijst (max. 10 vragen) op voor een marktonderzoek naar de potentiële vraag naar een nieuw product: [beschrijving van het product]. De vragenlijst moet een mix bevatten van demografische vragen, vragen over huidig gedrag, en vragen over de interesse in het nieuwe product. Gebruik verschillende vraagtypes (multiple choice, schaalvragen, open vragen).",
+        "tags": [
+            "Marketeer",
+            "Analyse",
+            "Marktonderzoek",
+            "Enquête"
+        ],
+        "role": "Marktonderzoeker / Product Manager",
+        "tasks": [
+            "Marktonderzoek opzetten",
+            "Vragenlijsten ontwikkelen",
+            "Data verzamelen"
+        ],
+        "use_case": "Voordat een nieuw product wordt gelanceerd, moet een marketeer de marktvraag peilen door middel van een gerichte vragenlijst voor de doelgroep.",
+        "context_keywords": [
+            "marktonderzoek",
+            "vragenlijst",
+            "enquête",
+            "productlancering",
+            "doelgroep",
+            "interesse peilen"
+        ]
+    },
+    {
+        "id": 78,
+        "title": "Interviewvragen voorbereiden",
+        "prompt": "Genereer een lijst van 10 gedragsgerichte interviewvragen voor de functie van [functietitel]. De vragen moeten gericht zijn op het toetsen van de volgende competenties: [competentie 1, bv. 'probleemoplossend vermogen'], [competentie 2, bv. 'samenwerken'], en [competentie 3, bv. 'klantgerichtheid']. Gebruik de STAR-methode als uitgangspunt.",
+        "tags": [
+            "HR Professional",
+            "Planning & Organisatie",
+            "Interview",
+            "Recruitment"
+        ],
+        "role": "Recruiter / Hiring Manager",
+        "tasks": [
+            "Interviews voorbereiden",
+            "Competenties toetsen",
+            "Kandidaten selecteren"
+        ],
+        "use_case": "Een recruiter of manager bereidt een sollicitatiegesprek voor en wil specifieke, competentiegerichte vragen stellen om de geschiktheid van een kandidaat te beoordelen.",
+        "context_keywords": [
+            "interviewvragen",
+            "recruitment",
+            "competenties",
+            "STAR-methode",
+            "gedragsgericht",
+            "sollicitatiegesprek"
+        ]
+    },
+    {
+        "id": 79,
+        "title": "Tutorial Script Schrijven",
+        "prompt": "Schrijf een script voor een 5-minuten durende YouTube-video tutorial met de titel: \"Hoe gebruik je [specifieke software of tool] voor beginners\". Het script moet een introductie, stapsgewijze instructies met duidelijke acties, en een outro met een call-to-action (abonneren, etc.) bevatten. Schrijf de tekst in spreektaal.",
+        "tags": [
+            "Content Creator",
+            "Tekst Schrijven",
+            "Video Productie",
+            "Script"
+        ],
+        "role": "Content Creator / Trainer",
+        "tasks": [
+            "Scripts schrijven",
+            "Educatieve content maken",
+            "Video's produceren"
+        ],
+        "use_case": "Een content creator wil een instructievideo maken en heeft een goed gestructureerd, spreektaal-script nodig om de opname soepel te laten verlopen.",
+        "context_keywords": [
+            "script",
+            "tutorial",
+            "YouTube",
+            "video",
+            "instructies",
+            "spreektaal"
+        ]
+    },
+    {
+        "id": 80,
+        "title": "Structureren van Notulen na Vergadering",
+        "prompt": "Fungeer als een ervaren directiesecretaresse. Ik geef je mijn ruwe aantekeningen van een vergadering. Structureer deze in een formeel notulen-document. Het document moet de volgende onderdelen bevatten:\n1. Vergaderdetails (Datum, Tijd, Locatie, Titel)\n2. Aanwezigen en Afwezigen\n3. Agendapunten (zoals besproken)\n4. Besluiten (duidelijk per agendapunt)\n5. Actiepunten (in een tabel met kolommen: 'Actiepunt', 'Verantwoordelijke', 'Deadline').\n\nMijn aantekeningen zijn:\n[Plak hier je ruwe aantekeningen of steekwoorden]",
+        "tags": [
+            "Directiesecretaresse",
+            "Notuleren & Verslaglegging",
+            "Vergadering",
+            "Administratie"
+        ],
+        "role": "Directiesecretaresse / Management Assistent",
+        "tasks": [
+            "Notuleren",
+            "Verslaglegging",
+            "Informatie structureren"
+        ],
+        "use_case": "Na een vergadering moeten ruwe aantekeningen worden omgezet in een formeel en gestructureerd verslag (notulen) voor alle deelnemers.",
+        "context_keywords": [
+            "notulen",
+            "vergadering",
+            "verslaglegging",
+            "actiepunten",
+            "besluiten",
+            "verantwoordelijke",
+            "deadline"
+        ]
+    },
+    {
+        "id": 81,
+        "title": "Gedetailleerde Transcriptie van Audio",
+        "prompt": "Transcribeer de volgende tekst die uit een audio-opname komt. Zorg voor een nauwkeurige, letterlijke weergave. Identificeer verschillende sprekers als 'Spreker 1', 'Spreker 2', etc. Voeg timestamps toe [HH:MM:SS] aan het begin van elke paragraaf of bij een belangrijke wisseling van onderwerp. Markeer onverstaanbare woorden of zinnen met [onverstaanbaar].\n\nTekst:\n[Plak hier de tekst uit het dictaat of de audio-opname]",
+        "tags": [
+            "Office Manager",
+            "Notuleren & Verslaglegging",
+            "Transcriptie",
+            "Audio"
+        ],
+        "role": "Transcriptionist / Administratief Medewerker",
+        "tasks": [
+            "Transcriberen",
+            "Verslaglegging",
+            "Dataverwerking"
+        ],
+        "use_case": "Voor juridische, medische of onderzoeksdoeleinden moet een audio-opname nauwkeurig worden omgezet naar een geschreven tekst, inclusief sprekeridentificatie en timestamps.",
+        "context_keywords": [
+            "transcriptie",
+            "audio",
+            "letterlijk",
+            "sprekers",
+            "timestamps",
+            "verslaglegging"
+        ]
+    },
+    {
+        "id": 82,
+        "title": "Verwerken van een Dictaat tot Formeel Document",
+        "prompt": "Ik heb een memo gedicteerd. Verwerk dit dictaat tot een formele, goed gestructureerde e-mail/memo gericht aan [doelgroep, bv. 'het managementteam']. Corrigeer eventuele grammaticale fouten, verbeter de zinsbouw voor betere leesbaarheid en zorg voor een professionele en overtuigende toon. De onderwerpregel moet zijn: [onderwerp].\n\nDictaat:\n[Plak hier de gedicteerde tekst]",
+        "tags": [
+            "Directiesecretaresse",
+            "Communicatie & E-mail",
+            "Tekst Schrijven",
+            "Memo"
+        ],
+        "role": "Directiesecretaresse / Personal Assistant",
+        "tasks": [
+            "Dictaten uitwerken",
+            "Teksten redigeren",
+            "Zakelijke communicatie"
+        ],
+        "use_case": "Een manager heeft snel een idee gedicteerd dat door de assistent moet worden omgezet in een professionele, foutloze en goed gestructureerde memo of e-mail.",
+        "context_keywords": [
+            "dictaat",
+            "memo",
+            "e-mail",
+            "formeel schrijven",
+            "redigeren",
+            "professionaliseren"
+        ]
+    },
+    {
+        "id": 83,
+        "title": "Complexe Afspraak Inplannen met Meerdere Personen",
+        "prompt": "Stel een e-mail op om een afspraak te plannen voor 4 personen met complexe en beperkte beschikbaarheid. Persoon A kan alleen op ma/di ochtend. Persoon B niet op vrijdag. Persoon C reist op woensdag. De meeting duurt 1 uur en moet volgende week plaatsvinden. Stel 3 concrete tijdslots voor en vraag de ontvangers hun voorkeur aan te geven of een datumprikker te gebruiken.",
+        "tags": [
+            "Office Manager",
+            "Planning & Organisatie",
+            "Communicatie & E-mail",
+            "Agendabeheer"
+        ],
+        "role": "Office Manager / Directiesecretaresse",
+        "tasks": [
+            "Agendabeheer",
+            "Plannen en organiseren",
+            "Communicatie"
+        ],
+        "use_case": "Het plannen van een meeting met meerdere drukbezette personen is complex. Deze prompt helpt bij het opstellen van een duidelijke e-mail om efficiënt een geschikt moment te vinden.",
+        "context_keywords": [
+            "afspraak plannen",
+            "agendabeheer",
+            "beschikbaarheid",
+            "tijdslots",
+            "datumprikker",
+            "organisatie"
+        ]
+    },
+    {
+        "id": 84,
+        "title": "Structuur voor een Zakelijke Presentatie",
+        "prompt": "Mijn manager moet een presentatie geven over [onderwerp]. Ik geef je de kernboodschappen. Creëer op basis hiervan een logische structuur voor een 10-slide PowerPoint-presentatie. Geef per slide een titel en 3-5 bullet points met de inhoud. De structuur moet bevatten: titelslide, agenda, introductie, 3-4 inhoudelijke slides, samenvatting, en een Q&A slide.",
+        "tags": [
+            "Directiesecretaresse",
+            "Documentatie & Presentatie",
+            "PowerPoint",
+            "Planning & Organisatie"
+        ],
+        "role": "Directiesecretaresse / Management Assistent",
+        "tasks": [
+            "Presentaties voorbereiden",
+            "Informatie structureren",
+            "Ondersteunen van management"
+        ],
+        "use_case": "Een assistent helpt een manager bij het voorbereiden van een belangrijke presentatie door de kernboodschappen om te zetten in een heldere slide-structuur.",
+        "context_keywords": [
+            "presentatie",
+            "PowerPoint",
+            "structuur",
+            "slides",
+            "bullet points",
+            "zakelijk"
+        ]
+    },
+    {
+        "id": 85,
+        "title": "Checklist voor Organisatie van een Bedrijfsevenement",
+        "prompt": "Genereer een gedetailleerde checklist voor het organiseren van een [type evenement, bv. 'jaarlijkse personeelsborrel'] voor [aantal] personen. De checklist moet onderverdeeld zijn in fasen (2 maanden vooraf, 1 maand vooraf, 1 week vooraf, op de dag zelf) en taken bevatten zoals budgettering, locatie zoeken, offertes opvragen, uitnodigingen versturen, catering regelen, techniek controleren en de communicatieplanning.",
+        "tags": [
+            "Office Manager",
+            "Planning & Organisatie",
+            "Evenementen",
+            "Checklist"
+        ],
+        "role": "Office Manager / Event Manager",
+        "tasks": [
+            "Evenementenorganisatie",
+            "Projectplanning",
+            "Budgetbeheer"
+        ],
+        "use_case": "Voor de organisatie van een bedrijfsevenement is een gedetailleerde checklist essentieel om ervoor te zorgen dat geen enkele taak over het hoofd wordt gezien.",
+        "context_keywords": [
+            "checklist",
+            "evenement",
+            "planning",
+            "organisatie",
+            "budgettering",
+            "locatie",
+            "catering"
+        ]
+    },
+    {
+        "id": 86,
+        "title": "Gedetailleerd Reisplan (Itinerarium) Opstellen",
+        "prompt": "Stel een compleet en gedetailleerd reisplan (itinerarium) op voor een zakenreis van [naam manager] naar [stad/land] van [startdatum] tot [einddatum]. Baseer je op de volgende informatie: [plak hier vluchtnummers, hotelnaam, meeting-adressen, etc.]. Het plan moet een overzicht per dag bevatten met tijden, locaties, vluchtgegevens, hotelinformatie (incl. adres en bevestigingsnummer), transportdetails en contactpersonen voor de afspraken.",
+        "tags": [
+            "Directiesecretaresse",
+            "Planning & Organisatie",
+            "Reizen",
+            "Administratie"
+        ],
+        "role": "Directiesecretaresse / Personal Assistant",
+        "tasks": [
+            "Reizen boeken en plannen",
+            "Agendabeheer",
+            "Informatie structureren"
+        ],
+        "use_case": "Een assistent moet een overzichtelijk en compleet reisplan maken voor een manager, zodat deze tijdens de zakenreis alle benodigde informatie direct bij de hand heeft.",
+        "context_keywords": [
+            "reisplan",
+            "itinerarium",
+            "zakenreis",
+            "planning",
+            "vluchtgegevens",
+            "hotel",
+            "afspraken"
+        ]
+    },
+    {
+        "id": 87,
+        "title": "Management Samenvatting van Lang Rapport",
+        "prompt": "Vat het volgende rapport samen tot een beknopte 'management summary' van maximaal 250 woorden. De samenvatting moet gericht zijn op een drukbezette manager en de belangrijkste bevindingen, conclusies en aanbevelingen helder presenteren.\n\nRapport:\n[Plak hier de tekst van het rapport]",
+        "tags": [
+            "Directiesecretaresse",
+            "Samenvatten & Vereenvoudigen",
+            "Rapportage",
+            "Management"
+        ],
+        "role": "Directiesecretaresse / Analist",
+        "tasks": [
+            "Samenvatten",
+            "Rapporteren",
+            "Informatie distilleren"
+        ],
+        "use_case": "Een manager heeft geen tijd om een lang rapport te lezen en vraagt om een korte, krachtige samenvatting die de essentie weergeeft voor snelle besluitvorming.",
+        "context_keywords": [
+            "samenvatting",
+            "management summary",
+            "rapport",
+            "conclusies",
+            "aanbevelingen",
+            "beknopt"
+        ]
+    },
+    {
+        "id": 88,
+        "title": "Optimaliseren van een Kantoorproces",
+        "prompt": "Analyseer het volgende kantoorproces: [beschrijf een proces, bv. 'het onboarden van een nieuwe medewerker' of 'het verwerken van inkomende post']. Identificeer 3 potentiële knelpunten die leiden tot vertraging of inefficiëntie. Geef voor elk knelpunt een concreet verbetervoorstel, inclusief de benodigde stappen of aan te schaffen tools.",
+        "tags": [
+            "Office Manager",
+            "Procesoptimalisatie",
+            "Analyse",
+            "Efficiëntie"
+        ],
+        "role": "Office Manager / Procesmanager",
+        "tasks": [
+            "Procesanalyse",
+            "Optimalisatie",
+            "Efficiëntieverbetering"
+        ],
+        "use_case": "Een office manager wil een bestaand kantoorproces efficiënter maken en gebruikt deze prompt om knelpunten te identificeren en concrete verbetervoorstellen te genereren.",
+        "context_keywords": [
+            "procesoptimalisatie",
+            "kantoorproces",
+            "knelpunten",
+            "efficiëntie",
+            "verbetervoorstel",
+            "analyse"
+        ]
+    },
+    {
+        "id": 89,
+        "title": "E-mailtemplate voor Afspraakbevestiging",
+        "prompt": "Creëer een professioneel en volledig e-mailtemplate voor het bevestigen van een afspraak. Het template moet placeholders bevatten voor [Naam genodigde], [Datum], [Tijd], [Locatie/Videocall-link], [Onderwerp van de meeting], en [Namen van andere deelnemers]. Voeg ook een vriendelijke zin toe waarin gevraagd wordt om het te laten weten bij verhindering.",
+        "tags": [
+            "Directiesecretaresse",
+            "Communicatie & E-mail",
+            "Template",
+            "Agendabeheer"
+        ],
+        "role": "Directiesecretaresse / Office Manager",
+        "tasks": [
+            "Templates maken",
+            "Agendabeheer",
+            "Efficiënt communiceren"
+        ],
+        "use_case": "Om tijd te besparen en consistent te communiceren, wil een assistent een standaard e-mailtemplate voor het bevestigen van afspraken, dat snel kan worden ingevuld.",
+        "context_keywords": [
+            "e-mailtemplate",
+            "afspraakbevestiging",
+            "agendabeheer",
+            "placeholders",
+            "efficiëntie"
+        ]
+    },
+    {
+        "id": 90,
+        "title": "Concept voor Interne Aankondiging",
+        "prompt": "Schrijf een concept voor een interne aankondiging (voor intranet of e-mail) over [onderwerp, bv. 'de implementatie van een nieuw softwarepakket' of 'een wijziging in het thuiswerkbeleid']. De toon moet informatief, duidelijk en positief zijn. Zorg ervoor dat de 'waarom' achter de verandering wordt uitgelegd en geef aan waar medewerkers terechtkunnen met vragen.",
+        "tags": [
+            "Office Manager",
+            "Communicatie & E-mail",
+            "Interne Communicatie",
+            "HR"
+        ],
+        "role": "HR / Communicatie Medewerker / Office Manager",
+        "tasks": [
+            "Interne communicatie",
+            "Verandermanagement",
+            "Tekstschrijven"
+        ],
+        "use_case": "Bij een belangrijke verandering binnen het bedrijf moet er een duidelijke en positieve aankondiging worden geschreven om alle medewerkers te informeren en draagvlak te creëren.",
+        "context_keywords": [
+            "interne communicatie",
+            "aankondiging",
+            "intranet",
+            "beleidswijziging",
+            "medewerkers informeren"
+        ]
+    },
+    {
+        "id": 91,
+        "title": "Opvolgen van Openstaande Actiepunten",
+        "prompt": "Genereer een beleefde maar duidelijke reminder-e-mail voor een collega over een openstaand actiepunt uit de vergadering van [datum]. Het actiepunt is: \"[beschrijving actiepunt]\". De deadline was [datum]. Vraag vriendelijk naar de status en bied hulp aan indien nodig.",
+        "tags": [
+            "Directiesecretaresse",
+            "Communicatie & E-mail",
+            "Follow-up",
+            "Productiviteit"
+        ],
+        "role": "Directiesecretaresse / Project Manager",
+        "tasks": [
+            "Actiepunten opvolgen",
+            "Projectbewaking",
+            "Communicatie"
+        ],
+        "use_case": "Om de voortgang van een project te bewaken, moet een openstaand actiepunt worden opgevolgd met een vriendelijke maar duidelijke herinneringsmail naar de verantwoordelijke collega.",
+        "context_keywords": [
+            "follow-up",
+            "reminder",
+            "actiepunt",
+            "vergadering",
+            "deadline",
+            "statusupdate"
+        ]
+    },
+    {
+        "id": 92,
+        "title": "Filteren en Prioriteren van Inbox",
+        "prompt": "Fungeer als een slimme assistent. Ik geef je 5 onderwerpregels en afzenders uit de inbox van mijn manager. Prioriteer deze op een schaal van 1 (zeer urgent) tot 3 (kan wachten). Geef per e-mail een korte samenvatting van de vermoedelijke inhoud en een suggestie voor de volgende actie (direct antwoorden, agenderen, doorsturen, archiveren).\n\nE-mails:\n[Plak hier de lijst met onderwerpregels en afzenders]",
+        "tags": [
+            "Directiesecretaresse",
+            "Communicatie & E-mail",
+            "Productiviteit",
+            "Time Management"
+        ],
+        "role": "Directiesecretaresse / Personal Assistant",
+        "tasks": [
+            "Inbox management",
+            "Prioriteren",
+            "Efficiëntie"
+        ],
+        "use_case": "Een assistent helpt een manager de dag productief te starten door de inbox te scannen, e-mails te prioriteren en acties voor te stellen.",
+        "context_keywords": [
+            "inbox management",
+            "prioriteren",
+            "e-mail",
+            "productiviteit",
+            "assistent",
+            "time management"
+        ]
+    },
+    {
+        "id": 93,
+        "title": "Voorbereiden van een Vergadering (Briefing Document)",
+        "prompt": "Stel een briefingdocument van één pagina op voor mijn manager ter voorbereiding op de meeting met [naam externe partij] over [onderwerp]. Het document moet de volgende secties bevatten:\n1. Doel van de meeting.\n2. Profiel van de aanwezigen (namen, functies).\n3. Korte geschiedenis/context van de relatie.\n4. Belangrijkste gesprekspunten/agenda.\n5. Gewenst resultaat van de meeting.",
+        "tags": [
+            "Directiesecretaresse",
+            "Documentatie & Presentatie",
+            "Planning & Organisatie",
+            "Vergadering"
+        ],
+        "role": "Directiesecretaresse / Management Assistent",
+        "tasks": [
+            "Vergaderingen voorbereiden",
+            "Informatie verzamelen en structureren",
+            "Ondersteunen van management"
+        ],
+        "use_case": "Voor een belangrijke externe meeting moet een manager goed voorbereid zijn. De assistent stelt een beknopt briefingdocument op met alle cruciale informatie.",
+        "context_keywords": [
+            "briefing document",
+            "vergadering voorbereiden",
+            "meeting",
+            "agenda",
+            "doelstelling",
+            "stakeholders"
+        ]
+    },
+    {
+        "id": 94,
+        "title": "Vergelijken van Leveranciersoffertes",
+        "prompt": "Ik heb offertes ontvangen van 3 leveranciers voor [product/dienst, bv. 'nieuwe kantoorstoelen']. Maak een overzichtelijke tabel die de leveranciers vergelijkt op de volgende criteria: prijs per eenheid, totale kosten, levertijd, garantievoorwaarden en klantreviews (indien bekend). Geef op basis van de tabel een aanbeveling voor de beste keuze.\n\nData:\n[Plak hier de belangrijkste data uit de offertes]",
+        "tags": [
+            "Office Manager",
+            "Analyse",
+            "Inkoop",
+            "Vergelijken"
+        ],
+        "role": "Office Manager / Inkoper",
+        "tasks": [
+            "Inkoop",
+            "Leveranciersmanagement",
+            "Kostenanalyse"
+        ],
+        "use_case": "Een office manager moet een aankoopbeslissing nemen en wil de offertes van verschillende leveranciers objectief vergelijken om de beste keuze te maken.",
+        "context_keywords": [
+            "offertes vergelijken",
+            "inkoop",
+            "leveranciers",
+            "kostenanalyse",
+            "tabel",
+            "aanbeveling"
+        ]
+    },
+    {
+        "id": 95,
+        "title": "Brief voor Verlenging Opdracht ZZP'er",
+        "prompt": "Als expert op het gebied van contractverlenging, verzoek ik je om een gedetailleerde brief op te stellen voor zzp'ers om hun opdracht met een jaar te verlengen. De brief moet de voordelen van de verlenging voor beide partijen benadrukken, rekening houden met de voorwaarden van de huidige overeenkomst en duidelijk de volgende stappen voor de zzp'er uiteenzetten om de verlenging te bevestigen. Gelieve ook de context van de samenwerking en eventuele relevante wijzigingen in de contractvoorwaarden te vermelden.",
+        "tags": [
+            "HR Professional",
+            "Communicatie & E-mail",
+            "Zakelijk Schrijven",
+            "ZZP",
+            "Contractverlenging"
+        ],
+        "role": "HR Professional / Project Manager",
+        "tasks": [
+            "Contractmanagement",
+            "Leveranciersrelaties beheren",
+            "Formele communicatie"
+        ],
+        "use_case": "Een manager of HR-medewerker wil een gewaardeerde ZZP'er formeel een verlenging van de opdracht aanbieden en moet hiervoor een duidelijke en volledige brief opstellen.",
+        "context_keywords": [
+            "contractverlenging",
+            "ZZP",
+            "opdracht",
+            "brief",
+            "zakelijk schrijven",
+            "overeenkomst"
+        ]
+    },
+    {
+        "id": 96,
+        "title": "E-mail voor Afstemmen met Assistenten van Bestuurders",
+        "prompt": "Als expert in zakelijke communicatie, verzoek ik je om een professionele e-mail op te stellen gericht aan de assistenten van vier verschillende bestuurders. De e-mail moet hen uitnodigen voor een online afstemmoment om een overleg te plannen tussen de projectleider en hun respectieve bestuurders. De e-mail moet de noodzaak van het overleg, de voorgestelde data en tijden voor het afstemmoment, en de verwachte uitkomsten duidelijk vermelden. Daarnaast moet het verzoek vriendelijk en respectvol worden geformuleerd om een positieve respons te bevorderen.",
+        "tags": [
+            "Directiesecretaresse",
+            "Office Manager",
+            "Communicatie & E-mail",
+            "Planning & Organisatie",
+            "Agendabeheer"
+        ],
+        "role": "Directiesecretaresse / Projectassistent",
+        "tasks": [
+            "Complex agendabeheer",
+            "Communicatie met stakeholders",
+            "Vergaderingen plannen"
+        ],
+        "use_case": "Het plannen van een overleg op bestuursniveau is complex. Deze prompt helpt bij het opstellen van een efficiënte e-mail naar de assistenten om de planning te coördineren.",
+        "context_keywords": [
+            "agendabeheer",
+            "bestuurders",
+            "assistenten",
+            "planning",
+            "e-mail",
+            "afstemmoment"
+        ]
+    },
+    {
+        "id": 97,
+        "title": "Contextvragen voor Beleidsnotitie",
+        "prompt": "Ik ben een officemanager van een netwerkorganisatie en heb dus te maken met 12 verschillende bestuurders van aangesloten organisaties binnen de netwerksamenwerking. Stel mij 5 verdiepende contextvragen voordat ik een beleidsnotitie maak voor het besluiten rondom een juridische structuur van de netwerkorganisatie.",
+        "tags": [
+            "Office Manager",
+            "Beleidsmedewerker",
+            "Strategie & Advies",
+            "Analyse",
+            "Beleidsnotitie"
+        ],
+        "role": "Beleidsmedewerker / Strategisch Adviseur",
+        "tasks": [
+            "Informatieanalyse",
+            "Beleidsvoorbereiding",
+            "Stakeholderanalyse"
+        ],
+        "use_case": "Voordat een complex beleidsstuk wordt geschreven, is het cruciaal om de juiste vragen te stellen om alle relevante context en belangen in kaart te brengen.",
+        "context_keywords": [
+            "contextvragen",
+            "beleidsnotitie",
+            "juridische structuur",
+            "netwerkorganisatie",
+            "bestuurders",
+            "analyse"
+        ]
+    },
+    {
+        "id": 98,
+        "title": "Voorloopnota Opstellen voor Beleidsbesluit",
+        "prompt": "Geef mij een voorloopnota waarin naar voren komt:\n- Waarom/aanleiding\n- Essentie\n- Gemaakte keuzes en overwegingen daartoe\n- Financiële consequentie, risico-afweging, impact-analyse\n- Gevraagde besluitvorming",
+        "tags": [
+            "Beleidsmedewerker",
+            "Tekst Schrijven",
+            "Documentatie & Presentatie",
+            "Beleidsnotitie",
+            "Rapportage"
+        ],
+        "role": "Beleidsmedewerker / Adviseur",
+        "tasks": [
+            "Beleidsdocumenten opstellen",
+            "Besluitvorming voorbereiden",
+            "Analyseren en rapporteren"
+        ],
+        "use_case": "Voorafgaand aan een belangrijk beleidsbesluit moet een beknopte en gestructureerde nota worden opgesteld die alle relevante informatie voor de beslissers samenvat.",
+        "context_keywords": [
+            "voorloopnota",
+            "beleidsbesluit",
+            "essentie",
+            "risico-afweging",
+            "impact-analyse",
+            "besluitvorming"
+        ]
+    },
+    {
+        "id": 99,
+        "title": "Sjabloon voor Verslag Bestuurdersoverleg (Basis)",
+        "prompt": "Maak een sjabloon voor een verslag van een bestuurdersoverleg waarin de volgende punten aan bod komen: datum en tijd van de vergadering, aanwezige bestuurders, besproken agendapunten, genomen besluiten, en actiepunten voor de volgende vergadering.",
+        "tags": [
+            "Directiesecretaresse",
+            "Template",
+            "Notuleren & Verslaglegging",
+            "Vergadering"
+        ],
+        "role": "Directiesecretaresse / Notulist",
+        "tasks": [
+            "Templates ontwikkelen",
+            "Efficiënte verslaglegging",
+            "Standaardiseren"
+        ],
+        "use_case": "Om de verslaglegging van bestuurdersoverleggen te stroomlijnen, is een basissjabloon nodig dat zorgt voor consistentie en volledigheid.",
+        "context_keywords": [
+            "sjabloon",
+            "template",
+            "verslag",
+            "notulen",
+            "bestuurdersoverleg",
+            "actiepunten"
+        ]
+    },
+    {
+        "id": 100,
+        "title": "Standaardformulier voor Kernpunten Vergadering",
+        "prompt": "Ontwerp een standaardformulier voor het vastleggen van de kernpunten van een bestuurdersoverleg, inclusief deelnemerslijst, hoofdonderwerpen, besluitvorming en vervolgstappen.",
+        "tags": [
+            "Directiesecretaresse",
+            "Template",
+            "Notuleren & Verslaglegging",
+            "Vergadering"
+        ],
+        "role": "Directiesecretaresse / Office Manager",
+        "tasks": [
+            "Formulieren ontwerpen",
+            "Vergaderprocessen optimaliseren",
+            "Informatie structureren"
+        ],
+        "use_case": "Een gestandaardiseerd formulier helpt om tijdens een vergadering direct de kernpunten, besluiten en acties op een gestructureerde manier vast te leggen.",
+        "context_keywords": [
+            "formulier",
+            "template",
+            "kernpunten",
+            "vergadering",
+            "besluitvorming",
+            "vervolgstappen"
+        ]
+    },
+    {
+        "id": 101,
+        "title": "Matrix-Format voor Actiegericht Vergaderverslag",
+        "prompt": "Genereer een overzichtelijk format voor een bestuurdersoverleg dat ruimte biedt voor notities over de besproken thema's, gemaakte afspraken, en toegewezen acties. Zorg dat alles in duidelijke matrixen komt te staan, waardoor bullitsgewijs punten kunnen worden toegevoegd.",
+        "tags": [
+            "Directiesecretaresse",
+            "Template",
+            "Notuleren & Verslaglegging",
+            "Vergadering",
+            "Matrix"
+        ],
+        "role": "Directiesecretaresse / Projectassistent",
+        "tasks": [
+            "Templates ontwerpen",
+            "Actiegerichte verslaglegging",
+            "Informatie visualiseren"
+        ],
+        "use_case": "Om een vergaderverslag direct actiegericht en overzichtelijk te maken, wordt een matrix-format gebruikt dat thema's, afspraken en acties helder koppelt.",
+        "context_keywords": [
+            "matrix",
+            "format",
+            "template",
+            "vergaderverslag",
+            "actiegericht",
+            "notulen"
+        ]
+    },
+    {
+        "id": 102,
+        "title": "Gedetailleerd Verslag Maken van Bestuurdersoverleg",
+        "prompt": "Beschrijf de hoofdpunten en besluiten van het overleg met de bestuurders, inclusief de datum, tijd, en locatie van de vergadering. Noteer de actiepunten en verantwoordelijkheden die zijn toegewezen tijdens het overleg, en geef een overzicht van de vervolgstappen. Vat de discussies samen die hebben plaatsgevonden tijdens het overleg, met speciale aandacht voor de onderwerpen die van belang zijn voor de toekomstige richting van de organisatie. Zorg voor een heldere en correcte formulering in het Nederlands, met aandacht voor grammatica en spelling, om de professionaliteit en duidelijkheid van het verslag te waarborgen.",
+        "tags": [
+            "Directiesecretaresse",
+            "Notuleren & Verslaglegging",
+            "Vergadering",
+            "Tekst Schrijven"
+        ],
+        "role": "Directiesecretaresse / Notulist",
+        "tasks": [
+            "Gedetailleerde verslaglegging",
+            "Notuleren",
+            "Professioneel schrijven"
+        ],
+        "use_case": "Na een belangrijk bestuurdersoverleg moet een compleet en formeel verslag worden geschreven dat niet alleen besluiten en acties vastlegt, maar ook de context van de discussies.",
+        "context_keywords": [
+            "verslag",
+            "notulen",
+            "bestuurdersoverleg",
+            "hoofdpunten",
+            "besluiten",
+            "actiepunten",
+            "discussies"
+        ]
+    },
+    {
+        "id": 103,
+        "title": "E-mail Schrijven in Persoonlijke Tone of Voice",
+        "prompt": "Schrijf een mail welke mijn bestaande schrijfstijl weerspiegelt, met kenmerkend is door een positieve, informele, actieve toon en het denken in mogelijkheden. Maak nu een mail aan de projectleiders om ze uit te nodigen voor het projectleidersoverleg op 3 juli. Attendeer hen op het huiswerk wat tevens te vinden is in de bijlage. [bijlage koppelen in Copilot].",
+        "tags": [
+            "Algemeen",
+            "Communicatie & E-mail",
+            "Tekst Schrijven",
+            "Tone of Voice",
+            "Personaliseren"
+        ],
+        "role": "Algemeen (elke professional)",
+        "tasks": [
+            "Gepersonaliseerde communicatie",
+            "E-mails opstellen",
+            "Tone of voice aanpassen"
+        ],
+        "use_case": "Een gebruiker wil een e-mail versturen die niet generiek klinkt, maar aansluit bij diens eigen, specifieke schrijfstijl om de communicatie persoonlijker en effectiever te maken.",
+        "context_keywords": [
+            "tone of voice",
+            "schrijfstijl",
+            "personaliseren",
+            "e-mail",
+            "uitnodiging",
+            "positieve toon"
+        ]
+    },
+    {
+        "id": 104,
+        "title": "Openstaande Acties uit E-mails Identificeren",
+        "prompt": "Zijn er lopende acties die voorvloeien uit mijn mails die ik gisteren of eerder heb ontvangen? Negeer de mails die ik vandaag heb ontvangen.",
+        "tags": [
+            "Algemeen",
+            "Productiviteit",
+            "Analyse",
+            "E-mailbeheer",
+            "Actiepunten"
+        ],
+        "role": "Algemeen (elke professional)",
+        "tasks": [
+            "Taakbeheer",
+            "E-mail analyse",
+            "Productiviteit verhogen"
+        ],
+        "use_case": "Om te zorgen dat er geen taken over het hoofd worden gezien, wil een gebruiker een overzicht van alle openstaande actiepunten die uit de recente e-mailcorrespondentie voortkomen.",
+        "context_keywords": [
+            "actiepunten",
+            "e-mailbeheer",
+            "taken",
+            "productiviteit",
+            "inbox",
+            "analyse"
+        ]
+    },
+    {
+        "id": 201,
+        "title": "Toetsen Ontwikkelen",
+        "prompt": "Help mij met het opstellen van toetsvragen voor [vak/onderwerp], afgestemd op [niveau].",
+        "tags": [
+            "Onderwijs",
+            "Toetsing",
+            "Docenten",
+            "Didactiek",
+            "AI-ondersteuning"
+        ],
+        "role": "Docent / Onderwijsontwikkelaar",
+        "tasks": [
+            "Toetsen construeren",
+            "Lesmateriaal ontwikkelen",
+            "Beoordelen"
+        ],
+        "use_case": "Een docent moet een toets opstellen voor een specifiek vak en niveau en zoekt hulp bij het formuleren van relevante en passende toetsvragen.",
+        "context_keywords": [
+            "toetsvragen",
+            "toetsing",
+            "onderwijs",
+            "docent",
+            "niveau",
+            "vak"
+        ]
+    },
+    {
+        "id": 202,
+        "title": "Professioneel Redigeren Tekst",
+        "prompt": "Corrigeer deze tekst grammaticaal en stilistisch, zonder mijn schrijfstijl te verliezen.",
+        "tags": [
+            "Taal",
+            "Redactie",
+            "Stijl",
+            "Tekstbewerking",
+            "Professioneel schrijven"
+        ],
+        "role": "Auteur / Communicatiemedewerker",
+        "tasks": [
+            "Teksten redigeren",
+            "Schrijfstijl bewaken",
+            "Kwaliteitscontrole"
+        ],
+        "use_case": "Een schrijver heeft een tekst opgesteld en wil deze laten controleren op fouten, maar wil wel dat de unieke, persoonlijke toon van de tekst behouden blijft.",
+        "context_keywords": [
+            "redigeren",
+            "corrigeren",
+            "grammatica",
+            "stijl",
+            "schrijfstijl",
+            "tekstbewerking"
+        ]
+    },
+    {
+        "id": 203,
+        "title": "Nederlandse Taal en Grammatica",
+        "prompt": "Controleer deze Nederlandse tekst op grammatica en zinsstructuur, maar behoud mijn toon.",
+        "tags": [
+            "Taal",
+            "Grammatica",
+            "Nederlandstalig",
+            "Correctie",
+            "Stijlbewaking"
+        ],
+        "role": "Auteur / Student",
+        "tasks": [
+            "Teksten controleren",
+            "Grammatica verbeteren",
+            "Zinsbouw optimaliseren"
+        ],
+        "use_case": "Een gebruiker wil een Nederlandse tekst laten nakijken op grammaticale correctheid en zinsbouw, met het verzoek om de oorspronkelijke toon niet te veranderen.",
+        "context_keywords": [
+            "Nederlandse taal",
+            "grammatica",
+            "zinsstructuur",
+            "correctie",
+            "toon"
+        ]
+    },
+    {
+        "id": 204,
+        "title": "Opdrachten Differentiëren",
+        "prompt": "Maak van deze opdracht een makkelijkere én moeilijkere versie voor differentiatieniveau.",
+        "tags": [
+            "Differentiatie",
+            "Onderwijs",
+            "Opdrachten",
+            "Niveauverschillen",
+            "Leerdoelen"
+        ],
+        "role": "Docent",
+        "tasks": [
+            "Differentiëren",
+            "Lesmateriaal aanpassen",
+            "Inclusief onderwijs bieden"
+        ],
+        "use_case": "Een docent wil een opdracht aanpassen aan de verschillende leerniveaus in de klas en heeft een makkelijkere en een moeilijkere variant van de basisopdracht nodig.",
+        "context_keywords": [
+            "differentiatie",
+            "onderwijs",
+            "opdracht",
+            "niveau",
+            "leerdoelen",
+            "lesmateriaal"
+        ]
+    },
+    {
+        "id": 205,
+        "title": "Tekst Samenvatten",
+        "prompt": "Vat deze tekst samen in een paar heldere zinnen, neutraal en zonder interpretatie.",
+        "tags": [
+            "Samenvatting",
+            "Tekstanalyse",
+            "Informatieextractie",
+            "Taal",
+            "Begrijpend lezen"
+        ],
+        "role": "Student / Analist / Onderzoeker",
+        "tasks": [
+            "Teksten samenvatten",
+            "Kerninformatie extraheren",
+            "Analyse"
+        ],
+        "use_case": "Een gebruiker moet de essentie van een lange tekst snel begrijpen en vraagt om een korte, objectieve samenvatting van de kernpunten.",
+        "context_keywords": [
+            "samenvatting",
+            "tekstanalyse",
+            "neutraal",
+            "kernpunten",
+            "begrijpend lezen"
+        ]
+    },
+    {
+        "id": 206,
+        "title": "Brainstormen",
+        "prompt": "Help me brainstormen over [onderwerp]. Denk ook out-of-the-box.",
+        "tags": [
+            "Creativiteit",
+            "Ideeënvorming",
+            "Brainstorm",
+            "Innovatie",
+            "Onderwijs"
+        ],
+        "role": "Algemeen (elke creatieve professional)",
+        "tasks": [
+            "Ideeën genereren",
+            "Creatief denken",
+            "Probleemoplossing"
+        ],
+        "use_case": "Wanneer iemand nieuwe ideeën of invalshoeken nodig heeft voor een project of probleem, kan deze prompt worden gebruikt om een creatieve brainstormsessie te starten.",
+        "context_keywords": [
+            "brainstorm",
+            "ideeën",
+            "creativiteit",
+            "out-of-the-box",
+            "innovatie"
+        ]
+    },
+    {
+        "id": 207,
+        "title": "E-mail Opstellen",
+        "prompt": "Stel een professionele en duidelijke e-mail op met deze inhoud: [input].",
+        "tags": [
+            "E-mail",
+            "Communicatie",
+            "Professioneel",
+            "Schrijven",
+            "Structureren"
+        ],
+        "role": "Algemeen (elke professional)",
+        "tasks": [
+            "Zakelijke communicatie",
+            "E-mails schrijven",
+            "Informatie structureren"
+        ],
+        "use_case": "Een gebruiker heeft de kerninhoud voor een e-mail, maar wil hulp om dit om te zetten in een goed gestructureerde, professionele en duidelijke boodschap.",
+        "context_keywords": [
+            "e-mail",
+            "professioneel",
+            "communicatie",
+            "structuur",
+            "zakelijk schrijven"
+        ]
+    },
+    {
+        "id": 208,
+        "title": "Rubrics Ontwikkelen",
+        "prompt": "Ontwerp een rubric voor het beoordelen van [activiteit] met niveaus en criteria.",
+        "tags": [
+            "Beoordeling",
+            "Rubrics",
+            "Onderwijs",
+            "Docenten",
+            "Evaluatie"
+        ],
+        "role": "Docent / Beoordelaar",
+        "tasks": [
+            "Beoordelingsinstrumenten ontwikkelen",
+            "Criteria vaststellen",
+            "Evalueren"
+        ],
+        "use_case": "Om een vaardigheid of opdracht objectief en transparant te kunnen beoordelen, wil een docent een rubric opstellen met duidelijke criteria voor verschillende prestatieniveaus.",
+        "context_keywords": [
+            "rubric",
+            "beoordeling",
+            "criteria",
+            "niveaus",
+            "evaluatie",
+            "onderwijs"
+        ]
+    },
+    {
+        "id": 209,
+        "title": "Onderwijs Ontwikkelen op Vakniveau",
+        "prompt": "Maak een weekplanning voor een vak [vaknaam] op basis van deze leerdoelen.",
+        "tags": [
+            "Lesplanning",
+            "Curriculum",
+            "Onderwijsontwerp",
+            "Weekstructuur",
+            "Didactiek"
+        ],
+        "role": "Docent / Curriculumontwikkelaar",
+        "tasks": [
+            "Curriculumontwikkeling",
+            "Lesplanning",
+            "Leerdoelen vertalen naar activiteiten"
+        ],
+        "use_case": "Een docent moet een reeks lessen voor een vak plannen en heeft een gestructureerde weekplanning nodig die is afgestemd op de vooraf bepaalde leerdoelen.",
+        "context_keywords": [
+            "lesplanning",
+            "weekplanning",
+            "curriculum",
+            "onderwijs",
+            "leerdoelen",
+            "didactiek"
+        ]
+    },
+    {
+        "id": 210,
+        "title": "Onderwijs Ontwikkelen op Lesniveau",
+        "prompt": "Ontwerp een les over [onderwerp] voor [niveau], met leerdoelen en tijdsindeling.",
+        "tags": [
+            "Lesontwerp",
+            "Didactiek",
+            "Leerdoelen",
+            "Structuur",
+            "Onderwijsontwikkeling"
+        ],
+        "role": "Docent",
+        "tasks": [
+            "Lessen ontwerpen",
+            "Didactische werkvormen kiezen",
+            "Leeractiviteiten plannen"
+        ],
+        "use_case": "Voor een specifieke les moet een docent een gedetailleerd lesplan opstellen, inclusief leerdoelen, activiteiten en een realistische tijdsindeling.",
+        "context_keywords": [
+            "lesontwerp",
+            "lesplan",
+            "didactiek",
+            "leerdoelen",
+            "tijdsindeling",
+            "onderwijs"
+        ]
+    },
+    {
+        "id": 211,
+        "title": "Denkhoeden van Bono",
+        "prompt": "Pas de denkhoeden van De Bono toe op dit probleem: [probleemomschrijving].",
+        "tags": [
+            "Creatief denken",
+            "Bono",
+            "Perspectieven",
+            "Probleemoplossing",
+            "Didactiek"
+        ],
+        "role": "Facilitator / Strateeg / Student",
+        "tasks": [
+            "Probleemanalyse",
+            "Creatieve denktechnieken toepassen",
+            "Perspectieven verkennen"
+        ],
+        "use_case": "Om een probleem vanuit verschillende invalshoeken te bekijken en tot een gebalanceerde oplossing te komen, wordt de 'Zes Denkhoeden' methode van De Bono toegepast.",
+        "context_keywords": [
+            "denkhoeden",
+            "de bono",
+            "probleemoplossing",
+            "perspectieven",
+            "creatief denken",
+            "analyse"
+        ]
+    },
+    {
+        "id": 212,
+        "title": "Advocaat van de Duivel",
+        "prompt": "Speel advocaat van de duivel voor dit idee: [beschrijving idee/argument].",
+        "tags": [
+            "Kritisch denken",
+            "Argumentatie",
+            "Reflectie",
+            "Feedback",
+            "Debat"
+        ],
+        "role": "Strateeg / Analist / Sparringpartner",
+        "tasks": [
+            "Kritisch reflecteren",
+            "Argumenten toetsen",
+            "Risico's identificeren"
+        ],
+        "use_case": "Voordat een idee of plan wordt doorgevoerd, wil iemand de zwakke plekken en potentiële tegenargumenten onderzoeken door een kritische 'advocaat van de duivel' rol te laten spelen.",
+        "context_keywords": [
+            "advocaat van de duivel",
+            "kritisch denken",
+            "tegenargumenten",
+            "feedback",
+            "reflectie",
+            "idee toetsen"
+        ]
+    },
+    {
+        "id": 213,
+        "title": "Feedback Geven op Inhoud",
+        "prompt": "Geef inhoudelijke feedback op deze (wetenschappelijke) tekst: [tekst].",
+        "tags": [
+            "Feedback",
+            "Wetenschap",
+            "Inhoudsanalyse",
+            "Onderzoek",
+            "Verbeteren"
+        ],
+        "role": "Onderzoeker / Peer Reviewer / Docent",
+        "tasks": [
+            "Feedback geven",
+            "Inhoudelijk analyseren",
+            "Teksten beoordelen"
+        ],
+        "use_case": "Een onderzoeker of student heeft een (wetenschappelijke) tekst geschreven en vraagt om inhoudelijke feedback om de kwaliteit en argumentatie te verbeteren.",
+        "context_keywords": [
+            "feedback",
+            "inhoudsanalyse",
+            "wetenschappelijke tekst",
+            "peer review",
+            "onderzoek",
+            "argumentatie"
+        ]
+    }
+]
