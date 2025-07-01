@@ -2926,35 +2926,33 @@
             "analyse"
         ]
     },
-    [
-        {
-            "id": 414,
-            "title": "Opzetten van een Lokaal Inkoopprogramma ('Local Sourcing')",
-            "prompt": "Je bent een supply chain expert met focus op duurzaamheid. Ontwikkel een stappenplan voor het opzetten van een 'local sourcing' programma voor de restaurants en supermarkten op onze parken in Zeeland. Het doel is om 30% van onze F&B-producten in te kopen bij lokale boeren en producenten. Het stappenplan moet bevatten: \n1. Fase 1: Inventarisatie (identificeren van potentiële lokale partners). \n2. Fase 2: Selectie & Kwaliteitsborging (opstellen van criteria voor partners). \n3. Fase 3: Logistiek & Implementatie (hoe krijgen we de producten op de parken?). \n4. Fase 4: Marketing (hoe vertellen we dit verhaal aan onze gasten?).",
-            "tags": [
-                "supply chain",
-                "inkoop",
-                "duurzaamheid",
-                "lokaal",
-                "esg",
-                "projectmanagement"
-            ],
-            "role": "Manager ESG",
-            "tasks": [
-                "Projectmanagement",
-                "Supply chain optimaliseren",
-                "Stakeholdermanagement",
-                "Duurzaamheidsinitiatieven implementeren"
-            ],
-            "use_case": "Een ESG Manager wil een project lanceren dat zowel ecologische (minder transport) als sociale (steun aan lokale economie) voordelen heeft en de merkbeleving versterkt.",
-            "context_keywords": [
-                "local sourcing",
-                "inkoop",
-                "duurzaamheid",
-                "stappenplan",
-                "projectplan",
-                "zeeland"
-            ]
-        }
-    ]
+    {
+        "id": 414,
+        "title": "Opzetten van een Lokaal Inkoopprogramma ('Local Sourcing')",
+        "prompt": "Je bent een supply chain expert met focus op duurzaamheid. Ontwikkel een stappenplan voor het opzetten van een 'local sourcing' programma voor de restaurants en supermarkten op onze parken in Zeeland. Het doel is om 30% van onze F&B-producten in te kopen bij lokale boeren en producenten. Het stappenplan moet bevatten: \n1. Fase 1: Inventarisatie (identificeren van potentiële lokale partners). \n2. Fase 2: Selectie & Kwaliteitsborging (opstellen van criteria voor partners). \n3. Fase 3: Logistiek & Implementatie (hoe krijgen we de producten op de parken?). \n4. Fase 4: Marketing (hoe vertellen we dit verhaal aan onze gasten?).",
+        "tags": [
+            "supply chain",
+            "inkoop",
+            "duurzaamheid",
+            "lokaal",
+            "esg",
+            "projectmanagement"
+        ],
+        "role": "Manager ESG",
+        "tasks": [
+            "Projectmanagement",
+            "Supply chain optimaliseren",
+            "Stakeholdermanagement",
+            "Duurzaamheidsinitiatieven implementeren"
+        ],
+        "use_case": "Een ESG Manager wil een project lanceren dat zowel ecologische (minder transport) als sociale (steun aan lokale economie) voordelen heeft en de merkbeleving versterkt.",
+        "context_keywords": [
+            "local sourcing",
+            "inkoop",
+            "duurzaamheid",
+            "stappenplan",
+            "projectplan",
+            "zeeland"
+        ]
+    }
 ]
