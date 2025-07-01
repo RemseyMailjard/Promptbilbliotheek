@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Instagram Postm voor Productlancering",
+        "title": "Instagram Post voor Productlancering",
         "prompt": "Schrijf een boeiende social media post voor Instagram over onze nieuwe productlancering. Focus op de voordelen voor de klant en gebruik relevante hashtags.",
         "tags": [
             "Marketing",
@@ -2603,356 +2603,81 @@
         "title": "Analyse van Toeristische Data en Markttrends",
         "prompt": "Je bent een data-analist gespecialiseerd in de hospitality-sector. Ik geef je een set (fictieve) data over boekingen, bezoekersherkomst en online reviews van het afgelopen jaar. Analyseer deze data en genereer een rapport met: \n1. Een top 5 van de meest opvallende trends (bv. 'toename in last-minute boekingen vanuit Duitsland', 'groeiende vraag naar huisdiervriendelijke accommodaties'). \n2. Een visualisatie-suggestie voor elke trend (bv. staafdiagram, landkaart). \n3. Drie concrete aanbevelingen voor onze marketingstrategie gebaseerd op deze inzichten.",
         "tags": [
-            "data-analyse",
-            "strategie",
-            "marketing",
-            "trends",
-            "directie",
             "toerisme"
         ],
         "role": "Directeur",
         "tasks": [
-            "Data-gedreven beslissingen nemen",
-            "Marktonderzoek",
             "Strategie aanpassen"
         ],
         "use_case": "Een directeur wil niet op onderbuikgevoel, maar op basis van data beslissingen nemen om de marketing-euro's zo effectief mogelijk in te zetten.",
-        "context_keywords": [
-            "data analyse",
-            "toerisme",
-            "trends",
-            "bookingsdata",
-            "reviews",
-            "strategie",
-            "directeur"
-        ]
+        "context_keywords": []
     },
     {
-        "id": 403,
-        "title": "Opstellen van een Crisiscommunicatieplan",
-        "prompt": "Je bent een PR- en crisiscommunicatie-expert. Stel een concept crisiscommunicatieplan op voor een toeristische regio. Focus op een scenario van 'extreem slechte weersvoorspellingen die leiden tot massale annuleringen vlak voor een vakantieperiode'. Het plan moet bevatten: \n1. Proactieve stappen: Wat communiceren we voordat de crisis piekt? \n2. Reactieve communicatie: Formuleer concept-statements voor de website, social media en pers. \n3. Interne communicatie: Hoe instrueren we medewerkers en lokale ondernemers? \n4. Nazorg: Hoe herstellen we het imago na de gebeurtenis?",
-        "tags": [
-            "crisiscommunicatie",
-            "pr",
-            "risicomanagement",
-            "directie",
-            "toerisme"
-        ],
-        "role": "Directeur",
-        "tasks": [
-            "Risicomanagement",
-            "Communicatie beheren",
-            "Besluitvorming onder druk"
-        ],
-        "use_case": "Een directeur moet voorbereid zijn op onverwachte gebeurtenissen die de reputatie en de omzet van de regio kunnen schaden.",
-        "context_keywords": [
-            "crisisplan",
-            "communicatie",
-            "pr",
-            "reputatiemanagement",
-            "calamiteit",
-            "directeur"
-        ]
-    },
-    {
-        "id": 404,
-        "title": "Brainstormen over een Innovatief Toeristisch Concept",
-        "prompt": "Gedraag je als een creatieve innovator van een trendbureau. Brainstorm over een nieuw, innovatief toeristisch concept dat Schouwen-Duiveland kan positioneren als een voorloper op het gebied van 'Digital Detox & Natuurbeleving'. Genereer 5 unieke ideeën, elk met een pakkende naam, een korte omschrijving, de doelgroep, en hoe technologie (ironisch genoeg) kan worden ingezet om de 'offline' ervaring te versterken (bv. een app die pas werkt op specifieke, afgelegen locaties).",
-        "tags": [
-            "innovatie",
-            "brainstorm",
-            "conceptontwikkeling",
-            "toerisme",
-            "marketing",
-            "directie"
-        ],
-        "role": "Directeur",
-        "tasks": [
-            "Innoveren",
-            "Business development",
-            "Merkpositionering"
-        ],
-        "use_case": "Een directeur wil de regio een uniek en toekomstbestendig profiel geven dat inspeelt op moderne maatschappelijke trends.",
-        "context_keywords": [
-            "innovatie",
-            "concept",
-            "brainstorm",
-            "digital detox",
-            "natuur",
-            "toerisme",
-            "eilandmarketing"
-        ]
-    },
-    {
-        "id": 405,
-        "title": "Optimalisatie van Operationele Planning voor Loodsen",
-        "prompt": "Je bent een AI-logistiek planner voor de maritieme sector. Mijn bedrijf, een loodsensociëteit, wil de planning van loodsen optimaliseren. Gegeven de volgende (fictieve) input: scheepsaankomsten, getijden, beschikbaarheid van loodsen en reistijden. Stel een methodiek voor om een efficiënter dienstrooster te maken. Beschrijf de stappen die je zou nemen, de variabelen waar je rekening mee houdt en de KPI's om het succes te meten (bv. 'vermindering wachttijd schepen', 'optimalisatie rusttijden loodsen').",
-        "tags": [
-            "logistiek",
-            "planning",
-            "maritiem",
-            "optimalisatie",
-            "operations"
-        ],
-        "role": "Oprichter & mede-eigenaar",
-        "tasks": [
-            "Operationeel management",
-            "Efficiëntie verbeteren",
-            "Procesoptimalisatie"
-        ],
-        "use_case": "Een eigenaar wil de kernactiviteit - het plannen van loodsen - efficiënter en kosteneffectiever maken met behulp van slimme technologie.",
-        "context_keywords": [
-            "planning",
-            "rooster",
-            "maritiem",
-            "loods",
-            "logistiek",
-            "scheepvaart",
-            "optimalisatie"
-        ]
-    },
-    {
-        "id": 406,
-        "title": "Commerciële Pitch voor een Nieuwe Rederij",
-        "prompt": "Je bent een ervaren sales director. Schrijf een overtuigende e-mail pitch voor een grote internationale rederij die overweegt onze haven aan te doen. Benadruk de unieke voordelen van onze loodsdiensten. Focus op: \n1. Betrouwbaarheid en veiligheid (noem bv. onze ervaren loodsen en lage incidentiecijfers). \n2. Efficiëntie (snelle doorstroom, kennis van de lokale wateren). \n3. Flexibiliteit en 24/7 service. \nDe toon moet professioneel, zelfverzekerd en klantgericht zijn. Sluit af met een duidelijke call-to-action voor een kennismakingsgesprek.",
-        "tags": [
-            "sales",
-            "commercieel",
-            "pitch",
-            "maritiem",
-            "klantacquisitie"
-        ],
-        "role": "Oprichter & mede-eigenaar",
-        "tasks": [
-            "Business development",
-            "Sales",
-            "Netwerken",
-            "Klantrelaties opbouwen"
-        ],
-        "use_case": "Een eigenaar wil proactief nieuwe grote klanten werven en heeft een sterke, professionele pitch nodig om de aandacht te trekken.",
-        "context_keywords": [
-            "sales pitch",
-            "rederij",
-            "acquisitie",
-            "loodsdiensten",
-            "maritiem",
-            "e-mail"
-        ]
-    },
-    {
-        "id": 407,
-        "title": "Analyse van Nieuwe Maritieme Wet- en Regelgeving",
-        "prompt": "Fungeer als een juridisch adviseur gespecialiseerd in maritiem recht. Er is een nieuwe IMO-richtlijn (International Maritime Organization) geïntroduceerd met betrekking tot [kies een relevant onderwerp, bv. 'uitstoot van schepen' of 'digitale communicatieprotocollen']. Analyseer de potentiële impact van deze nieuwe richtlijn op de operatie van een loodsbedrijf. Geef een samenvatting in 3 punten en adviseer over 3 concrete acties die we moeten ondernemen om compliant te zijn.",
-        "tags": [
-            "juridisch",
-            "compliance",
-            "risicomanagement",
-            "maritiem",
-            "wetgeving"
-        ],
-        "role": "Oprichter & mede-eigenaar",
-        "tasks": [
-            "Risicomanagement",
-            "Compliance waarborgen",
-            "Strategische aanpassingen doen"
-        ],
-        "use_case": "Een eigenaar moet ervoor zorgen dat het bedrijf voldoet aan de steeds veranderende internationale wetgeving om boetes en operationele problemen te voorkomen.",
-        "context_keywords": [
-            "wetgeving",
-            "imo",
-            "compliance",
-            "maritiem recht",
-            "risicoanalyse",
-            "loodsen"
-        ]
-    },
-    {
-        "id": 408,
-        "title": "Interne Memo over Investeringen in Nieuwe Technologie",
-        "prompt": "Je bent een change manager. Schrijf een interne memo aan alle medewerkers (loodsen en kantoorpersoneel) over een aanstaande investering in [specifieke technologie, bv. 'een nieuw planningssysteem met AI' of 'tablets met real-time data voor alle loodsen']. Leg de 'waarom' achter de investering uit, benadruk de voordelen voor hun dagelijks werk, en adresseer mogelijke zorgen over de verandering. De toon moet transparant, positief en geruststellend zijn.",
-        "tags": [
-            "interne communicatie",
-            "verandermanagement",
-            "technologie",
-            "leiderschap"
-        ],
-        "role": "Oprichter & mede-eigenaar",
-        "tasks": [
-            "Verandering leiden",
-            "Team informeren",
-            "Draagvlak creëren"
-        ],
-        "use_case": "Een eigenaar wil een technologische vernieuwing doorvoeren en moet dit op een effectieve manier communiceren om het team mee te krijgen.",
-        "context_keywords": [
-            "memo",
-            "interne communicatie",
-            "verandermanagement",
-            "technologie",
-            "implementatie"
-        ]
-    },
-    {
-        "id": 409,
-        "title": "Opstellen van een Business Continuïteitsplan",
-        "prompt": "Gedraag je als een expert in risicomanagement. Ontwikkel een concept voor een Business Continuïteitsplan (BCP) voor een loodsensociëteit. Focus op het scenario 'uitval van het centrale planningssysteem door een cyberaanval'. Beschrijf de volgende onderdelen: \n1. Activeringscriteria: Wanneer treedt dit plan in werking? \n2. Noodprocedures: Hoe schakelen we over op een handmatig of back-up systeem? \n3. Communicatieprotocol: Wie informeert de schepen, havenautoriteiten en medewerkers? \n4. Herstelfase: Stappen om het systeem weer veilig online te krijgen.",
-        "tags": [
-            "risicomanagement",
-            "cybersecurity",
-            "bedrijfscontinuïteit",
-            "operations"
-        ],
-        "role": "Oprichter & mede-eigenaar",
-        "tasks": [
-            "Risicobeheer",
-            "Crisismanagement",
-            "Operationele stabiliteit waarborgen"
-        ],
-        "use_case": "Een eigenaar wil de organisatie weerbaar maken tegen externe dreigingen zoals cyberaanvallen om de operationele continuïteit te garanderen.",
-        "context_keywords": [
-            "bcp",
-            "business continuity plan",
-            "cybersecurity",
-            "crisisplan",
-            "maritiem"
-        ]
-    },
-    {
-        "id": 410,
-        "title": "Opstellen van het Jaarlijkse ESG/Duurzaamheidsverslag",
-        "prompt": "Je bent een AI-assistent gespecialiseerd in ESG-rapportages (Environmental, Social, Governance). Help mij met het opstellen van de structuur en de kernelementen voor het jaarlijkse duurzaamheidsverslag van Landal/Roompot. Genereer een inhoudsopgave en schrijf voor elk hoofdstuk (bv. 'Introductie door de CEO', 'Onze CO2-reductie', 'Lokale gemeenschapsinitiatieven', 'Governance & Ethiek') een korte paragraaf met de belangrijkste boodschappen en welke (fictieve) KPI's we daarin kunnen presenteren.",
-        "tags": [
-            "esg",
-            "duurzaamheid",
-            "rapportage",
-            "communicatie",
-            "toerisme"
-        ],
-        "role": "Manager ESG",
-        "tasks": [
-            "Rapporteren",
-            "Strategie communiceren",
-            "Data presenteren"
-        ],
-        "use_case": "Een ESG Manager moet een professioneel en overtuigend jaarverslag opstellen dat de duurzaamheidsinspanningen van het bedrijf toont aan investeerders, gasten en andere stakeholders.",
-        "context_keywords": [
-            "esg rapport",
-            "duurzaamheidsverslag",
-            "gri",
-            "rapportage",
-            "landal",
-            "roompot",
-            "toerisme"
-        ]
-    },
-    {
-        "id": 411,
-        "title": "Ontwikkelen van een Plan om Waterverbruik op Parken te Verminderen",
-        "prompt": "Fungeer als een duurzaamheidsconsultant. Ontwikkel een actieplan om het waterverbruik op onze vakantieparken met 15% te verminderen in de komende 2 jaar. Het plan moet een mix van technische, gedrags- en communicatie-interventies bevatten. Denk aan: \n1. Technische oplossingen (bv. waterbesparende douchekoppen, slimme irrigatie). \n2. Communicatie naar gasten (bv. 'nudging' via stickers in badkamers, informatie in de welkomstmap). \n3. Training voor personeel (bv. schoonmaak- en groenonderhoudsteams). \nPresenteer dit als een overzichtelijke tabel met actie, doel, en geschatte impact.",
-        "tags": [
-            "duurzaamheid",
-            "esg",
-            "projectmanagement",
-            "watermanagement",
-            "operatie"
-        ],
-        "role": "Manager ESG",
-        "tasks": [
-            "Projecten ontwikkelen",
-            "Duurzaamheidsdoelen realiseren",
-            "Procesverbetering"
-        ],
-        "use_case": "Een ESG Manager wil een concreet en haalbaar projectplan opstellen om een belangrijke milieudoelstelling te behalen.",
-        "context_keywords": [
-            "waterreductie",
-            "duurzaamheid",
-            "actieplan",
-            "esg",
-            "vakantiepark",
-            "operatie"
-        ]
-    },
-    {
-        "id": 412,
-        "title": "Communicatiecampagne over Biodiversiteit voor Gasten",
-        "prompt": "Je bent een creatieve content marketeer. Ontwikkel een concept voor een communicatiecampagne genaamd 'Ontdek de Natuur om je Huisje' voor gasten op onze parken. Het doel is om gasten bewust te maken van de lokale biodiversiteit en onze inspanningen om deze te beschermen. Genereer ideeën voor: \n1. Content voor in de park-app (bv. een digitale 'natuur-speurtocht' voor kinderen). \n2. Fysieke communicatiemiddelen (bv. informatieborden bij insectenhotels of bloemenweides). \n3. Een social media campagne met een specifieke hashtag.",
-        "tags": [
-            "communicatie",
-            "marketing",
-            "duurzaamheid",
-            "biodiversiteit",
-            "esg",
-            "gastbeleving"
-        ],
-        "role": "Manager ESG",
-        "tasks": [
-            "Bewustwording creëren",
-            "Communicatiecampagnes opzetten",
-            "Gastbetrokkenheid vergroten"
-        ],
-        "use_case": "Een ESG Manager wil duurzaamheid niet alleen achter de schermen realiseren, maar het ook een zichtbaar en positief onderdeel maken van de gastervaring.",
-        "context_keywords": [
-            "campagne",
-            "biodiversiteit",
-            "gastcommunicatie",
-            "esg",
-            "marketing",
-            "vakantiepark"
-        ]
-    },
-    {
-        "id": 413,
-        "title": "Benchmarkanalyse van Concurrenten op ESG-gebied",
-        "prompt": "Je bent een marktonderzoeker. Voer een benchmarkanalyse uit van de ESG-prestaties van onze belangrijkste concurrenten in de recreatiesector (bv. Center Parcs, Molecaten, EuroParcs). Analyseer hun openbare duurzaamheidsverslagen en websites. Creëer een vergelijkingstabel op de volgende punten: \n1. Gecommuniceerde CO2-doelstellingen. \n2. Initiatieven op het gebied van circulariteit (afvalvermindering). \n3. Sociale projecten of partnerschappen. \nConcludeer met 2 aanbevelingen waar wij ons verder kunnen onderscheiden.",
-        "tags": [
-            "esg",
-            "benchmark",
-            "concurrentieanalyse",
-            "strategie",
-            "onderzoek"
-        ],
-        "role": "Manager ESG",
-        "tasks": [
-            "Marktonderzoek",
-            "Strategie bepalen",
-            "Concurrentie monitoren"
-        ],
-        "use_case": "Een ESG Manager wil weten hoe het bedrijf presteert ten opzichte van concurrenten om de eigen strategie aan te scherpen en voorop te blijven lopen.",
-        "context_keywords": [
-            "benchmark",
-            "concurrentie2",
-            "esg",
-            "duurzaamheid",
-            "strategie",
-            "analyse"
-        ]
-    },
-    {
-        "id": 414,
-        "title": "Opzetten van een Lokaal Inkoopprogramma ('Local Sourcing')",
-        "prompt": "Je bent een supply chain expert met focus op duurzaamheid. Ontwikkel een stappenplan voor het opzetten van een 'local sourcing' programma voor de restaurants en supermarkten op onze parken in Zeeland. Het doel is om 30% van onze F&B-producten in te kopen bij lokale boeren en producenten. Het stappenplan moet bevatten: \n1. Fase 1: Inventarisatie (identificeren van potentiële lokale partners). \n2. Fase 2: Selectie & Kwaliteitsborging (opstellen van criteria voor partners). \n3. Fase 3: Logistiek & Implementatie (hoe krijgen we de producten op de parken?). \n4. Fase 4: Marketing (hoe vertellen we dit verhaal aan onze gasten?).",
-        "tags": [
-            "supply chain",
-            "inkoop",
-            "duurzaamheid",
-            "lokaal",
-            "esg",
-            "projectmanagement"
-        ],
-        "role": "Manager ESG",
-        "tasks": [
-            "Projectmanagement",
-            "Supply chain optimaliseren",
-            "Stakeholdermanagement",
-            "Duurzaamheidsinitiatieven implementeren"
-        ],
-        "use_case": "Een ESG Manager wil een project lanceren dat zowel ecologische (minder transport) als sociale (steun aan lokale economie) voordelen heeft en de merkbeleving versterkt.",
-        "context_keywords": [
-            "local sourcing",
-            "inkoop",
-            "duurzaamheid",
-            "stappenplan",
-            "projectplan",
-            "zeeland"
-        ]
+  "id": 500,
+  "title": "Ontwikkelen van een Training voor Basis Computervaardigheden",
+  "prompt": "Fungeer als een IT-trainer. Ik moet een interactieve training van 2 uur ontwikkelen voor volwassenen die de basis computervaardigheden willen leren. Het doel is om hen in staat te stellen zelfstandig te werken met een computer en basis toepassingen. Schrijf een trainingsplan met: \n1. Een overzicht van de leerdoelen. \n2. Een agenda voor de training. \n3. Praktische oefeningen en voorbeelden. \n4. Tips voor de docent.",
+  "tags": [
+    "IT-training",
+    "basis computervaardigheden",
+    "volwassenenonderwijs"
+  ],
+  "role": "IT-trainer",
+  "tasks": [
+    "Training ontwikkelen",
+    "Lesmateriaal maken",
+    "Doceren"
+  ],
+  "use_case": "Een IT-trainer wil een effectieve training bieden voor volwassenen die basis computervaardigheden willen leren.",
+  "context_keywords": [
+    "IT-training",
+    "computervaardigheden",
+    "volwassenenonderwijs"
+  ]
+},
+
+{
+  "id": 501,
+  "title": "Implementatie van een Nieuw Projectmanagement Tool",
+  "prompt": "Fungeer als een IT-trainer. Mijn bedrijf wil een nieuw projectmanagement tool implementeren. Ik moet een trainingssessie van 1 dag ontwikkelen om de medewerkers te trainen in het gebruik van deze tool. Schrijf een trainingsplan met: \n1. Een overzicht van de functionaliteiten van de tool. \n2. Praktische oefeningen voor de medewerkers. \n3. Tips voor het gebruik van de tool in de dagelijkse praktijk.",
+  "tags": [
+    "projectmanagement",
+    "toolimplementatie",
+    "training"
+  ],
+  "role": "IT-trainer",
+  "tasks": [
+    "Training ontwikkelen",
+    "Toolimplementatie",
+    "Ondersteuning bieden"
+  ],
+  "use_case": "Een IT-trainer moet medewerkers trainen in het gebruik van een nieuw projectmanagement tool.",
+  "context_keywords": [
+    "projectmanagement",
+    "toolimplementatie",
+    "training"
+  ]
+}
+
+{
+  "id": 502,
+  "title": "Cyberbeveiliging voor Kleine Bedrijven",
+  "prompt": "Fungeer als een IT-trainer. Ik moet een workshop van 3 uur ontwikkelen over cyberbeveiliging voor kleine bedrijven. Het doel is om de deelnemers bewust te maken van de risico's en hen praktische tips te geven om hun bedrijf te beschermen. Schrijf een workshopplan met: \n1. Een overzicht van de belangrijkste risico's. \n2. Praktische voorbeelden van cyberaanvallen. \n3. Tips voor het beschermen van het bedrijf.",
+  "tags": [
+    "cyberbeveiliging",
+    "kleine bedrijven",
+    "risicomanagement"
+  ],
+  "role": "IT-trainer",
+  "tasks": [
+    "Workshop ontwikkelen",
+    "Deelnemers informeren",
+    "Veiligheid bevorderen"
+  ],
+  "use_case": "Een IT-trainer wil kleine bedrijven informeren over cyberbeveiliging en hen praktische tips geven.",
+  "context_keywords": [
+    "cyberbeveiliging",
+    "kleine bedrijven",
+    "risicomanagement"
+  ]
     }
 ]
