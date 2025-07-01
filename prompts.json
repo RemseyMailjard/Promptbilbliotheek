@@ -1,13 +1,13 @@
 [
     {
         "id": 1,
-        "title": "Instagram Post voor Productlancering",
+        "title": "Instagram Postm voor Productlancering",
         "prompt": "Schrijf een boeiende social media post voor Instagram over onze nieuwe productlancering. Focus op de voordelen voor de klant en gebruik relevante hashtags.",
         "tags": [
             "Marketing",
             "Marketeer",
             "Social Media",
-            "Tekst Schrijven2"
+            "Tekst Schrijven"
         ],
         "role": "Online Marketeer",
         "tasks": [
@@ -1168,1018 +1168,6 @@
         ]
     },
     {
-        "id": 56,
-        "title": "Genereer een Python Functie",
-        "prompt": "Schrijf een Python functie genaamd `validate_email` die een e-mailadres (string) als input neemt. De functie moet `True` retourneren als het e-mailadres een geldig formaat heeft en `False` als dat niet het geval is. Voeg type hinting en een duidelijke docstring toe.",
-        "tags": [
-            "Developer",
-            "Code Generatie",
-            "Python",
-            "Validatie"
-        ],
-        "role": "Python Developer",
-        "tasks": [
-            "Code schrijven",
-            "Data valideren",
-            "Functies ontwikkelen"
-        ],
-        "use_case": "Een ontwikkelaar heeft een herbruikbare functie nodig om snel en betrouwbaar te controleren of een door een gebruiker ingevoerd e-mailadres een correct formaat heeft.",
-        "context_keywords": [
-            "Python",
-            "functie",
-            "e-mail validatie",
-            "docstring",
-            "type hinting",
-            "code generatie"
-        ]
-    },
-    {
-        "id": 57,
-        "title": "Blog Post Outline (SEO-gericht)",
-        "prompt": "Creëer een gedetailleerde, SEO-geoptimaliseerde outline voor een blog post met de titel \"De ultieme gids voor [onderwerp]\". De outline moet een H1-titel, meerdere H2-secties met beschrijvende subkoppen, en suggesties voor H3-subpunten bevatten. Geef ook 5 suggesties voor LSI-zoekwoorden (Latent Semantic Indexing) die in de tekst verwerkt kunnen worden.",
-        "tags": [
-            "Marketeer",
-            "Tekst Schrijven",
-            "SEO",
-            "Content Creatie"
-        ],
-        "role": "Content Marketeer",
-        "tasks": [
-            "Contentstrategie",
-            "SEO-optimalisatie",
-            "Bloggen"
-        ],
-        "use_case": "Voor het schrijven van een nieuwe blog post, wil een content marketeer eerst een gestructureerde en SEO-vriendelijke outline opstellen om de vindbaarheid en leesbaarheid te maximaliseren.",
-        "context_keywords": [
-            "SEO",
-            "blog post",
-            "outline",
-            "H1",
-            "H2",
-            "LSI-zoekwoorden",
-            "content creatie"
-        ]
-    },
-    {
-        "id": 58,
-        "title": "Complexe Materie Vereenvoudigen",
-        "prompt": "Leg het concept van [complex wetenschappelijk concept, bv. 'Quantum Computing'] uit alsof je het uitlegt aan een 12-jarige. Gebruik een eenvoudige analogie en vermijd technisch jargon.",
-        "tags": [
-            "Student",
-            "Samenvatten & Vereenvoudigen",
-            "Educatie",
-            "Uitleg"
-        ],
-        "role": "Student / Docent / Kenniswerker",
-        "tasks": [
-            "Concepten begrijpen",
-            "Kennis overdragen",
-            "Vereenvoudigen"
-        ],
-        "use_case": "Een student of docent wil een complex onderwerp op een eenvoudige en begrijpelijke manier uitleggen aan een beginner of iemand buiten het vakgebied.",
-        "context_keywords": [
-            "vereenvoudigen",
-            "uitleg",
-            "analogie",
-            "jargon vermijden",
-            "educatie",
-            "concept"
-        ]
-    },
-    {
-        "id": 59,
-        "title": "Complexe SQL Query Schrijven",
-        "prompt": "Schrijf een SQL query die de top 5 best verkopende producten van het afgelopen kwartaal ophaalt. De query moet de tabellen `products`, `orders` en `order_items` joinen. De output moet de productnaam (`products.name`) en de totale omzet per product (`SUM(order_items.quantity * order_items.price)`) bevatten, gesorteerd van hoog naar laag.",
-        "tags": [
-            "Data Analyst",
-            "Database",
-            "SQL",
-            "Code Generatie"
-        ],
-        "role": "Data Analyst",
-        "tasks": [
-            "Data-analyse",
-            "Rapportages bouwen",
-            "Query's schrijven"
-        ],
-        "use_case": "Een data-analist moet voor een kwartaalrapportage de best presterende producten identificeren door data uit meerdere tabellen te combineren en te aggregeren.",
-        "context_keywords": [
-            "SQL",
-            "query",
-            "data-analyse",
-            "top 5",
-            "omzet",
-            "join",
-            "database"
-        ]
-    },
-    {
-        "id": 60,
-        "title": "LinkedIn Content Kalender",
-        "prompt": "Genereer een content kalender voor LinkedIn voor één week (5 werkdagen) voor een bedrijf in de [jouw industrie] sector. Geef voor elke dag een ander type post (bijv. een poll, een project-showcase, een industienieuwtje, een 'achter de schermen'-post, een vraag aan het netwerk) inclusief een concepttekst en relevante hashtags.",
-        "tags": [
-            "Marketeer",
-            "Social Media",
-            "Planning & Organisatie",
-            "LinkedIn"
-        ],
-        "role": "Social Media Manager",
-        "tasks": [
-            "Contentplanning",
-            "Social media management",
-            "Community building"
-        ],
-        "use_case": "Een social media manager wil proactief en gestructureerd posten op LinkedIn en heeft een weekplanning nodig met diverse contentformats om de engagement te verhogen.",
-        "context_keywords": [
-            "content kalender",
-            "LinkedIn",
-            "social media",
-            "planning",
-            "hashtags",
-            "engagement"
-        ]
-    },
-    {
-        "id": 61,
-        "title": "Projectplan Opstellen",
-        "prompt": "Stel een high-level projectplan op voor de lancering van een [type project, bv. 'nieuwe mobiele app']. Het plan moet de volgende secties bevatten: Doelstellingen (SMART), Belangrijkste Mijlpalen, Risicoanalyse (3 potentiële risico's en mitigatiestrategieën), en een geschatte Tijdlijn (in fasen).",
-        "tags": [
-            "Project Manager",
-            "Planning & Organisatie",
-            "Strategie",
-            "Management"
-        ],
-        "role": "Project Manager",
-        "tasks": [
-            "Projectplanning",
-            "Risicomanagement",
-            "Stakeholdermanagement"
-        ],
-        "use_case": "Aan de start van een nieuw project moet de projectmanager een overkoepelend plan opstellen om de doelen, mijlpalen, risico's en tijdlijn duidelijk te communiceren naar het team en stakeholders.",
-        "context_keywords": [
-            "projectplan",
-            "SMART-doelstellingen",
-            "mijlpalen",
-            "risicoanalyse",
-            "tijdlijn",
-            "projectmanagement"
-        ]
-    },
-    {
-        "id": 62,
-        "title": "Een Error Uitleggen",
-        "prompt": "Ik krijg de volgende foutmelding in mijn [programmeertaal] code. Leg uit wat de meest waarschijnlijke oorzaken zijn van deze fout en geef drie concrete stappen die ik kan nemen om het probleem op te lossen.\n\nFoutmelding: [plak hier de foutmelding]",
-        "tags": [
-            "Developer",
-            "Debuggen & Testen",
-            "Probleemoplossing"
-        ],
-        "role": "Developer",
-        "tasks": [
-            "Debuggen",
-            "Probleemoplossing",
-            "Code-analyse"
-        ],
-        "use_case": "Wanneer een ontwikkelaar vastloopt op een specifieke foutmelding, kan deze prompt helpen om de oorzaak te begrijpen en een stappenplan voor de oplossing te krijgen.",
-        "context_keywords": [
-            "foutmelding",
-            "debuggen",
-            "programmeertaal",
-            "probleemoplossing",
-            "code"
-        ]
-    },
-    {
-        "id": 63,
-        "title": "Brainstormen over Functies",
-        "prompt": "Fungeer als een ervaren Product Owner. Genereer 10 innovatieve feature-ideeën voor een [type applicatie, bv. 'maaltijdbezorg-app'] die de gebruikerservaring aanzienlijk zouden verbeteren en de app onderscheiden van de concurrentie. Geef bij elk idee een korte onderbouwing.",
-        "tags": [
-            "Product Owner",
-            "Brainstormen & Ideeën",
-            "Product Management",
-            "Innovatie"
-        ],
-        "role": "Product Owner",
-        "tasks": [
-            "Productontwikkeling",
-            "Ideeëngeneratie",
-            "Roadmap planning"
-        ],
-        "use_case": "Een product owner is op zoek naar nieuwe, innovatieve features om een applicatie te verbeteren en een concurrentievoordeel te behalen.",
-        "context_keywords": [
-            "brainstorm",
-            "features",
-            "product owner",
-            "innovatie",
-            "gebruikerservaring",
-            "concurrentie"
-        ]
-    },
-    {
-        "id": 64,
-        "title": "Professionele E-mail Opstellen",
-        "prompt": "Schrijf een professionele en beleefde e-mail naar [ontvanger, bv. 'een potentiële klant'] waarin ik [doel van de e-mail, bv. 'een kennismakingsgesprek wil voorstellen om onze diensten te bespreken']. Zorg voor een duidelijke onderwerpregel, een korte introductie, en een concrete call-to-action.",
-        "tags": [
-            "Algemeen",
-            "Communicatie & E-mail",
-            "Zakelijk Schrijven"
-        ],
-        "role": "Algemeen (elke professional)",
-        "tasks": [
-            "Zakelijke communicatie",
-            "Netwerken",
-            "Afspraken maken"
-        ],
-        "use_case": "Iedere professional moet soms een formele e-mail sturen naar een nieuwe contactpersoon om een voorstel te doen, informatie te vragen of een afspraak te plannen.",
-        "context_keywords": [
-            "professionele e-mail",
-            "zakelijk schrijven",
-            "kennismakingsgesprek",
-            "call-to-action",
-            "onderwerpregel"
-        ]
-    },
-    {
-        "id": 65,
-        "title": "Data Trends Analyseren",
-        "prompt": "Ik heb de volgende dataset met [beschrijving van data, bv. 'maandelijkse verkoopcijfers per regio']. Analyseer deze data en identificeer drie opmerkelijke trends of patronen. Geef per trend een mogelijke verklaring en een aanbeveling voor een vervolgactie.\n\n[Plak hier een voorbeeld van de data (CSV-formaat of beschrijving)]",
-        "tags": [
-            "Data Analyst",
-            "Analyse",
-            "Rapportage",
-            "Trends"
-        ],
-        "role": "Data Analyst / Business Analyst",
-        "tasks": [
-            "Data-analyse",
-            "Trendanalyse",
-            "Adviseren"
-        ],
-        "use_case": "Een analist heeft een dataset en moet hieruit de belangrijkste trends en patronen destilleren, deze interpreteren en concrete aanbevelingen doen voor het management.",
-        "context_keywords": [
-            "data-analyse",
-            "trends",
-            "patronen",
-            "dataset",
-            "aanbeveling",
-            "rapportage"
-        ]
-    },
-    {
-        "id": 66,
-        "title": "Meeting Agenda Maken",
-        "prompt": "Stel een effectieve agenda op voor een 60-minuten durende wekelijkse project-update meeting. De agenda moet de volgende elementen bevatten: benodigde aanwezigen, doel van de meeting, agendapunten met geschatte tijdsduur, en ruimte voor actiepunten en vragen.",
-        "tags": [
-            "Project Manager",
-            "Planning & Organisatie",
-            "Vergadering"
-        ],
-        "role": "Project Manager",
-        "tasks": [
-            "Vergaderingen voorbereiden",
-            "Projectcoördinatie",
-            "Teammanagement"
-        ],
-        "use_case": "Om een wekelijkse projectmeeting efficiënt te laten verlopen, moet de projectmanager een duidelijke agenda opstellen die structuur geeft en zorgt dat alle belangrijke punten aan bod komen.",
-        "context_keywords": [
-            "agenda",
-            "vergadering",
-            "project-update",
-            "planning",
-            "actiepunten",
-            "efficiëntie"
-        ]
-    },
-    {
-        "id": 67,
-        "title": "Onboarding E-mail Sequence",
-        "prompt": "Creëer een reeks van 3 e-mails voor de pre-boarding van een nieuwe medewerker. \n1. E-mail 1 (direct na tekenen contract): Welkomstboodschap en wat te verwachten.\n2. E-mail 2 (één week voor start): Praktische informatie (locatie, tijd, benodigdheden) en wie de buddy/manager is.\n3. E-mail 3 (dag voor start): Korte, enthousiaste herinnering.",
-        "tags": [
-            "HR Professional",
-            "Communicatie & E-mail",
-            "Onboarding",
-            "HR"
-        ],
-        "role": "HR Professional",
-        "tasks": [
-            "Onboarding",
-            "Interne communicatie",
-            "Medewerkersbetrokkenheid"
-        ],
-        "use_case": "Een HR-professional wil een nieuwe medewerker een warm welkom geven en goed voorbereiden op de eerste werkdag door middel van een gestructureerde reeks e-mails.",
-        "context_keywords": [
-            "onboarding",
-            "pre-boarding",
-            "nieuwe medewerker",
-            "e-mailreeks",
-            "welkomstboodschap"
-        ]
-    },
-    {
-        "id": 68,
-        "title": "Code Refactoren",
-        "prompt": "Analyseer de volgende [programmeertaal] code. Stel een refactoring voor die de leesbaarheid, efficiëntie en onderhoudbaarheid verbetert. Leg uit welke specifieke wijzigingen je zou doorvoeren en waarom (bijv. 'Magic numbers' vervangen door constanten, een lange functie opsplitsen, etc.).\n\n[Plak hier de code snippet]",
-        "tags": [
-            "Developer",
-            "Debuggen & Testen",
-            "Code Kwaliteit",
-            "Refactoring"
-        ],
-        "role": "Senior Developer / Tech Lead",
-        "tasks": [
-            "Code review",
-            "Refactoring",
-            "Kwaliteitsbewaking"
-        ],
-        "use_case": "Een ontwikkelaar wil bestaande code verbeteren om deze beter leesbaar, efficiënter en makkelijker te onderhouden te maken voor de toekomst.",
-        "context_keywords": [
-            "refactoring",
-            "code kwaliteit",
-            "leesbaarheid",
-            "efficiëntie",
-            "onderhoudbaarheid",
-            "code snippet"
-        ]
-    },
-    {
-        "id": 69,
-        "title": "A/B Test Ideeën voor een Landingspagina",
-        "prompt": "Genereer 5 A/B test ideeën om de conversieratio van een landingspagina voor [product/dienst] te verhogen. Beschrijf voor elke test de hypothese, de variabele die je wilt testen (bv. koptekst, call-to-action kleur, afbeelding), en de meetbare doelstelling (KPI).",
-        "tags": [
-            "Marketeer",
-            "Strategie & Advies",
-            "A/B Testen",
-            "Conversie Optimalisatie"
-        ],
-        "role": "CRO Specialist / Online Marketeer",
-        "tasks": [
-            "Conversie-optimalisatie (CRO)",
-            "A/B-testen opzetten",
-            "Hypotheses formuleren"
-        ],
-        "use_case": "Een marketeer wil de effectiviteit van een landingspagina verbeteren en heeft concrete, testbare ideeën nodig om de conversieratio te verhogen.",
-        "context_keywords": [
-            "A/B-test",
-            "conversieratio",
-            "landingspagina",
-            "optimalisatie",
-            "hypothese",
-            "KPI"
-        ]
-    },
-    {
-        "id": 70,
-        "title": "Argumenten voor een Debat Voorbereiden",
-        "prompt": "Ik moet deelnemen aan een debat over de stelling: \"[Stelling, bv. 'Kunstmatige intelligentie is een grotere bedreiging dan een kans voor de mensheid']\". Genereer 3 sterke argumenten vóór de stelling en 3 sterke argumenten tegen de stelling. Onderbouw elk argument met een logische redenering of een voorbeeld.",
-        "tags": [
-            "Student",
-            "Analyse",
-            "Kritisch Denken",
-            "Debat"
-        ],
-        "role": "Student / Debater",
-        "tasks": [
-            "Argumentatie opbouwen",
-            "Onderzoek doen",
-            "Kritisch denken"
-        ],
-        "use_case": "Iemand bereidt zich voor op een debat en heeft een gebalanceerd overzicht nodig van sterke argumenten voor beide kanten van de stelling.",
-        "context_keywords": [
-            "debat",
-            "argumenten",
-            "stelling",
-            "kritisch denken",
-            "onderbouwing"
-        ]
-    },
-    {
-        "id": 71,
-        "title": "Presentatie Structuur Opzetten",
-        "prompt": "Creëer een structuur voor een 15-minuten durende presentatie over [onderwerp]. De structuur moet een pakkende opening, 3 hoofdpunten, en een krachtige afsluiting met een duidelijke boodschap of call-to-action bevatten. Geef per hoofd- en subpunt kernwoorden.",
-        "tags": [
-            "Algemeen",
-            "Planning & Organisatie",
-            "Presentatie",
-            "Communicatie"
-        ],
-        "role": "Algemeen (elke professional)",
-        "tasks": [
-            "Presentaties voorbereiden",
-            "Informatie structureren",
-            "Communiceren"
-        ],
-        "use_case": "Voor het geven van een presentatie heeft iemand een duidelijke en logische structuur nodig om de boodschap effectief over te brengen binnen een beperkte tijd.",
-        "context_keywords": [
-            "presentatie",
-            "structuur",
-            "opening",
-            "hoofdpunten",
-            "afsluiting",
-            "call-to-action"
-        ]
-    },
-    {
-        "id": 72,
-        "title": "Suggesties voor Data Visualisatie",
-        "prompt": "Ik wil de relatie tussen [variabele A, bv. 'advertentiebudget'] en [variabele B, bv. 'websiteverkeer'] over tijd visualiseren. Welke 3 soorten grafieken zijn het meest geschikt hiervoor? Beschrijf de voor- en nadelen van elke grafiek voor dit specifieke doel.",
-        "tags": [
-            "Data Analyst",
-            "Data Visualisatie",
-            "Rapportage",
-            "Grafieken"
-        ],
-        "role": "Data Analyst",
-        "tasks": [
-            "Data visualiseren",
-            "Rapporteren",
-            "Adviseren over grafieken"
-        ],
-        "use_case": "Een analist heeft data en zoekt naar de meest effectieve manier om deze te visualiseren om inzichten helder te communiceren aan een publiek.",
-        "context_keywords": [
-            "data visualisatie",
-            "grafiek",
-            "rapportage",
-            "data-analyse",
-            "lijngrafiek",
-            "staafdiagram"
-        ]
-    },
-    {
-        "id": 73,
-        "title": "Negatieve Feedback Email (Klantenservice)",
-        "prompt": "Schrijf een empathische en professionele reactie op een e-mail van een ontevreden klant die klaagt over [specifiek probleem, bv. 'een late levering']. De reactie moet de volgende elementen bevatten: erkenning van het probleem, een oprechte verontschuldiging, een voorgestelde oplossing of compensatie, en een verzekering dat er maatregelen worden genomen om herhaling te voorkomen.",
-        "tags": [
-            "Customer Support",
-            "Communicatie & E-mail",
-            "Klachtenafhandeling"
-        ],
-        "role": "Customer Support Medewerker",
-        "tasks": [
-            "Klachtenafhandeling",
-            "Klantcommunicatie",
-            "De-escalatie"
-        ],
-        "use_case": "Wanneer een klant een klacht indient, moet de supportmedewerker een zorgvuldig geformuleerde e-mail sturen om de situatie op te lossen en de klantrelatie te behouden.",
-        "context_keywords": [
-            "klantenservice",
-            "negatieve feedback",
-            "klacht",
-            "empathie",
-            "oplossing",
-            "compensatie"
-        ]
-    },
-    {
-        "id": 74,
-        "title": "API Endpoint Documentatie (Swagger/OpenAPI)",
-        "prompt": "Schrijf de documentatie voor een nieuw API endpoint in OpenAPI (Swagger) YAML-formaat. \n- Endpoint: `POST /users`\n- Beschrijving: Creëert een nieuwe gebruiker.\n- Request Body: JSON-object met `username` (string, required), `email` (string, required, email format), en `password` (string, required, min 8 chars).\n- Responses: `201 Created` met de user ID, `400 Bad Request` bij invalide input, `409 Conflict` als de e-mail al bestaat.",
-        "tags": [
-            "Developer",
-            "Documentatie",
-            "API",
-            "YAML",
-            "Swagger"
-        ],
-        "role": "Backend Developer",
-        "tasks": [
-            "API-documentatie schrijven",
-            "Technische specificaties opstellen",
-            "Samenwerking faciliteren"
-        ],
-        "use_case": "Een ontwikkelaar heeft een nieuw API-endpoint gebouwd en moet duidelijke documentatie schrijven zodat andere ontwikkelaars (bv. frontend) weten hoe ze het moeten gebruiken.",
-        "context_keywords": [
-            "API",
-            "documentatie",
-            "OpenAPI",
-            "Swagger",
-            "YAML",
-            "endpoint",
-            "POST"
-        ]
-    },
-    {
-        "id": 75,
-        "title": "Brainstorm Concurrentievoordelen",
-        "prompt": "Fungeer als een bedrijfsstrategieconsultant. Mijn bedrijf is een [type bedrijf, bv. 'kleine, ambachtelijke koffiebranderij'] in een markt met veel concurrentie. Identificeer 5 unieke concurrentievoordelen (Unique Selling Propositions) die we kunnen ontwikkelen en communiceren om ons te onderscheiden.",
-        "tags": [
-            "Business Owner",
-            "Strategie & Advies",
-            "Brainstormen & Ideeën",
-            "Marketing"
-        ],
-        "role": "Ondernemer / Strateeg",
-        "tasks": [
-            "Strategieontwikkeling",
-            "Concurrentieanalyse",
-            "Positionering bepalen"
-        ],
-        "use_case": "Een ondernemer wil zijn bedrijf beter positioneren in een competitieve markt en zoekt naar unieke verkoopargumenten (USP's) om zich te onderscheiden.",
-        "context_keywords": [
-            "concurrentievoordeel",
-            "USP",
-            "strategie",
-            "positionering",
-            "brainstorm",
-            "marketing"
-        ]
-    },
-    {
-        "id": 76,
-        "title": "Genereer een CSS-animatie",
-        "prompt": "Schrijf de CSS-code voor een 'fade-in and slide-up' animatie voor een element wanneer het in de viewport verschijnt. De animatie moet 0.8 seconden duren en een 'ease-out' timingfunctie hebben. Geef ook een voorbeeld van de benodigde HTML-structuur en eventuele JavaScript om de animatie te triggeren bij het scrollen.",
-        "tags": [
-            "Frontend Developer",
-            "Code Generatie",
-            "CSS",
-            "Animatie"
-        ],
-        "role": "Frontend Developer",
-        "tasks": [
-            "UI-ontwikkeling",
-            "Animaties creëren",
-            "CSS schrijven"
-        ],
-        "use_case": "Een frontend ontwikkelaar wil een webpagina visueel aantrekkelijker maken door elementen te animeren wanneer de gebruiker naar beneden scrollt.",
-        "context_keywords": [
-            "CSS",
-            "animatie",
-            "fade-in",
-            "slide-up",
-            "viewport",
-            "JavaScript",
-            "frontend"
-        ]
-    },
-    {
-        "id": 77,
-        "title": "Marktonderzoek Vragenlijst",
-        "prompt": "Stel een korte vragenlijst (max. 10 vragen) op voor een marktonderzoek naar de potentiële vraag naar een nieuw product: [beschrijving van het product]. De vragenlijst moet een mix bevatten van demografische vragen, vragen over huidig gedrag, en vragen over de interesse in het nieuwe product. Gebruik verschillende vraagtypes (multiple choice, schaalvragen, open vragen).",
-        "tags": [
-            "Marketeer",
-            "Analyse",
-            "Marktonderzoek",
-            "Enquête"
-        ],
-        "role": "Marktonderzoeker / Product Manager",
-        "tasks": [
-            "Marktonderzoek opzetten",
-            "Vragenlijsten ontwikkelen",
-            "Data verzamelen"
-        ],
-        "use_case": "Voordat een nieuw product wordt gelanceerd, moet een marketeer de marktvraag peilen door middel van een gerichte vragenlijst voor de doelgroep.",
-        "context_keywords": [
-            "marktonderzoek",
-            "vragenlijst",
-            "enquête",
-            "productlancering",
-            "doelgroep",
-            "interesse peilen"
-        ]
-    },
-    {
-        "id": 78,
-        "title": "Interviewvragen voorbereiden",
-        "prompt": "Genereer een lijst van 10 gedragsgerichte interviewvragen voor de functie van [functietitel]. De vragen moeten gericht zijn op het toetsen van de volgende competenties: [competentie 1, bv. 'probleemoplossend vermogen'], [competentie 2, bv. 'samenwerken'], en [competentie 3, bv. 'klantgerichtheid']. Gebruik de STAR-methode als uitgangspunt.",
-        "tags": [
-            "HR Professional",
-            "Planning & Organisatie",
-            "Interview",
-            "Recruitment"
-        ],
-        "role": "Recruiter / Hiring Manager",
-        "tasks": [
-            "Interviews voorbereiden",
-            "Competenties toetsen",
-            "Kandidaten selecteren"
-        ],
-        "use_case": "Een recruiter of manager bereidt een sollicitatiegesprek voor en wil specifieke, competentiegerichte vragen stellen om de geschiktheid van een kandidaat te beoordelen.",
-        "context_keywords": [
-            "interviewvragen",
-            "recruitment",
-            "competenties",
-            "STAR-methode",
-            "gedragsgericht",
-            "sollicitatiegesprek"
-        ]
-    },
-    {
-        "id": 79,
-        "title": "Tutorial Script Schrijven",
-        "prompt": "Schrijf een script voor een 5-minuten durende YouTube-video tutorial met de titel: \"Hoe gebruik je [specifieke software of tool] voor beginners\". Het script moet een introductie, stapsgewijze instructies met duidelijke acties, en een outro met een call-to-action (abonneren, etc.) bevatten. Schrijf de tekst in spreektaal.",
-        "tags": [
-            "Content Creator",
-            "Tekst Schrijven",
-            "Video Productie",
-            "Script"
-        ],
-        "role": "Content Creator / Trainer",
-        "tasks": [
-            "Scripts schrijven",
-            "Educatieve content maken",
-            "Video's produceren"
-        ],
-        "use_case": "Een content creator wil een instructievideo maken en heeft een goed gestructureerd, spreektaal-script nodig om de opname soepel te laten verlopen.",
-        "context_keywords": [
-            "script",
-            "tutorial",
-            "YouTube",
-            "video",
-            "instructies",
-            "spreektaal"
-        ]
-    },
-    {
-        "id": 80,
-        "title": "Structureren van Notulen na Vergadering",
-        "prompt": "Fungeer als een ervaren directiesecretaresse. Ik geef je mijn ruwe aantekeningen van een vergadering. Structureer deze in een formeel notulen-document. Het document moet de volgende onderdelen bevatten:\n1. Vergaderdetails (Datum, Tijd, Locatie, Titel)\n2. Aanwezigen en Afwezigen\n3. Agendapunten (zoals besproken)\n4. Besluiten (duidelijk per agendapunt)\n5. Actiepunten (in een tabel met kolommen: 'Actiepunt', 'Verantwoordelijke', 'Deadline').\n\nMijn aantekeningen zijn:\n[Plak hier je ruwe aantekeningen of steekwoorden]",
-        "tags": [
-            "Directiesecretaresse",
-            "Notuleren & Verslaglegging",
-            "Vergadering",
-            "Administratie"
-        ],
-        "role": "Directiesecretaresse / Management Assistent",
-        "tasks": [
-            "Notuleren",
-            "Verslaglegging",
-            "Informatie structureren"
-        ],
-        "use_case": "Na een vergadering moeten ruwe aantekeningen worden omgezet in een formeel en gestructureerd verslag (notulen) voor alle deelnemers.",
-        "context_keywords": [
-            "notulen",
-            "vergadering",
-            "verslaglegging",
-            "actiepunten",
-            "besluiten",
-            "verantwoordelijke",
-            "deadline"
-        ]
-    },
-    {
-        "id": 81,
-        "title": "Gedetailleerde Transcriptie van Audio",
-        "prompt": "Transcribeer de volgende tekst die uit een audio-opname komt. Zorg voor een nauwkeurige, letterlijke weergave. Identificeer verschillende sprekers als 'Spreker 1', 'Spreker 2', etc. Voeg timestamps toe [HH:MM:SS] aan het begin van elke paragraaf of bij een belangrijke wisseling van onderwerp. Markeer onverstaanbare woorden of zinnen met [onverstaanbaar].\n\nTekst:\n[Plak hier de tekst uit het dictaat of de audio-opname]",
-        "tags": [
-            "Office Manager",
-            "Notuleren & Verslaglegging",
-            "Transcriptie",
-            "Audio"
-        ],
-        "role": "Transcriptionist / Administratief Medewerker",
-        "tasks": [
-            "Transcriberen",
-            "Verslaglegging",
-            "Dataverwerking"
-        ],
-        "use_case": "Voor juridische, medische of onderzoeksdoeleinden moet een audio-opname nauwkeurig worden omgezet naar een geschreven tekst, inclusief sprekeridentificatie en timestamps.",
-        "context_keywords": [
-            "transcriptie",
-            "audio",
-            "letterlijk",
-            "sprekers",
-            "timestamps",
-            "verslaglegging"
-        ]
-    },
-    {
-        "id": 82,
-        "title": "Verwerken van een Dictaat tot Formeel Document",
-        "prompt": "Ik heb een memo gedicteerd. Verwerk dit dictaat tot een formele, goed gestructureerde e-mail/memo gericht aan [doelgroep, bv. 'het managementteam']. Corrigeer eventuele grammaticale fouten, verbeter de zinsbouw voor betere leesbaarheid en zorg voor een professionele en overtuigende toon. De onderwerpregel moet zijn: [onderwerp].\n\nDictaat:\n[Plak hier de gedicteerde tekst]",
-        "tags": [
-            "Directiesecretaresse",
-            "Communicatie & E-mail",
-            "Tekst Schrijven",
-            "Memo"
-        ],
-        "role": "Directiesecretaresse / Personal Assistant",
-        "tasks": [
-            "Dictaten uitwerken",
-            "Teksten redigeren",
-            "Zakelijke communicatie"
-        ],
-        "use_case": "Een manager heeft snel een idee gedicteerd dat door de assistent moet worden omgezet in een professionele, foutloze en goed gestructureerde memo of e-mail.",
-        "context_keywords": [
-            "dictaat",
-            "memo",
-            "e-mail",
-            "formeel schrijven",
-            "redigeren",
-            "professionaliseren"
-        ]
-    },
-    {
-        "id": 83,
-        "title": "Complexe Afspraak Inplannen met Meerdere Personen",
-        "prompt": "Stel een e-mail op om een afspraak te plannen voor 4 personen met complexe en beperkte beschikbaarheid. Persoon A kan alleen op ma/di ochtend. Persoon B niet op vrijdag. Persoon C reist op woensdag. De meeting duurt 1 uur en moet volgende week plaatsvinden. Stel 3 concrete tijdslots voor en vraag de ontvangers hun voorkeur aan te geven of een datumprikker te gebruiken.",
-        "tags": [
-            "Office Manager",
-            "Planning & Organisatie",
-            "Communicatie & E-mail",
-            "Agendabeheer"
-        ],
-        "role": "Office Manager / Directiesecretaresse",
-        "tasks": [
-            "Agendabeheer",
-            "Plannen en organiseren",
-            "Communicatie"
-        ],
-        "use_case": "Het plannen van een meeting met meerdere drukbezette personen is complex. Deze prompt helpt bij het opstellen van een duidelijke e-mail om efficiënt een geschikt moment te vinden.",
-        "context_keywords": [
-            "afspraak plannen",
-            "agendabeheer",
-            "beschikbaarheid",
-            "tijdslots",
-            "datumprikker",
-            "organisatie"
-        ]
-    },
-    {
-        "id": 84,
-        "title": "Structuur voor een Zakelijke Presentatie",
-        "prompt": "Mijn manager moet een presentatie geven over [onderwerp]. Ik geef je de kernboodschappen. Creëer op basis hiervan een logische structuur voor een 10-slide PowerPoint-presentatie. Geef per slide een titel en 3-5 bullet points met de inhoud. De structuur moet bevatten: titelslide, agenda, introductie, 3-4 inhoudelijke slides, samenvatting, en een Q&A slide.",
-        "tags": [
-            "Directiesecretaresse",
-            "Documentatie & Presentatie",
-            "PowerPoint",
-            "Planning & Organisatie"
-        ],
-        "role": "Directiesecretaresse / Management Assistent",
-        "tasks": [
-            "Presentaties voorbereiden",
-            "Informatie structureren",
-            "Ondersteunen van management"
-        ],
-        "use_case": "Een assistent helpt een manager bij het voorbereiden van een belangrijke presentatie door de kernboodschappen om te zetten in een heldere slide-structuur.",
-        "context_keywords": [
-            "presentatie",
-            "PowerPoint",
-            "structuur",
-            "slides",
-            "bullet points",
-            "zakelijk"
-        ]
-    },
-    {
-        "id": 85,
-        "title": "Checklist voor Organisatie van een Bedrijfsevenement",
-        "prompt": "Genereer een gedetailleerde checklist voor het organiseren van een [type evenement, bv. 'jaarlijkse personeelsborrel'] voor [aantal] personen. De checklist moet onderverdeeld zijn in fasen (2 maanden vooraf, 1 maand vooraf, 1 week vooraf, op de dag zelf) en taken bevatten zoals budgettering, locatie zoeken, offertes opvragen, uitnodigingen versturen, catering regelen, techniek controleren en de communicatieplanning.",
-        "tags": [
-            "Office Manager",
-            "Planning & Organisatie",
-            "Evenementen",
-            "Checklist"
-        ],
-        "role": "Office Manager / Event Manager",
-        "tasks": [
-            "Evenementenorganisatie",
-            "Projectplanning",
-            "Budgetbeheer"
-        ],
-        "use_case": "Voor de organisatie van een bedrijfsevenement is een gedetailleerde checklist essentieel om ervoor te zorgen dat geen enkele taak over het hoofd wordt gezien.",
-        "context_keywords": [
-            "checklist",
-            "evenement",
-            "planning",
-            "organisatie",
-            "budgettering",
-            "locatie",
-            "catering"
-        ]
-    },
-    {
-        "id": 86,
-        "title": "Gedetailleerd Reisplan (Itinerarium) Opstellen",
-        "prompt": "Stel een compleet en gedetailleerd reisplan (itinerarium) op voor een zakenreis van [naam manager] naar [stad/land] van [startdatum] tot [einddatum]. Baseer je op de volgende informatie: [plak hier vluchtnummers, hotelnaam, meeting-adressen, etc.]. Het plan moet een overzicht per dag bevatten met tijden, locaties, vluchtgegevens, hotelinformatie (incl. adres en bevestigingsnummer), transportdetails en contactpersonen voor de afspraken.",
-        "tags": [
-            "Directiesecretaresse",
-            "Planning & Organisatie",
-            "Reizen",
-            "Administratie"
-        ],
-        "role": "Directiesecretaresse / Personal Assistant",
-        "tasks": [
-            "Reizen boeken en plannen",
-            "Agendabeheer",
-            "Informatie structureren"
-        ],
-        "use_case": "Een assistent moet een overzichtelijk en compleet reisplan maken voor een manager, zodat deze tijdens de zakenreis alle benodigde informatie direct bij de hand heeft.",
-        "context_keywords": [
-            "reisplan",
-            "itinerarium",
-            "zakenreis",
-            "planning",
-            "vluchtgegevens",
-            "hotel",
-            "afspraken"
-        ]
-    },
-    {
-        "id": 87,
-        "title": "Management Samenvatting van Lang Rapport",
-        "prompt": "Vat het volgende rapport samen tot een beknopte 'management summary' van maximaal 250 woorden. De samenvatting moet gericht zijn op een drukbezette manager en de belangrijkste bevindingen, conclusies en aanbevelingen helder presenteren.\n\nRapport:\n[Plak hier de tekst van het rapport]",
-        "tags": [
-            "Directiesecretaresse",
-            "Samenvatten & Vereenvoudigen",
-            "Rapportage",
-            "Management"
-        ],
-        "role": "Directiesecretaresse / Analist",
-        "tasks": [
-            "Samenvatten",
-            "Rapporteren",
-            "Informatie distilleren"
-        ],
-        "use_case": "Een manager heeft geen tijd om een lang rapport te lezen en vraagt om een korte, krachtige samenvatting die de essentie weergeeft voor snelle besluitvorming.",
-        "context_keywords": [
-            "samenvatting",
-            "management summary",
-            "rapport",
-            "conclusies",
-            "aanbevelingen",
-            "beknopt"
-        ]
-    },
-    {
-        "id": 88,
-        "title": "Optimaliseren van een Kantoorproces",
-        "prompt": "Analyseer het volgende kantoorproces: [beschrijf een proces, bv. 'het onboarden van een nieuwe medewerker' of 'het verwerken van inkomende post']. Identificeer 3 potentiële knelpunten die leiden tot vertraging of inefficiëntie. Geef voor elk knelpunt een concreet verbetervoorstel, inclusief de benodigde stappen of aan te schaffen tools.",
-        "tags": [
-            "Office Manager",
-            "Procesoptimalisatie",
-            "Analyse",
-            "Efficiëntie"
-        ],
-        "role": "Office Manager / Procesmanager",
-        "tasks": [
-            "Procesanalyse",
-            "Optimalisatie",
-            "Efficiëntieverbetering"
-        ],
-        "use_case": "Een office manager wil een bestaand kantoorproces efficiënter maken en gebruikt deze prompt om knelpunten te identificeren en concrete verbetervoorstellen te genereren.",
-        "context_keywords": [
-            "procesoptimalisatie",
-            "kantoorproces",
-            "knelpunten",
-            "efficiëntie",
-            "verbetervoorstel",
-            "analyse"
-        ]
-    },
-    {
-        "id": 89,
-        "title": "E-mailtemplate voor Afspraakbevestiging",
-        "prompt": "Creëer een professioneel en volledig e-mailtemplate voor het bevestigen van een afspraak. Het template moet placeholders bevatten voor [Naam genodigde], [Datum], [Tijd], [Locatie/Videocall-link], [Onderwerp van de meeting], en [Namen van andere deelnemers]. Voeg ook een vriendelijke zin toe waarin gevraagd wordt om het te laten weten bij verhindering.",
-        "tags": [
-            "Directiesecretaresse",
-            "Communicatie & E-mail",
-            "Template",
-            "Agendabeheer"
-        ],
-        "role": "Directiesecretaresse / Office Manager",
-        "tasks": [
-            "Templates maken",
-            "Agendabeheer",
-            "Efficiënt communiceren"
-        ],
-        "use_case": "Om tijd te besparen en consistent te communiceren, wil een assistent een standaard e-mailtemplate voor het bevestigen van afspraken, dat snel kan worden ingevuld.",
-        "context_keywords": [
-            "e-mailtemplate",
-            "afspraakbevestiging",
-            "agendabeheer",
-            "placeholders",
-            "efficiëntie"
-        ]
-    },
-    {
-        "id": 90,
-        "title": "Concept voor Interne Aankondiging",
-        "prompt": "Schrijf een concept voor een interne aankondiging (voor intranet of e-mail) over [onderwerp, bv. 'de implementatie van een nieuw softwarepakket' of 'een wijziging in het thuiswerkbeleid']. De toon moet informatief, duidelijk en positief zijn. Zorg ervoor dat de 'waarom' achter de verandering wordt uitgelegd en geef aan waar medewerkers terechtkunnen met vragen.",
-        "tags": [
-            "Office Manager",
-            "Communicatie & E-mail",
-            "Interne Communicatie",
-            "HR"
-        ],
-        "role": "HR / Communicatie Medewerker / Office Manager",
-        "tasks": [
-            "Interne communicatie",
-            "Verandermanagement",
-            "Tekstschrijven"
-        ],
-        "use_case": "Bij een belangrijke verandering binnen het bedrijf moet er een duidelijke en positieve aankondiging worden geschreven om alle medewerkers te informeren en draagvlak te creëren.",
-        "context_keywords": [
-            "interne communicatie",
-            "aankondiging",
-            "intranet",
-            "beleidswijziging",
-            "medewerkers informeren"
-        ]
-    },
-    {
-        "id": 91,
-        "title": "Opvolgen van Openstaande Actiepunten",
-        "prompt": "Genereer een beleefde maar duidelijke reminder-e-mail voor een collega over een openstaand actiepunt uit de vergadering van [datum]. Het actiepunt is: \"[beschrijving actiepunt]\". De deadline was [datum]. Vraag vriendelijk naar de status en bied hulp aan indien nodig.",
-        "tags": [
-            "Directiesecretaresse",
-            "Communicatie & E-mail",
-            "Follow-up",
-            "Productiviteit"
-        ],
-        "role": "Directiesecretaresse / Project Manager",
-        "tasks": [
-            "Actiepunten opvolgen",
-            "Projectbewaking",
-            "Communicatie"
-        ],
-        "use_case": "Om de voortgang van een project te bewaken, moet een openstaand actiepunt worden opgevolgd met een vriendelijke maar duidelijke herinneringsmail naar de verantwoordelijke collega.",
-        "context_keywords": [
-            "follow-up",
-            "reminder",
-            "actiepunt",
-            "vergadering",
-            "deadline",
-            "statusupdate"
-        ]
-    },
-    {
-        "id": 92,
-        "title": "Filteren en Prioriteren van Inbox",
-        "prompt": "Fungeer als een slimme assistent. Ik geef je 5 onderwerpregels en afzenders uit de inbox van mijn manager. Prioriteer deze op een schaal van 1 (zeer urgent) tot 3 (kan wachten). Geef per e-mail een korte samenvatting van de vermoedelijke inhoud en een suggestie voor de volgende actie (direct antwoorden, agenderen, doorsturen, archiveren).\n\nE-mails:\n[Plak hier de lijst met onderwerpregels en afzenders]",
-        "tags": [
-            "Directiesecretaresse",
-            "Communicatie & E-mail",
-            "Productiviteit",
-            "Time Management"
-        ],
-        "role": "Directiesecretaresse / Personal Assistant",
-        "tasks": [
-            "Inbox management",
-            "Prioriteren",
-            "Efficiëntie"
-        ],
-        "use_case": "Een assistent helpt een manager de dag productief te starten door de inbox te scannen, e-mails te prioriteren en acties voor te stellen.",
-        "context_keywords": [
-            "inbox management",
-            "prioriteren",
-            "e-mail",
-            "productiviteit",
-            "assistent",
-            "time management"
-        ]
-    },
-    {
-        "id": 93,
-        "title": "Voorbereiden van een Vergadering (Briefing Document)",
-        "prompt": "Stel een briefingdocument van één pagina op voor mijn manager ter voorbereiding op de meeting met [naam externe partij] over [onderwerp]. Het document moet de volgende secties bevatten:\n1. Doel van de meeting.\n2. Profiel van de aanwezigen (namen, functies).\n3. Korte geschiedenis/context van de relatie.\n4. Belangrijkste gesprekspunten/agenda.\n5. Gewenst resultaat van de meeting.",
-        "tags": [
-            "Directiesecretaresse",
-            "Documentatie & Presentatie",
-            "Planning & Organisatie",
-            "Vergadering"
-        ],
-        "role": "Directiesecretaresse / Management Assistent",
-        "tasks": [
-            "Vergaderingen voorbereiden",
-            "Informatie verzamelen en structureren",
-            "Ondersteunen van management"
-        ],
-        "use_case": "Voor een belangrijke externe meeting moet een manager goed voorbereid zijn. De assistent stelt een beknopt briefingdocument op met alle cruciale informatie.",
-        "context_keywords": [
-            "briefing document",
-            "vergadering voorbereiden",
-            "meeting",
-            "agenda",
-            "doelstelling",
-            "stakeholders"
-        ]
-    },
-    {
-        "id": 94,
-        "title": "Vergelijken van Leveranciersoffertes",
-        "prompt": "Ik heb offertes ontvangen van 3 leveranciers voor [product/dienst, bv. 'nieuwe kantoorstoelen']. Maak een overzichtelijke tabel die de leveranciers vergelijkt op de volgende criteria: prijs per eenheid, totale kosten, levertijd, garantievoorwaarden en klantreviews (indien bekend). Geef op basis van de tabel een aanbeveling voor de beste keuze.\n\nData:\n[Plak hier de belangrijkste data uit de offertes]",
-        "tags": [
-            "Office Manager",
-            "Analyse",
-            "Inkoop",
-            "Vergelijken"
-        ],
-        "role": "Office Manager / Inkoper",
-        "tasks": [
-            "Inkoop",
-            "Leveranciersmanagement",
-            "Kostenanalyse"
-        ],
-        "use_case": "Een office manager moet een aankoopbeslissing nemen en wil de offertes van verschillende leveranciers objectief vergelijken om de beste keuze te maken.",
-        "context_keywords": [
-            "offertes vergelijken",
-            "inkoop",
-            "leveranciers",
-            "kostenanalyse",
-            "tabel",
-            "aanbeveling"
-        ]
-    },
-    {
         "id": 95,
         "title": "Brief voor Verlenging Opdracht ZZP'er",
         "prompt": "Als expert op het gebied van contractverlenging, verzoek ik je om een gedetailleerde brief op te stellen voor zzp'ers om hun opdracht met een jaar te verlengen. De brief moet de voordelen van de verlenging voor beide partijen benadrukken, rekening houden met de voorwaarden van de huidige overeenkomst en duidelijk de volgende stappen voor de zzp'er uiteenzetten om de verlenging te bevestigen. Gelieve ook de context van de samenwerking en eventuele relevante wijzigingen in de contractvoorwaarden te vermelden.",
@@ -2335,7 +1323,7 @@
             "template",
             "kernpunten",
             "vergadering",
-            "besluitvorming",
+            "besluitvorming2",
             "vervolgstappen"
         ]
     },
@@ -2793,5 +1781,1180 @@
             "onderzoek",
             "argumentatie"
         ]
-    }
+    },
+    {
+        "id": 214,
+        "title": "Strategische Gastsegmentatie en Campagne-ideeën",
+        "prompt": "Je bent een AI-marketingstrateeg gespecialiseerd in de hospitalitysector. Analyseer de bijgevoegde boekingsdata (CSV) van de afgelopen 2 jaar. Identificeer 3-5 duidelijke gastsegmenten op basis van kenmerken zoals reisdoel, verblijfsduur en herhaalbezoek. Geef voor elk segment een naam, een beschrijving, en concrete suggesties voor gepersonaliseerde e-mailcampagnes om herhaalbezoeken te stimuleren. Presenteer het resultaat in een markdown-tabel.",
+        "tags": [
+            "directie",
+            "marketing",
+            "strategie",
+            "data-analyse",
+            "segmentatie",
+            "toerisme"
+        ],
+        "role": "Directeur",
+        "tasks": [
+            "Strategie bepalen",
+            "Marketinganalyse",
+            "Klantsegmentatie",
+            "Omzet verhogen"
+        ],
+        "use_case": "Een directeur van een toeristische organisatie (Zeayou Zeeland) wil de klantendatabase analyseren om gerichtere marketingcampagnes op te zetten en de omzet te verhogen.",
+        "context_keywords": [
+            "gastgegevens",
+            "campagne",
+            "email",
+            "boekingsdata",
+            "directeur",
+            "zeeland",
+            "toerisme"
+        ]
+    },
+    {
+        "id": 215,
+        "title": "Efficiëntieanalyse voor Maritieme Loodsplanning",
+        "prompt": "Je bent een AI-logistiek planner voor maritieme operaties. Optimaliseer de planning van loodsen voor de komende 24 uur op basis van het actuele vaarverkeer in de haven [Havennaam invullen], verwachte aankomsttijden (ETA's), en wachttijden per schiptype. Maak een voorstel voor een efficiënte planning per dienstblok van 4 uur en identificeer potentiële knelpunten en risico's.",
+        "tags": [
+            "logistiek",
+            "planning",
+            "maritiem",
+            "efficiëntie",
+            "optimalisatie",
+            "oprichter"
+        ],
+        "role": "Oprichter / Eigenaar",
+        "tasks": [
+            "Operationele planning",
+            "Efficiëntieverbetering",
+            "Kostenbesparing",
+            "Risicomanagement"
+        ],
+        "use_case": "Een oprichter van een loodsensociëteit wil de inzet van personeel en middelen optimaliseren om wachttijden te minimaliseren en de algehele operationele efficiëntie te verbeteren.",
+        "context_keywords": [
+            "loods",
+            "haven",
+            "planning",
+            "scheepvaart",
+            "eta",
+            "logistiek",
+            "antwerpen"
+        ]
+    },
+    {
+        "id": 216,
+        "title": "ESG-Rapportage Samenvatten en CSRD-Analyse",
+        "prompt": "Je bent een AI-adviseur gespecialiseerd in ESG en CSRD-richtlijnen. Vat de bijgevoegde jaarlijkse duurzaamheidsrapportage samen in een management-summary van maximaal 3 pagina's. Identificeer vervolgens op basis van de nieuwe CSRD-richtlijnen 3-5 relevante KPI's die we in het komende jaar kunnen toevoegen. Presenteer de KPI's in een tabel met de indicator, de meetmethode en het strategisch belang.",
+        "tags": [
+            "esg",
+            "csrd",
+            "duurzaamheid",
+            "rapportage",
+            "compliance",
+            "kpi",
+            "management"
+        ],
+        "role": "Manager ESG",
+        "tasks": [
+            "Rapporteren",
+            "Beleidsanalyse",
+            "Duurzaamheid",
+            "Compliance",
+            "Strategie"
+        ],
+        "use_case": "Een ESG Manager (bijv. bij Landal) moet complexe rapporten samenvatten en zich voorbereiden op de nieuwe Europese duurzaamheidsrapportagestandaarden (CSRD).",
+        "context_keywords": [
+            "esg",
+            "duurzaamheid",
+            "csrd",
+            "verslag",
+            "kpi",
+            "landal",
+            "rapportage"
+        ]
+    },
+    {
+        "id": 217,
+        "title": "Dynamische Prijsstrategie voor Seizoenspieken",
+        "prompt": "Je bent een AI-pricinganalist in de leisure-sector. Geef een dynamische prijssuggestie voor een [type verblijf, bv. midweek] in [periode, bv. augustus]. Baseer je op de volgende variabelen: historische bezettingsgraad, weersvoorspelling, boekingstrends en evenementen in de regio. Geef ook advies over de effectiviteit van vroegboekkortingen versus lastminute-aanbiedingen voor deze periode.",
+        "tags": [
+            "revenue management",
+            "dynamic pricing",
+            "data-analyse",
+            "toerisme",
+            "omzet"
+        ],
+        "role": "Revenue Manager",
+        "tasks": [
+            "Prijsstrategie bepalen",
+            "Data-analyse",
+            "Omzetoptimalisatie",
+            "Voorspellen"
+        ],
+        "use_case": "Een Revenue Manager (bijv. bij Center Parcs) wil de prijzen optimaliseren om de bezettingsgraad en omzet te maximaliseren tijdens een drukke periode.",
+        "context_keywords": [
+            "prijzen",
+            "omzet",
+            "bezetting",
+            "dynamic pricing",
+            "revenue",
+            "center parcs"
+        ]
+    },
+    {
+        "id": 218,
+        "title": "Toeristische Bezoekersprognose en Spreidingsadvies",
+        "prompt": "Je bent een AI-analysemodel voor regionaal toerismebeleid. Voorspel het aantal toeristen in Zeeland per regio (bv. Walcheren, Schouwen-Duiveland) voor [kwartaal, bv. Q3 2025]. Baseer je op historische data, social media activiteit en data van boekingsplatformen. Geef per regio een inschatting in procentuele groei/daling en geef een advies voor welke regio's actieve spreiding van toeristen wenselijk is, inclusief motivatie.",
+        "tags": [
+            "projectmanagement",
+            "toerisme",
+            "data-analyse",
+            "prognose",
+            "beleid",
+            "zeeland"
+        ],
+        "role": "Project manager tourism",
+        "tasks": [
+            "Data-analyse",
+            "Voorspellen",
+            "Projectplanning",
+            "Beleidsadvies"
+        ],
+        "use_case": "Een projectmanager toerisme (bijv. bij Impuls Zeeland) wil een datagedreven voorspelling van bezoekersaantallen om proactief beleid te kunnen ontwikkelen voor spreiding en het managen van drukte.",
+        "context_keywords": [
+            "toerisme",
+            "spreiding",
+            "voorspelling",
+            "data",
+            "impuls zeeland",
+            "projectmanager"
+        ]
+    },
+    {
+        "id": 219,
+        "title": "Professionele E-mailantwoorden voor Gastvragen",
+        "prompt": "Je bent een AI-e-mailassistent voor een hotel. Genereer een professioneel, vriendelijk en helder antwoord op de volgende e-mail van een gast: 'Beste, ik overweeg volgende week bij jullie te verblijven en heb enkele vragen. Is er parkeergelegenheid in de buurt? Wat zijn de annuleringsvoorwaarden en tot wanneer kan ik kosteloos annuleren? En bieden jullie ook ontbijt aan, en wat zijn de kosten daarvan?' Structureer het antwoord met duidelijke kopjes of bulletpoints.",
+        "tags": [
+            "klantenservice",
+            "frontoffice",
+            "communicatie",
+            "hospitality",
+            "email"
+        ],
+        "role": "Frontoffice medewerker",
+        "tasks": [
+            "Klantvragen beantwoorden",
+            "E-mail opstellen",
+            "Informatie verstrekken"
+        ],
+        "use_case": "Een frontoffice medewerker wil snel en accuraat gestandaardiseerde, maar toch persoonlijke, antwoorden kunnen geven op veelvoorkomende vragen van gasten.",
+        "context_keywords": [
+            "hotel",
+            "gast",
+            "email",
+            "klantvraag",
+            "receptie",
+            "timmerfabriek"
+        ]
+    },
+    {
+        "id": 220,
+        "title": "Risicoanalyse en Mitigatie voor Projectplan",
+        "prompt": "Je bent een AI-projectconsultant. Analyseer het bijgevoegde projectplan (PDF/tekst). Identificeer de top 5 grootste risico's die de planning, het budget of de kwaliteit kunnen beïnvloeden. Presenteer je analyse in een tabel met de volgende kolommen: 'Risico', 'Potentiële Impact', en 'Voorgestelde Mitigatiestrategie'.",
+        "tags": [
+            "projectmanagement",
+            "risicoanalyse",
+            "planning",
+            "strategie",
+            "consulting"
+        ],
+        "role": "Projectmanager",
+        "tasks": [
+            "Risicomanagement",
+            "Projectplanning",
+            "Analyse",
+            "Probleemoplossing"
+        ],
+        "use_case": "Een projectmanager wil proactief potentiële risico's in een nieuw projectplan identificeren en direct een strategie bedenken om deze risico's te beperken.",
+        "context_keywords": [
+            "projectplan",
+            "risico",
+            "mitigatie",
+            "tijdlijn",
+            "budget",
+            "addvision"
+        ]
+    },
+    {
+        "id": 221,
+        "title": "Contentcreatie voor Doelgroepspecifieke Campagnes",
+        "prompt": "Je bent een AI-content creator voor regiomarketing. Genereer 3 verschillende LinkedIn-posts voor een campagne over 'Zeeland als duurzame vakantiebestemming'. Schrijf elke post voor een specifieke doelgroep: 1. Jonge gezinnen (focus op natuur en educatie), 2. Actieve senioren (focus op rust, cultuur en fietsroutes), 3. Duitse toeristen (focus op nabijheid, kust en kwaliteit). Zorg voor een pakkende kop, een korte tekst (max 60 woorden), een duidelijke call-to-action en relevante hashtags per post.",
+        "tags": [
+            "marketing",
+            "contentcreatie",
+            "social media",
+            "toerisme",
+            "doelgroepsegmentatie"
+        ],
+        "role": "Regiomarketeer",
+        "tasks": [
+            "Content creëren",
+            "Social media beheren",
+            "Campagnes opzetten",
+            "Doelgroepanalyse"
+        ],
+        "use_case": "Een regiomarketeer voor de Provincie Zeeland heeft snel gevarieerde en doelgroepspecifieke content nodig voor een nieuwe online campagne.",
+        "context_keywords": [
+            "linkedin",
+            "campagne",
+            "content",
+            "zeeland",
+            "marketing",
+            "provincie"
+        ]
+    },
+    {
+        "id": 222,
+        "title": "Clusteranalyse van Open Enquêteantwoorden",
+        "prompt": "Je bent een AI-data-analist gespecialiseerd in kwalitatief onderzoek. Analyseer de bijgevoegde dataset (CSV/Excel) met 500 open antwoorden op de enquêtevraag: 'Wat waardeert u het meest aan de Zeeuwse kust?'. Gebruik NLP-clustering om 5-7 hoofdthema's te identificeren. Geef per thema een samenvatting, het sentiment (positief/neutraal/negatief) en 3 letterlijke, representatieve quotes.",
+        "tags": [
+            "onderzoek",
+            "data-analyse",
+            "nlp",
+            "enquête",
+            "kwalitatief",
+            "toerisme"
+        ],
+        "role": "Onderzoeker",
+        "tasks": [
+            "Data analyseren",
+            "Enquêtes verwerken",
+            "Rapporteren",
+            "Clusteren"
+        ],
+        "use_case": "Een onderzoeker bij een kenniscentrum wil snel inzicht krijgen in de belangrijkste thema's uit een grote hoeveelheid open antwoorden zonder alles handmatig te hoeven coderen.",
+        "context_keywords": [
+            "enquête",
+            "antwoorden",
+            "clusteren",
+            "analyse",
+            "onderzoek",
+            "kusttoerisme"
+        ]
+    },
+    {
+        "id": 223,
+        "title": "Samenvatting en Beleidsopties uit Rapport",
+        "prompt": "Je bent een AI-beleidsassistent voor een overheidsinstelling. Vat het bijgevoegde, 20 pagina's tellende rapport over recreatiedruk samen op maximaal 1 A4. Zorg voor een neutrale en objectieve toon. Formuleer vervolgens op basis van de samenvatting 3 concrete beleidsopties om de recreatiedruk te managen. Presenteer de opties in een tabel met kolommen: 'Beleidsoptie', 'Voordelen', 'Nadelen', en 'Benodigde middelen'.",
+        "tags": [
+            "beleid",
+            "overheid",
+            "samenvatten",
+            "analyse",
+            "toerisme",
+            "economie"
+        ],
+        "role": "Beleidsondersteuner Economie, Toerisme en Recreatie",
+        "tasks": [
+            "Rapporten samenvatten",
+            "Beleidsopties formuleren",
+            "Analyse",
+            "Adviseren"
+        ],
+        "use_case": "Een beleidsondersteuner bij een gemeente moet een lijvig rapport snel doorgronden en omzetten in concrete, afgewogen beleidskeuzes voor het bestuur.",
+        "context_keywords": [
+            "beleidsnota",
+            "samenvatting",
+            "rapport",
+            "recreatiedruk",
+            "gemeente veere",
+            "beleid"
+        ]
+    },
+    {
+        "id": 224,
+        "title": "Campagnecreatie en Online Reputatieanalyse",
+        "prompt": "Je bent een AI-marketingdirecteur. Genereer een pakkende zomercampagne slogan en een korte campagnetekst voor 'Zomer op Schouwen-Duiveland'. Analyseer daarnaast de online conversaties over Schouwen-Duiveland van de afgelopen maand (op basis van social media data). Geef een sentimentanalyse (positief/negatief/neutraal), identificeer de top 5 meest besproken thema's en geef 3 voorbeeldberichten die de online reputatie kunnen versterken.",
+        "tags": [
+            "directie",
+            "marketing",
+            "campagne",
+            "sentimentanalyse",
+            "reputatiemanagement",
+            "toerisme"
+        ],
+        "role": "Directeur",
+        "tasks": [
+            "Marketingstrategie",
+            "Campagneontwikkeling",
+            "Merkbewaking",
+            "Analyse"
+        ],
+        "use_case": "Een directeur van een eilandmarketingorganisatie wil een nieuwe campagne lanceren en tegelijkertijd een vinger aan de pols houden wat betreft de online publieke opinie.",
+        "context_keywords": [
+            "campagne",
+            "slogan",
+            "sentiment",
+            "reputatie",
+            "schouwen-duiveland",
+            "marketing"
+        ]
+    },
+    {
+        "id": 225,
+        "title": "Verkoopvoorspelling en Voorraadoptimalisatie",
+        "prompt": "Je bent een AI-verkoopanalist voor de foodsector. Voorspel de vraag naar ons product 'Bio Energy Bar' voor het komende kwartaal (Q3). Baseer je op historische verkoopdata, seizoensinvloeden en bekende marketingacties. Geef een voorraadadvies per distributiekanaal (retail vs. horeca) en adviseer over een optimaal buffervoorraadpercentage om out-of-stock te voorkomen.",
+        "tags": [
+            "sales",
+            "directie",
+            "voorspelling",
+            "data-analyse",
+            "voorraadbeheer",
+            "food"
+        ],
+        "role": "Commercial Director",
+        "tasks": [
+            "Verkoop voorspellen",
+            "Voorraad beheren",
+            "Data-analyse",
+            "Commerciële strategie"
+        ],
+        "use_case": "Een commercieel directeur wil datagedreven beslissingen nemen over productie en voorraad om verspilling te minimaliseren en verkoopkansen te maximaliseren.",
+        "context_keywords": [
+            "verkoop",
+            "forecast",
+            "voorraad",
+            "sales",
+            "foodtrend",
+            "analyse"
+        ]
+    },
+    {
+        "id": 226,
+        "title": "Internationale Commerciële Productvertalingen",
+        "prompt": "Je bent een AI-copywriter gespecialiseerd in internationale B2B-producten. Vertaal de bijgevoegde technische productomschrijving van ons product [Productnaam] naar overtuigende, commerciële teksten voor onze websites in Duitsland, Frankrijk en Spanje. Houd rekening met culturele nuances en de juiste tone-of-voice voor elke markt. Focus in de Duitse tekst op degelijkheid en techniek, in de Franse op elegantie en voordelen, en in de Spaanse op innovatie en partnerschap.",
+        "tags": [
+            "directie",
+            "internationaal",
+            "sales",
+            "copywriting",
+            "vertalen",
+            "b2b"
+        ],
+        "role": "Managing director",
+        "tasks": [
+            "Internationale marketing",
+            "Commerciële teksten schrijven",
+            "Productpositionering"
+        ],
+        "use_case": "Een managing director wil zijn product succesvol lanceren in nieuwe internationale markten en heeft daarvoor lokaal relevante en overtuigende marketingteksten nodig.",
+        "context_keywords": [
+            "vertaling",
+            "copywriting",
+            "internationaal",
+            "b2b",
+            "sales",
+            "ribbstyle"
+        ]
+    },
+    {
+        "id": 227,
+        "title": "CV-analyse en Kandidaat Shortlist Genereren",
+        "prompt": "Je bent een AI-recruitmentassistent. Analyseer de bijgevoegde 15 cv's voor de vacature van 'Logistiek Planner'. Genereer een top 3 shortlist van de meest geschikte kandidaten. Presenteer de shortlist in een tabel met per kandidaat een score (1-10) op de criteria: 'Relevante Werkervaring', 'Opleiding' en 'Soft Skills (uit cv)'. Voeg een beknopte motivatie van 3 zinnen toe waarom elke kandidaat op de shortlist staat.",
+        "tags": [
+            "hr",
+            "recruitment",
+            "werving",
+            "cv-analyse",
+            "personeel"
+        ],
+        "role": "HR Specialist",
+        "tasks": [
+            "CV's screenen",
+            "Kandidaten selecteren",
+            "Recruitmentproces versnellen"
+        ],
+        "use_case": "Een HR Specialist wil het tijdrovende proces van het screenen van een grote hoeveelheid cv's versnellen en snel de meest veelbelovende kandidaten identificeren.",
+        "context_keywords": [
+            "cv",
+            "recruitment",
+            "shortlist",
+            "vacature",
+            "kandidaat",
+            "lineage",
+            "hr"
+        ]
+    },
+    {
+        "id": 228,
+        "title": "Financiële Risicoanalyse van Jaarrekeningen",
+        "prompt": "Je bent een AI-financial analyst. Analyseer de bijgevoegde 5 jaarrekeningen (PDF/Excel). Genereer per klant een beknopt risicoprofiel. Focus op kasstromen, solvabiliteit, en winstgevendheid. Geef elke klant een risicoscore (laag, midden, hoog) en licht de belangrijkste 2-3 signalen toe die tot deze score hebben geleid. Vat de analyse per klant samen in maximaal 100 woorden.",
+        "tags": [
+            "finance",
+            "consulting",
+            "risicoanalyse",
+            "financieel",
+            "data-analyse"
+        ],
+        "role": "Consultant",
+        "tasks": [
+            "Financiële analyse",
+            "Risico-inschatting",
+            "Rapporteren",
+            "Adviseren"
+        ],
+        "use_case": "Een financieel consultant moet snel de financiële gezondheid van meerdere klanten beoordelen om een gedegen advies te kunnen geven over investeringen of kredietverlening.",
+        "context_keywords": [
+            "jaarrekening",
+            "analyse",
+            "risico",
+            "financieel",
+            "consultant",
+            "reply"
+        ]
+    },
+    {
+        "id": 229,
+        "title": "Samenvatting Klantgesprek voor CRM",
+        "prompt": "Je bent een AI-CRM-assistent. Gebruik het bijgevoegde transcript (of audiobestand) van een klantgesprek. Vat het gesprek samen in bondige CRM-notities onder de volgende kopjes: 1. Klantcontext en huidige situatie. 2. Besproken behoeften en pijnpunten. 3. Voorgestelde oplossingen/producten. 4. Concreet afgesproken vervolgacties (met deadlines en verantwoordelijken).",
+        "tags": [
+            "sales",
+            "crm",
+            "accountmanagement",
+            "klantgesprek",
+            "samenvatten"
+        ],
+        "role": "Accountmanager",
+        "tasks": [
+            "Gesprekken samenvatten",
+            "CRM bijwerken",
+            "Follow-up organiseren"
+        ],
+        "use_case": "Een accountmanager wil na een klantgesprek snel en efficiënt de belangrijkste informatie en actiepunten vastleggen in het CRM-systeem.",
+        "context_keywords": [
+            "crm",
+            "gesprek",
+            "samenvatting",
+            "sales",
+            "accountmanager",
+            "hz nexus"
+        ]
+    },
+    {
+        "id": 230,
+        "title": "Gepersonaliseerd Opleidingsadvies voor Klant",
+        "prompt": "Je bent een AI-opleidingsadviseur. Een klant (HR-professional) wil zich verdiepen in 'AI in HR'. Stel een gepersonaliseerd leertraject voor, bestaande uit 4-6 modules. Denk aan onderwerpen als 'AI in Recruitment', 'Privacy & Ethiek', en 'Verandermanagement bij AI-implementatie'. Beschrijf per module kort het leerdoel, de geschatte duur en een mogelijke werkvorm (e.g., workshop, e-learning, coaching).",
+        "tags": [
+            "sales",
+            "accountmanagement",
+            "advies",
+            "opleiding",
+            "hr",
+            "ai"
+        ],
+        "role": "Accountmanager",
+        "tasks": [
+            "Klantbehoefte analyseren",
+            "Oplossingen voorstellen",
+            "Adviesgesprek voorbereiden"
+        ],
+        "use_case": "Een accountmanager van een opleidingsinstituut (HZ Nexus) wil een concrete en op maat gemaakte aanbeveling doen aan een klant met een specifieke leervraag.",
+        "context_keywords": [
+            "opleiding",
+            "leertraject",
+            "advies",
+            "sales",
+            "accountmanager",
+            "hz nexus"
+        ]
+    },
+    {
+        "id": 231,
+        "title": "Ontwikkel een Casestudy voor Toerismeonderwijs",
+        "prompt": "Je bent een onderwijsontwikkelaar voor het hoger beroepsonderwijs. Ontwikkel een actuele en relevante casestudy voor het vak [Vaknaam invullen] binnen de opleiding HZ Tourism. De case moet studenten uitdagen om concepten als duurzaam toerisme, regiomarketing en crisismanagement toe te passen op een fictieve Zeeuwse bestemming. Inclusief 3 discussievragen en een beoordelingsrubric.",
+        "tags": [
+            "onderwijs",
+            "docent",
+            "lesmateriaal",
+            "casestudy",
+            "toerisme",
+            "hz"
+        ],
+        "role": "Docent",
+        "tasks": [
+            "Lesmateriaal ontwikkelen",
+            "Studenten engageren",
+            "Casestudy maken",
+            "Beoordelen"
+        ],
+        "use_case": "Een docent Toerisme heeft nieuw, boeiend lesmateriaal nodig dat de theorie verbindt met de actuele praktijk in de regio.",
+        "context_keywords": [
+            "casestudy",
+            "lesmateriaal",
+            "toerisme",
+            "onderwijs",
+            "docent",
+            "hz tourism"
+        ]
+    },
+    {
+        "id": 232,
+        "title": "Tentamenvragen Genereren op basis van Lesstof",
+        "prompt": "Genereer op basis van de bijgevoegde lesstof (PDF/Word-document) over [Onderwerp]. Maak 10 meerkeuzevragen en 3 open vragen. Zorg ervoor dat de vragen verschillende niveaus van de taxonomie van Bloom toetsen (onthouden, begrijpen, toepassen, analyseren). Lever de vragen aan inclusief de juiste antwoorden en een korte toelichting per antwoord.",
+        "tags": [
+            "onderwijs",
+            "docent",
+            "toetsing",
+            "tentamen",
+            "lesmateriaal"
+        ],
+        "role": "Docent",
+        "tasks": [
+            "Toetsen ontwikkelen",
+            "Beoordelen",
+            "Lesstof verwerken"
+        ],
+        "use_case": "Een docent wil tijd besparen bij het opstellen van een tentamen en zorgen voor een goede mix van vragen op verschillende cognitieve niveaus.",
+        "context_keywords": [
+            "tentamen",
+            "vragen",
+            "toets",
+            "onderwijs",
+            "docent",
+            "hz"
+        ]
+    },
+    {
+        "id": 233,
+        "title": "Feedback op Studentenverslag Structureren",
+        "prompt": "Je bent een AI-assistent voor docenten. Analyseer het bijgevoegde studentenverslag over [Onderwerp]. Geef gestructureerde feedback op basis van de volgende criteria: 1. Structuur en opbouw. 2. Correctheid van de inhoud. 3. Argumentatie en onderbouwing. 4. Taalgebruik en spelling. Formuleer de feedback als 'tops' (wat goed ging) en 'tips' (wat beter kan) en geef concrete voorbeelden uit de tekst.",
+        "tags": [
+            "onderwijs",
+            "docent",
+            "feedback",
+            "nakijken",
+            "beoordelen"
+        ],
+        "role": "Docent",
+        "tasks": [
+            "Werk nakijken",
+            "Feedback geven",
+            "Studenten begeleiden"
+        ],
+        "use_case": "Een docent wil sneller en consistenter feedback kunnen geven op verslagen van studenten, met concrete en opbouwende kritiek.",
+        "context_keywords": [
+            "feedback",
+            "verslag",
+            "nakijken",
+            "student",
+            "docent",
+            "hz"
+        ]
+    },
+    {
+        "id": 234,
+        "title": "Ontwikkelen van een Internationaal Studieprogramma",
+        "prompt": "Je bent een AI-curriculumontwikkelaar. Ontwerp een concept voor een nieuwe minor 'Global Business & AI' voor de opleiding International Business. Het programma moet bestaan uit 4 modules (elk 7.5 ECTS). Beschrijf per module de leerdoelen, de belangrijkste onderwerpen, mogelijke werkvormen (bv. project, lezingen, workshops) en een suggestie voor de eindtoetsing. Zorg voor een logische opbouw en internationale relevantie.",
+        "tags": [
+            "onderwijs",
+            "management",
+            "curriculum",
+            "strategie",
+            "opleiding",
+            "international business"
+        ],
+        "role": "Docent/Opleidingsmanager",
+        "tasks": [
+            "Curriculum ontwikkelen",
+            "Strategische planning",
+            "Onderwijsinnovatie",
+            "Programma beheren"
+        ],
+        "use_case": "Een opleidingsmanager wil een nieuw, innovatief en internationaal relevant studieprogramma ontwikkelen om de opleiding aantrekkelijk te houden voor toekomstige studenten.",
+        "context_keywords": [
+            "curriculum",
+            "opleiding",
+            "minor",
+            "onderwijs",
+            "manager",
+            "hz international business"
+        ]
+    },
+    {
+        "id": 235,
+        "title": "Opstellen van een 3-Jaren Strategisch Groeiplan",
+        "prompt": "Je bent een ervaren strategieconsultant van McKinsey. Help mij met het opstellen van een concept voor een 3-jaren strategisch groeiplan voor mijn bedrijf, [Bedrijfsnaam], een [Beschrijving van het bedrijf, bv. 'middelgroot softwarebedrijf in de logistieke sector']. Analyseer de volgende input: \n- Onze missie: [Voeg missie in]\n- Onze visie: [Voeg visie in]\n- SWOT-analyse: [Voeg belangrijkste sterktes, zwaktes, kansen en bedreigingen in]. \n\nGenereer een gestructureerd plan met de volgende secties: \n1. Samenvatting voor het management (Executive Summary). \n2. Strategische Pijlers (stel 3 tot 5 duidelijke pijlers voor, bv. 'Marktleiderschap in Benelux', 'Innovatie in Duurzaamheid', 'Optimalisatie van Operationele Efficiëntie'). \n3. Kritieke Doelstellingen en KPI's per pijler voor de komende 3 jaar. \n4. Een high-level roadmap voor de implementatie in Jaar 1. \n5. Een analyse van potentiële risico's en mitigatiestrategieën. \n\nDe toon moet visionair, overtuigend en actiegericht zijn.",
+        "tags": [
+            "strategie",
+            "groei",
+            "management",
+            "planning",
+            "business plan",
+            "directie",
+            "kpi",
+            "roadmap"
+        ],
+        "role": "Directeur",
+        "tasks": [
+            "Strategische planning",
+            "Visie ontwikkelen",
+            "Bedrijfsgroei",
+            "Risicomanagement"
+        ],
+        "use_case": "Een directeur staat aan de vooravond van een nieuwe strategische periode en wil een robuust, gestructureerd plan opstellen om het managementteam en de investeerders te overtuigen en de organisatie richting te geven.",
+        "context_keywords": [
+            "strategisch plan",
+            "swot",
+            "missie",
+            "visie",
+            "kpi",
+            "roadmap",
+            "directeur",
+            "management team"
+        ]
+    },
+    {
+        "id": 236,
+        "title": "Voorbereiden van een Keynote voor de Jaarlijkse Kick-off",
+        "prompt": "Fungeer als een professionele speechschrijver. Ik moet een inspirerende keynote-presentatie van 15 minuten geven tijdens onze jaarlijkse kick-off voor alle medewerkers. Het thema van dit jaar is '[Thema, bv. 'Samen Groeien door Innovatie']'. Het doel is om het team te motiveren, de strategische doelen voor het komende jaar te presenteren en een gevoel van eenheid te creëren. \n\nSchrijf een volledige speech met de volgende elementen: \n1. Een krachtige opening die direct de aandacht trekt (bv. met een anekdote, een verrassend feit of een retorische vraag). \n2. Een korte terugblik op de successen van vorig jaar. \n3. De presentatie van de 3 belangrijkste strategische doelen voor dit jaar. \n4. Een concrete uitleg hoe de bijdrage van elke afdeling cruciaal is om deze doelen te bereiken. \n5. Een inspirerende en toekomstgerichte afsluiting die medewerkers energie geeft voor het komende jaar. \n\nDe stijl moet persoonlijk, authentiek en motiverend zijn. Vermijd overmatig bedrijfsjargon.",
+        "tags": [
+            "leiderschap",
+            "communicatie",
+            "speech",
+            "presentatie",
+            "motivatie",
+            "interne communicatie",
+            "directie"
+        ],
+        "role": "Directeur",
+        "tasks": [
+            "Team motiveren",
+            "Visie communiceren",
+            "Spreken in het openbaar",
+            "Strategie presenteren"
+        ],
+        "use_case": "Een directeur wil het nieuwe jaar aftrappen met een krachtige boodschap die alle medewerkers op één lijn brengt en motiveert om de bedrijfsdoelen te realiseren.",
+        "context_keywords": [
+            "keynote",
+            "speech",
+            "kick-off",
+            "medewerkers",
+            "presentatie",
+            "bedrijfsdoelen",
+            "motivatie"
+        ]
+    },
+    {
+        "id": 237,
+        "title": "Analyse van de Concurrentie en Marktpositionering",
+        "prompt": "Je bent een strategisch markanalist. Voer een diepgaande concurrentieanalyse uit voor mijn bedrijf. Onze belangrijkste concurrenten zijn [Concurrent 1], [Concurrent 2] en [Concurrent 3]. Focus op de volgende aspecten en presenteer de resultaten in een overzichtelijke tabel: \n1. Product/Dienst Aanbod: Wat zijn hun kernproducten en hoe verhouden die zich tot de onze? \n2. Prijsstrategie: In welk segment opereren zij (premium, budget, etc.)? \n3. Marketing & Communicatie: Wat is hun belangrijkste boodschap en via welke kanalen communiceren zij? \n4. Waargenomen Sterktes en Zwaktes (gebaseerd op openbare informatie en reviews). \n\nGeef na de tabel een strategisch advies van maximaal 300 woorden over hoe wij onze marktpositionering kunnen versterken. Identificeer hierin minimaal twee concrete kansen om ons te onderscheiden.",
+        "tags": [
+            "marktanalyse",
+            "concurrentie",
+            "strategie",
+            "positionering",
+            "management",
+            "directie",
+            "onderzoek"
+        ],
+        "role": "Directeur",
+        "tasks": [
+            "Concurrentie analyseren",
+            "Marktpositionering bepalen",
+            "Strategische beslissingen nemen",
+            "Marktonderzoek"
+        ],
+        "use_case": "Een directeur merkt dat de concurrentie toeneemt en wil een helder, datagedreven beeld krijgen van het speelveld om de eigen strategie aan te scherpen en unieke verkoopargumenten (USP's) te definiëren.",
+        "context_keywords": [
+            "concurrentieanalyse",
+            "markt",
+            "positionering",
+            "swot",
+            "usp",
+            "strategie",
+            "concurrenten"
+        ]
+    },
+    {
+        "id": 238,
+        "title": "Communicatieplan voor een Grote Organisatieverandering",
+        "prompt": "Je bent een expert in verandermanagement en interne communicatie. Ons bedrijf staat op het punt een grote reorganisatie door te voeren waarbij [korte beschrijving van de verandering, bv. 'twee afdelingen worden samengevoegd tot een nieuwe 'Customer Success' unit']. Dit kan onzekerheid veroorzaken bij medewerkers. \n\nOntwikkel een gedetailleerd communicatieplan voor de komende 3 maanden om deze verandering succesvol te begeleiden. Het plan moet de volgende onderdelen bevatten: \n1. Doelgroepen: Identificeer de belangrijkste stakeholders (bv. direct getroffen medewerkers, MT, overige medewerkers). \n2. Kernboodschappen: Formuleer per doelgroep de belangrijkste boodschappen die de 'waarom' achter de verandering uitleggen. \n3. Communicatiemiddelen en -kanalen: Geef een tijdlijn met concrete acties (bv. Week 1: All-hands meeting, Week 2: Q&A sessies met MT, Week 4: Nieuwsbrief update). \n4. FAQ: Stel een lijst op met 10 potentiële vragen die medewerkers kunnen hebben en formuleer heldere, eerlijke antwoorden. \n\nHet doel is om transparant te zijn, draagvlak te creëren en weerstand te minimaliseren.",
+        "tags": [
+            "verandermanagement",
+            "communicatie",
+            "leiderschap",
+            "reorganisatie",
+            "strategie",
+            "hr",
+            "directie"
+        ],
+        "role": "Directeur",
+        "tasks": [
+            "Verandering leiden",
+            "Interne communicatie beheren",
+            "Draagvlak creëren",
+            "Strategie implementeren"
+        ],
+        "use_case": "Een directeur moet een ingrijpende verandering doorvoeren en wil dit proces zorgvuldig en empathisch communiceren om onrust te voorkomen en een soepele transitie te waarborgen.",
+        "context_keywords": [
+            "reorganisatie",
+            "communicatieplan",
+            "change management",
+            "stakeholders",
+            "faq",
+            "medewerkers"
+        ]
+    },
+    {
+        "id": 239,
+        "title": "Opzetten van een AI Adoptiestrategie voor de Organisatie",
+        "prompt": "Je bent een Chief Technology Officer (CTO) met diepgaande kennis van AI-implementaties. Ik wil de kansen van AI voor ons bedrijf, [Bedrijfsnaam], structureel benutten. We opereren in de [Jouw Sector] sector. \n\nOntwikkel een concept voor een AI-adoptiestrategie. Structureer je advies in de volgende fases: \n1. Quick Wins (Fase 1 - komende 3 maanden): Identificeer 3 laagdrempelige use cases waar we AI kunnen inzetten om de efficiëntie te verhogen (bv. samenvatten van vergaderingen, content creatie voor marketing, analyseren van klantfeedback). \n2. Strategische Integratie (Fase 2 - komende 12 maanden): Beschrijf 2-3 grotere projecten waar AI onze kernprocessen kan verbeteren of nieuwe diensten mogelijk maakt. \n3. Training & Cultuur: Geef concrete aanbevelingen voor hoe we medewerkers kunnen trainen en een cultuur van experimentatie met AI kunnen bevorderen (bv. workshops, aanwijzen van 'AI-ambassadeurs'). \n4. Ethische Richtlijnen en Governance: Formuleer 5 basisprincipes voor verantwoord AI-gebruik binnen onze organisatie (focus op data privacy, transparantie en menselijk toezicht).",
+        "tags": [
+            "ai",
+            "innovatie",
+            "strategie",
+            "technologie",
+            "digitalisering",
+            "management",
+            "directie",
+            "toekomst"
+        ],
+        "role": "Directeur",
+        "tasks": [
+            "Innovatie stimuleren",
+            "Technologiestrategie bepalen",
+            "Efficiëntie verhogen",
+            "Toekomstbestendigheid waarborgen"
+        ],
+        "use_case": "Een vooruitstrevende directeur wil niet dat de organisatie de AI-boot mist en zoekt een gestructureerd plan om AI op een verantwoorde en effectieve manier te integreren in de bedrijfsvoering.",
+        "context_keywords": [
+            "ai strategie",
+            "implementatie",
+            "roadmap",
+            "digitale transformatie",
+            "innovatie",
+            "ethiek",
+            "governance"
+        ]
+    },
+    {
+        "id": 400,
+        "title": "Ontwikkelen Strategie voor Seizoensverbreding in Zeeland",
+        "prompt": "Je bent een toonaangevende strategieconsultant in de toeristische sector. Mijn organisatie, [Organisatienaam], wil de afhankelijkheid van het hoogseizoen verminderen. Ontwikkel een strategisch plan om Zeeland aantrekkelijker te maken voor toeristen in de herfst en winter. Het plan moet de volgende elementen bevatten: \n1. Analyse van 3 doelgroepen die juist in het laagseizoen reizen (bv. 'actieve senioren', 'wellness zoekers', 'culinaire genieters'). \n2. Concrete voorstellen voor 4 nieuwe arrangementen of evenementen die bij deze doelgroepen passen. \n3. Een marketing- en communicatieplan om deze arrangementen te promoten, inclusief kanaalkeuze. \n4. Suggesties voor samenwerkingen met lokale ondernemers (horeca, cultuur).",
+        "tags": [
+            "strategie",
+            "toerisme",
+            "marketing",
+            "seizoensverbreding",
+            "directie",
+            "zeeland"
+        ],
+        "role": "Directeur",
+        "tasks": [
+            "Strategische planning",
+            "Business development",
+            "Marketingstrategie",
+            "Stakeholdermanagement"
+        ],
+        "use_case": "Een directeur van een toeristische (marketing)organisatie wil een concreet plan om het hele jaar door een stabielere stroom van bezoekers te genereren en de lokale economie te stimuleren.",
+        "context_keywords": [
+            "toerisme",
+            "zeeland",
+            "strategie",
+            "laagseizoen",
+            "marketingplan",
+            "directeur",
+            "eilandmarketing"
+        ]
+    },
+    {
+        "id": 401,
+        "title": "Voorbereiden van een Presentatie voor Gemeentelijke Stakeholders",
+        "prompt": "Fungeer als een communicatie-expert. Ik moet een overtuigende presentatie van 10 minuten geven aan de wethouders van de Zeeuwse gemeenten. Het doel is om het belang en de economische impact van onze marketinginspanningen aan te tonen en hun steun te vragen voor een nieuw duurzaamheidsinitiatief. Schrijf een script voor de presentatie met: \n1. Een krachtige opening. \n2. De belangrijkste resultaten van vorig jaar, ondersteund met (fictieve) cijfers. \n3. De pitch voor het nieuwe 'Groen Keurmerk Zeeland' en het gevraagde commitment. \n4. Een duidelijke call-to-action en een sterke afsluiting.",
+        "tags": [
+            "presentatie",
+            "stakeholdermanagement",
+            "communicatie",
+            "leiderschap",
+            "directie",
+            "toerisme"
+        ],
+        "role": "Directeur",
+        "tasks": [
+            "Visie communiceren",
+            "Draagvlak creëren",
+            "Presenteren",
+            "Lobbyen"
+        ],
+        "use_case": "Een directeur moet politieke en financiële steun verkrijgen van belangrijke stakeholders en heeft een helder en overtuigend verhaal nodig.",
+        "context_keywords": [
+            "presentatie",
+            "script",
+            "stakeholders",
+            "gemeente",
+            "toerisme",
+            "directeur",
+            "zeayou"
+        ]
+    },
+    {
+        "id": 402,
+        "title": "Analyse van Toeristische Data en Markttrends",
+        "prompt": "Je bent een data-analist gespecialiseerd in de hospitality-sector. Ik geef je een set (fictieve) data over boekingen, bezoekersherkomst en online reviews van het afgelopen jaar. Analyseer deze data en genereer een rapport met: \n1. Een top 5 van de meest opvallende trends (bv. 'toename in last-minute boekingen vanuit Duitsland', 'groeiende vraag naar huisdiervriendelijke accommodaties'). \n2. Een visualisatie-suggestie voor elke trend (bv. staafdiagram, landkaart). \n3. Drie concrete aanbevelingen voor onze marketingstrategie gebaseerd op deze inzichten.",
+        "tags": [
+            "data-analyse",
+            "strategie",
+            "marketing",
+            "trends",
+            "directie",
+            "toerisme"
+        ],
+        "role": "Directeur",
+        "tasks": [
+            "Data-gedreven beslissingen nemen",
+            "Marktonderzoek",
+            "Strategie aanpassen"
+        ],
+        "use_case": "Een directeur wil niet op onderbuikgevoel, maar op basis van data beslissingen nemen om de marketing-euro's zo effectief mogelijk in te zetten.",
+        "context_keywords": [
+            "data analyse",
+            "toerisme",
+            "trends",
+            "bookingsdata",
+            "reviews",
+            "strategie",
+            "directeur"
+        ]
+    },
+    {
+        "id": 403,
+        "title": "Opstellen van een Crisiscommunicatieplan",
+        "prompt": "Je bent een PR- en crisiscommunicatie-expert. Stel een concept crisiscommunicatieplan op voor een toeristische regio. Focus op een scenario van 'extreem slechte weersvoorspellingen die leiden tot massale annuleringen vlak voor een vakantieperiode'. Het plan moet bevatten: \n1. Proactieve stappen: Wat communiceren we voordat de crisis piekt? \n2. Reactieve communicatie: Formuleer concept-statements voor de website, social media en pers. \n3. Interne communicatie: Hoe instrueren we medewerkers en lokale ondernemers? \n4. Nazorg: Hoe herstellen we het imago na de gebeurtenis?",
+        "tags": [
+            "crisiscommunicatie",
+            "pr",
+            "risicomanagement",
+            "directie",
+            "toerisme"
+        ],
+        "role": "Directeur",
+        "tasks": [
+            "Risicomanagement",
+            "Communicatie beheren",
+            "Besluitvorming onder druk"
+        ],
+        "use_case": "Een directeur moet voorbereid zijn op onverwachte gebeurtenissen die de reputatie en de omzet van de regio kunnen schaden.",
+        "context_keywords": [
+            "crisisplan",
+            "communicatie",
+            "pr",
+            "reputatiemanagement",
+            "calamiteit",
+            "directeur"
+        ]
+    },
+    {
+        "id": 404,
+        "title": "Brainstormen over een Innovatief Toeristisch Concept",
+        "prompt": "Gedraag je als een creatieve innovator van een trendbureau. Brainstorm over een nieuw, innovatief toeristisch concept dat Schouwen-Duiveland kan positioneren als een voorloper op het gebied van 'Digital Detox & Natuurbeleving'. Genereer 5 unieke ideeën, elk met een pakkende naam, een korte omschrijving, de doelgroep, en hoe technologie (ironisch genoeg) kan worden ingezet om de 'offline' ervaring te versterken (bv. een app die pas werkt op specifieke, afgelegen locaties).",
+        "tags": [
+            "innovatie",
+            "brainstorm",
+            "conceptontwikkeling",
+            "toerisme",
+            "marketing",
+            "directie"
+        ],
+        "role": "Directeur",
+        "tasks": [
+            "Innoveren",
+            "Business development",
+            "Merkpositionering"
+        ],
+        "use_case": "Een directeur wil de regio een uniek en toekomstbestendig profiel geven dat inspeelt op moderne maatschappelijke trends.",
+        "context_keywords": [
+            "innovatie",
+            "concept",
+            "brainstorm",
+            "digital detox",
+            "natuur",
+            "toerisme",
+            "eilandmarketing"
+        ]
+    },
+    {
+        "id": 405,
+        "title": "Optimalisatie van Operationele Planning voor Loodsen",
+        "prompt": "Je bent een AI-logistiek planner voor de maritieme sector. Mijn bedrijf, een loodsensociëteit, wil de planning van loodsen optimaliseren. Gegeven de volgende (fictieve) input: scheepsaankomsten, getijden, beschikbaarheid van loodsen en reistijden. Stel een methodiek voor om een efficiënter dienstrooster te maken. Beschrijf de stappen die je zou nemen, de variabelen waar je rekening mee houdt en de KPI's om het succes te meten (bv. 'vermindering wachttijd schepen', 'optimalisatie rusttijden loodsen').",
+        "tags": [
+            "logistiek",
+            "planning",
+            "maritiem",
+            "optimalisatie",
+            "operations"
+        ],
+        "role": "Oprichter & mede-eigenaar",
+        "tasks": [
+            "Operationeel management",
+            "Efficiëntie verbeteren",
+            "Procesoptimalisatie"
+        ],
+        "use_case": "Een eigenaar wil de kernactiviteit - het plannen van loodsen - efficiënter en kosteneffectiever maken met behulp van slimme technologie.",
+        "context_keywords": [
+            "planning",
+            "rooster",
+            "maritiem",
+            "loods",
+            "logistiek",
+            "scheepvaart",
+            "optimalisatie"
+        ]
+    },
+    {
+        "id": 406,
+        "title": "Commerciële Pitch voor een Nieuwe Rederij",
+        "prompt": "Je bent een ervaren sales director. Schrijf een overtuigende e-mail pitch voor een grote internationale rederij die overweegt onze haven aan te doen. Benadruk de unieke voordelen van onze loodsdiensten. Focus op: \n1. Betrouwbaarheid en veiligheid (noem bv. onze ervaren loodsen en lage incidentiecijfers). \n2. Efficiëntie (snelle doorstroom, kennis van de lokale wateren). \n3. Flexibiliteit en 24/7 service. \nDe toon moet professioneel, zelfverzekerd en klantgericht zijn. Sluit af met een duidelijke call-to-action voor een kennismakingsgesprek.",
+        "tags": [
+            "sales",
+            "commercieel",
+            "pitch",
+            "maritiem",
+            "klantacquisitie"
+        ],
+        "role": "Oprichter & mede-eigenaar",
+        "tasks": [
+            "Business development",
+            "Sales",
+            "Netwerken",
+            "Klantrelaties opbouwen"
+        ],
+        "use_case": "Een eigenaar wil proactief nieuwe grote klanten werven en heeft een sterke, professionele pitch nodig om de aandacht te trekken.",
+        "context_keywords": [
+            "sales pitch",
+            "rederij",
+            "acquisitie",
+            "loodsdiensten",
+            "maritiem",
+            "e-mail"
+        ]
+    },
+    {
+        "id": 407,
+        "title": "Analyse van Nieuwe Maritieme Wet- en Regelgeving",
+        "prompt": "Fungeer als een juridisch adviseur gespecialiseerd in maritiem recht. Er is een nieuwe IMO-richtlijn (International Maritime Organization) geïntroduceerd met betrekking tot [kies een relevant onderwerp, bv. 'uitstoot van schepen' of 'digitale communicatieprotocollen']. Analyseer de potentiële impact van deze nieuwe richtlijn op de operatie van een loodsbedrijf. Geef een samenvatting in 3 punten en adviseer over 3 concrete acties die we moeten ondernemen om compliant te zijn.",
+        "tags": [
+            "juridisch",
+            "compliance",
+            "risicomanagement",
+            "maritiem",
+            "wetgeving"
+        ],
+        "role": "Oprichter & mede-eigenaar",
+        "tasks": [
+            "Risicomanagement",
+            "Compliance waarborgen",
+            "Strategische aanpassingen doen"
+        ],
+        "use_case": "Een eigenaar moet ervoor zorgen dat het bedrijf voldoet aan de steeds veranderende internationale wetgeving om boetes en operationele problemen te voorkomen.",
+        "context_keywords": [
+            "wetgeving",
+            "imo",
+            "compliance",
+            "maritiem recht",
+            "risicoanalyse",
+            "loodsen"
+        ]
+    },
+    {
+        "id": 408,
+        "title": "Interne Memo over Investeringen in Nieuwe Technologie",
+        "prompt": "Je bent een change manager. Schrijf een interne memo aan alle medewerkers (loodsen en kantoorpersoneel) over een aanstaande investering in [specifieke technologie, bv. 'een nieuw planningssysteem met AI' of 'tablets met real-time data voor alle loodsen']. Leg de 'waarom' achter de investering uit, benadruk de voordelen voor hun dagelijks werk, en adresseer mogelijke zorgen over de verandering. De toon moet transparant, positief en geruststellend zijn.",
+        "tags": [
+            "interne communicatie",
+            "verandermanagement",
+            "technologie",
+            "leiderschap"
+        ],
+        "role": "Oprichter & mede-eigenaar",
+        "tasks": [
+            "Verandering leiden",
+            "Team informeren",
+            "Draagvlak creëren"
+        ],
+        "use_case": "Een eigenaar wil een technologische vernieuwing doorvoeren en moet dit op een effectieve manier communiceren om het team mee te krijgen.",
+        "context_keywords": [
+            "memo",
+            "interne communicatie",
+            "verandermanagement",
+            "technologie",
+            "implementatie"
+        ]
+    },
+    {
+        "id": 409,
+        "title": "Opstellen van een Business Continuïteitsplan",
+        "prompt": "Gedraag je als een expert in risicomanagement. Ontwikkel een concept voor een Business Continuïteitsplan (BCP) voor een loodsensociëteit. Focus op het scenario 'uitval van het centrale planningssysteem door een cyberaanval'. Beschrijf de volgende onderdelen: \n1. Activeringscriteria: Wanneer treedt dit plan in werking? \n2. Noodprocedures: Hoe schakelen we over op een handmatig of back-up systeem? \n3. Communicatieprotocol: Wie informeert de schepen, havenautoriteiten en medewerkers? \n4. Herstelfase: Stappen om het systeem weer veilig online te krijgen.",
+        "tags": [
+            "risicomanagement",
+            "cybersecurity",
+            "bedrijfscontinuïteit",
+            "operations"
+        ],
+        "role": "Oprichter & mede-eigenaar",
+        "tasks": [
+            "Risicobeheer",
+            "Crisismanagement",
+            "Operationele stabiliteit waarborgen"
+        ],
+        "use_case": "Een eigenaar wil de organisatie weerbaar maken tegen externe dreigingen zoals cyberaanvallen om de operationele continuïteit te garanderen.",
+        "context_keywords": [
+            "bcp",
+            "business continuity plan",
+            "cybersecurity",
+            "crisisplan",
+            "maritiem"
+        ]
+    },
+    {
+        "id": 410,
+        "title": "Opstellen van het Jaarlijkse ESG/Duurzaamheidsverslag",
+        "prompt": "Je bent een AI-assistent gespecialiseerd in ESG-rapportages (Environmental, Social, Governance). Help mij met het opstellen van de structuur en de kernelementen voor het jaarlijkse duurzaamheidsverslag van Landal/Roompot. Genereer een inhoudsopgave en schrijf voor elk hoofdstuk (bv. 'Introductie door de CEO', 'Onze CO2-reductie', 'Lokale gemeenschapsinitiatieven', 'Governance & Ethiek') een korte paragraaf met de belangrijkste boodschappen en welke (fictieve) KPI's we daarin kunnen presenteren.",
+        "tags": [
+            "esg",
+            "duurzaamheid",
+            "rapportage",
+            "communicatie",
+            "toerisme"
+        ],
+        "role": "Manager ESG",
+        "tasks": [
+            "Rapporteren",
+            "Strategie communiceren",
+            "Data presenteren"
+        ],
+        "use_case": "Een ESG Manager moet een professioneel en overtuigend jaarverslag opstellen dat de duurzaamheidsinspanningen van het bedrijf toont aan investeerders, gasten en andere stakeholders.",
+        "context_keywords": [
+            "esg rapport",
+            "duurzaamheidsverslag",
+            "gri",
+            "rapportage",
+            "landal",
+            "roompot",
+            "toerisme"
+        ]
+    },
+    {
+        "id": 411,
+        "title": "Ontwikkelen van een Plan om Waterverbruik op Parken te Verminderen",
+        "prompt": "Fungeer als een duurzaamheidsconsultant. Ontwikkel een actieplan om het waterverbruik op onze vakantieparken met 15% te verminderen in de komende 2 jaar. Het plan moet een mix van technische, gedrags- en communicatie-interventies bevatten. Denk aan: \n1. Technische oplossingen (bv. waterbesparende douchekoppen, slimme irrigatie). \n2. Communicatie naar gasten (bv. 'nudging' via stickers in badkamers, informatie in de welkomstmap). \n3. Training voor personeel (bv. schoonmaak- en groenonderhoudsteams). \nPresenteer dit als een overzichtelijke tabel met actie, doel, en geschatte impact.",
+        "tags": [
+            "duurzaamheid",
+            "esg",
+            "projectmanagement",
+            "watermanagement",
+            "operatie"
+        ],
+        "role": "Manager ESG",
+        "tasks": [
+            "Projecten ontwikkelen",
+            "Duurzaamheidsdoelen realiseren",
+            "Procesverbetering"
+        ],
+        "use_case": "Een ESG Manager wil een concreet en haalbaar projectplan opstellen om een belangrijke milieudoelstelling te behalen.",
+        "context_keywords": [
+            "waterreductie",
+            "duurzaamheid",
+            "actieplan",
+            "esg",
+            "vakantiepark",
+            "operatie"
+        ]
+    },
+    {
+        "id": 412,
+        "title": "Communicatiecampagne over Biodiversiteit voor Gasten",
+        "prompt": "Je bent een creatieve content marketeer. Ontwikkel een concept voor een communicatiecampagne genaamd 'Ontdek de Natuur om je Huisje' voor gasten op onze parken. Het doel is om gasten bewust te maken van de lokale biodiversiteit en onze inspanningen om deze te beschermen. Genereer ideeën voor: \n1. Content voor in de park-app (bv. een digitale 'natuur-speurtocht' voor kinderen). \n2. Fysieke communicatiemiddelen (bv. informatieborden bij insectenhotels of bloemenweides). \n3. Een social media campagne met een specifieke hashtag.",
+        "tags": [
+            "communicatie",
+            "marketing",
+            "duurzaamheid",
+            "biodiversiteit",
+            "esg",
+            "gastbeleving"
+        ],
+        "role": "Manager ESG",
+        "tasks": [
+            "Bewustwording creëren",
+            "Communicatiecampagnes opzetten",
+            "Gastbetrokkenheid vergroten"
+        ],
+        "use_case": "Een ESG Manager wil duurzaamheid niet alleen achter de schermen realiseren, maar het ook een zichtbaar en positief onderdeel maken van de gastervaring.",
+        "context_keywords": [
+            "campagne",
+            "biodiversiteit",
+            "gastcommunicatie",
+            "esg",
+            "marketing",
+            "vakantiepark"
+        ]
+    },
+    {
+        "id": 413,
+        "title": "Benchmarkanalyse van Concurrenten op ESG-gebied",
+        "prompt": "Je bent een marktonderzoeker. Voer een benchmarkanalyse uit van de ESG-prestaties van onze belangrijkste concurrenten in de recreatiesector (bv. Center Parcs, Molecaten, EuroParcs). Analyseer hun openbare duurzaamheidsverslagen en websites. Creëer een vergelijkingstabel op de volgende punten: \n1. Gecommuniceerde CO2-doelstellingen. \n2. Initiatieven op het gebied van circulariteit (afvalvermindering). \n3. Sociale projecten of partnerschappen. \nConcludeer met 2 aanbevelingen waar wij ons verder kunnen onderscheiden.",
+        "tags": [
+            "esg",
+            "benchmark",
+            "concurrentieanalyse",
+            "strategie",
+            "onderzoek"
+        ],
+        "role": "Manager ESG",
+        "tasks": [
+            "Marktonderzoek",
+            "Strategie bepalen",
+            "Concurrentie monitoren"
+        ],
+        "use_case": "Een ESG Manager wil weten hoe het bedrijf presteert ten opzichte van concurrenten om de eigen strategie aan te scherpen en voorop te blijven lopen.",
+        "context_keywords": [
+            "benchmark",
+            "concurrentie2",
+            "esg",
+            "duurzaamheid",
+            "strategie",
+            "analyse"
+        ]
+    },
+    [
+        {
+            "id": 414,
+            "title": "Opzetten van een Lokaal Inkoopprogramma ('Local Sourcing')",
+            "prompt": "Je bent een supply chain expert met focus op duurzaamheid. Ontwikkel een stappenplan voor het opzetten van een 'local sourcing' programma voor de restaurants en supermarkten op onze parken in Zeeland. Het doel is om 30% van onze F&B-producten in te kopen bij lokale boeren en producenten. Het stappenplan moet bevatten: \n1. Fase 1: Inventarisatie (identificeren van potentiële lokale partners). \n2. Fase 2: Selectie & Kwaliteitsborging (opstellen van criteria voor partners). \n3. Fase 3: Logistiek & Implementatie (hoe krijgen we de producten op de parken?). \n4. Fase 4: Marketing (hoe vertellen we dit verhaal aan onze gasten?).",
+            "tags": [
+                "supply chain",
+                "inkoop",
+                "duurzaamheid",
+                "lokaal",
+                "esg",
+                "projectmanagement"
+            ],
+            "role": "Manager ESG",
+            "tasks": [
+                "Projectmanagement",
+                "Supply chain optimaliseren",
+                "Stakeholdermanagement",
+                "Duurzaamheidsinitiatieven implementeren"
+            ],
+            "use_case": "Een ESG Manager wil een project lanceren dat zowel ecologische (minder transport) als sociale (steun aan lokale economie) voordelen heeft en de merkbeleving versterkt.",
+            "context_keywords": [
+                "local sourcing",
+                "inkoop",
+                "duurzaamheid",
+                "stappenplan",
+                "projectplan",
+                "zeeland"
+            ]
+        }
+    ]
 ]
