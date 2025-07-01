@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Instagram Post voor Productlancering",
+        "title": "Instagram Postm voor Productlancering",
         "prompt": "Schrijf een boeiende social media post voor Instagram over onze nieuwe productlancering. Focus op de voordelen voor de klant en gebruik relevante hashtags.",
         "tags": [
             "Marketing",
@@ -2613,71 +2613,69 @@
         "context_keywords": []
     },
     {
-  "id": 500,
-  "title": "Ontwikkelen van een Training voor Basis Computervaardigheden",
-  "prompt": "Fungeer als een IT-trainer. Ik moet een interactieve training van 2 uur ontwikkelen voor volwassenen die de basis computervaardigheden willen leren. Het doel is om hen in staat te stellen zelfstandig te werken met een computer en basis toepassingen. Schrijf een trainingsplan met: \n1. Een overzicht van de leerdoelen. \n2. Een agenda voor de training. \n3. Praktische oefeningen en voorbeelden. \n4. Tips voor de docent.",
-  "tags": [
-    "IT-training",
-    "basis computervaardigheden",
-    "volwassenenonderwijs"
-  ],
-  "role": "IT-trainer",
-  "tasks": [
-    "Training ontwikkelen",
-    "Lesmateriaal maken",
-    "Doceren"
-  ],
-  "use_case": "Een IT-trainer wil een effectieve training bieden voor volwassenen die basis computervaardigheden willen leren.",
-  "context_keywords": [
-    "IT-training",
-    "computervaardigheden",
-    "volwassenenonderwijs"
-  ]
-},
-
-{
-  "id": 501,
-  "title": "Implementatie van een Nieuw Projectmanagement Tool",
-  "prompt": "Fungeer als een IT-trainer. Mijn bedrijf wil een nieuw projectmanagement tool implementeren. Ik moet een trainingssessie van 1 dag ontwikkelen om de medewerkers te trainen in het gebruik van deze tool. Schrijf een trainingsplan met: \n1. Een overzicht van de functionaliteiten van de tool. \n2. Praktische oefeningen voor de medewerkers. \n3. Tips voor het gebruik van de tool in de dagelijkse praktijk.",
-  "tags": [
-    "projectmanagement",
-    "toolimplementatie",
-    "training"
-  ],
-  "role": "IT-trainer",
-  "tasks": [
-    "Training ontwikkelen",
-    "Toolimplementatie",
-    "Ondersteuning bieden"
-  ],
-  "use_case": "Een IT-trainer moet medewerkers trainen in het gebruik van een nieuw projectmanagement tool.",
-  "context_keywords": [
-    "projectmanagement",
-    "toolimplementatie",
-    "training"
-  ]
-}
-
-{
-  "id": 502,
-  "title": "Cyberbeveiliging voor Kleine Bedrijven",
-  "prompt": "Fungeer als een IT-trainer. Ik moet een workshop van 3 uur ontwikkelen over cyberbeveiliging voor kleine bedrijven. Het doel is om de deelnemers bewust te maken van de risico's en hen praktische tips te geven om hun bedrijf te beschermen. Schrijf een workshopplan met: \n1. Een overzicht van de belangrijkste risico's. \n2. Praktische voorbeelden van cyberaanvallen. \n3. Tips voor het beschermen van het bedrijf.",
-  "tags": [
-    "cyberbeveiliging",
-    "kleine bedrijven",
-    "risicomanagement"
-  ],
-  "role": "IT-trainer",
-  "tasks": [
-    "Workshop ontwikkelen",
-    "Deelnemers informeren",
-    "Veiligheid bevorderen"
-  ],
-  "use_case": "Een IT-trainer wil kleine bedrijven informeren over cyberbeveiliging en hen praktische tips geven.",
-  "context_keywords": [
-    "cyberbeveiliging",
-    "kleine bedrijven",
-    "risicomanagement"
-  ]
+        "id": 500,
+        "title": "Ontwikkelen van een Training voor Basis Computervaardigheden",
+        "prompt": "Fungeer als een IT-trainer. Ik moet een interactieve training van 2 uur ontwikkelen voor volwassenen die de basis computervaardigheden willen leren. Het doel is om hen in staat te stellen zelfstandig te werken met een computer en basis toepassingen. Schrijf een trainingsplan met: \n1. Een overzicht van de leerdoelen. \n2. Een agenda voor de training. \n3. Praktische oefeningen en voorbeelden. \n4. Tips voor de docent.",
+        "tags": [
+            "IT-training",
+            "basis computervaardigheden",
+            "volwassenenonderwijs"
+        ],
+        "role": "IT-trainer",
+        "tasks": [
+            "Training ontwikkelen",
+            "Lesmateriaal maken",
+            "Doceren"
+        ],
+        "use_case": "Een IT-trainer wil een effectieve training bieden voor volwassenen die basis computervaardigheden willen leren.",
+        "context_keywords": [
+            "IT-training",
+            "computervaardigheden",
+            "volwassenenonderwijs"
+        ]
+    },
+    {
+        "id": 501,
+        "title": "Implementatie van een Nieuw Projectmanagement Tool",
+        "prompt": "Fungeer als een IT-trainer. Mijn bedrijf wil een nieuw projectmanagement tool implementeren. Ik moet een trainingssessie van 1 dag ontwikkelen om de medewerkers te trainen in het gebruik van deze tool. Schrijf een trainingsplan met: \n1. Een overzicht van de functionaliteiten van de tool. \n2. Praktische oefeningen voor de medewerkers. \n3. Tips voor het gebruik van de tool in de dagelijkse praktijk.",
+        "tags": [
+            "projectmanagement",
+            "toolimplementatie",
+            "training"
+        ],
+        "role": "IT-trainer",
+        "tasks": [
+            "Training ontwikkelen",
+            "Toolimplementatie",
+            "Ondersteuning bieden"
+        ],
+        "use_case": "Een IT-trainer moet medewerkers trainen in het gebruik van een nieuw projectmanagement tool.",
+        "context_keywords": [
+            "projectmanagement",
+            "toolimplementatie",
+            "training"
+        ]
+    },
+    {
+        "id": 502,
+        "title": "Cyberbeveiliging voor Kleine Bedrijven",
+        "prompt": "Fungeer als een IT-trainer. Ik moet een workshop van 3 uur ontwikkelen over cyberbeveiliging voor kleine bedrijven. Het doel is om de deelnemers bewust te maken van de risico's en hen praktische tips te geven om hun bedrijf te beschermen. Schrijf een workshopplan met: \n1. Een overzicht van de belangrijkste risico's. \n2. Praktische voorbeelden van cyberaanvallen. \n3. Tips voor het beschermen van het bedrijf.",
+        "tags": [
+            "cyberbeveiliging",
+            "kleine bedrijven",
+            "risicomanagement"
+        ],
+        "role": "IT-trainer",
+        "tasks": [
+            "Workshop ontwikkelen",
+            "Deelnemers informeren",
+            "Veiligheid bevorderen"
+        ],
+        "use_case": "Een IT-trainer wil kleine bedrijven informeren over cyberbeveiliging en hen praktische tips geven.",
+        "context_keywords": [
+            "cyberbeveiliging",
+            "kleine bedrijven",
+            "risicomanagement"
+        ]
     }
 ]
